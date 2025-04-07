@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat de Questionário com Áudio</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    :root {
+      --primary-color: #007bff;
+      --recording-color: #dc3545;
+      --paused-color: #ffc107;
+      --user-bubble: #007bff;
+      --bot-bubble: #E8E8E8;
+      --text-light: #ffffff;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      height: 100vh;
+      font-size: 18px;
+    }
+
+    .chat-container {
+      width: 100%;
+      max-width: 800px;
+      height: 95vh;
+      margin: 0 auto;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    }
+
+    #answeredQuestions {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      background: #f5f5f5;
+    }
+
+    .chat-bubble {
+      max-width: 70%;
+      padding: 15px 20px;
+      border-radius: 20px;
+      position: relative;
+      word-break: break-word;
+      animation: fadeIn 0.3s ease-in;
+      margin: 10px 0;
+      font-size: 1.1em;
+      line-height: 1.4;
+    }
+
+    .question-bubble {
+      background: var(--bot-bubble);
+      align-self: flex-start;
+      border-bottom-left-radius: 5px;
+    }
+
+    .answer-bubble {
+      background: var(--user-bubble);
+      color: var(--text-light);
+      align-self: flex-end;
+      border-bottom-right-radius: 5px;
+    }
+
+    .audio-answer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 12px;
+      gap: 10px;
+    }
+
+    .audio-player {
+      width: 100%;
+      max-width: 280px;
+    }
+    
+    .download-link {
+      text-decoration: none;
+      color: var(--text-light);
+      background: rgba(0,0,0,0.2);
+      padding: 5px 10px;
+      border-radius: 5px;
+      font-size: 0.9em;
+    }
+
+    #currentQuestionContainer {
+      padding: 25px 20px;
+      background: #fff;
+      border-top: 1px solid #eee;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #question {
+      font-size: 1.2em;
+      color: #333;
+      margin-bottom: 20px;
+      padding: 15px 20px;
+      background: var(--bot-bubble);
+      border-radius: 20px;
+      display: inline-block;
+      max-width: 80%;
+      align-self: flex-start;
+      line-height: 1.5;
+    }
+
+    .controls-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+      width: 100%;
+    }
+
+    #recordButton {
+      width: 70px;
+      height: 70px;
+      border: none;
+      border-radius: 50%;
+      background: var(--primary-color);
+      color: white;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      margin: 10px 0;
+    }
+
+    #recordButton.recording {
+      background: var(--recording-color);
+      transform: scale(1.1);
+      animation: pulse 1.5s infinite;
+    }
+
+    #recordButton.paused {
+      background: var(--paused-color);
+    }
+
+    #timer {
+      font-size: 1.1em;
+      color: #666;
+      font-weight: 500;
+      margin: 5px 0;
+    }
+
+    .progress-container {
+      width: 80%;
+      height: 6px;
+      background: #e0e0e0;
+      border-radius: 5px;
+      margin: 15px auto;
+      overflow: hidden;
+    }
+
+    #progressBar {
+      height: 100%;
+      width: 0%;
+      background: var(--primary-color);
+      transition: width 0.1s linear;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.15); }
+      100% { transform: scale(1); }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 768px) {
+      body {
+        font-size: 16px;
+      }
+
+      .chat-container {
+        height: 100vh;
+        max-width: 100%;
+      }
+
+      .chat-bubble {
+        max-width: 85%;
+      }
+
+      #currentQuestionContainer {
+        padding: 15px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: white;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+      }
+
+      #question {
+        max-width: 90%;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <div id="answeredQuestions">
+      <!-- As perguntas e respostas serão adicionadas dinamicamente aqui -->
+    </div>
+    <div id="currentQuestionContainer">
+      <div id="question"></div>
+      <div class="controls-container">
+        <button id="recordButton">
+          <i class="fas fa-microphone"></i>
+        </button>
+        <span id="timer">0:00</span>
+        <div id="clipContainer"></div>
+      </div>
+      <div class="progress-container">
+        <div id="progressBar"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
