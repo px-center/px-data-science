@@ -1,0 +1,801 @@
+,feature,importance,Unnamed: 4_x
+0,A01501,10.0,Para onde vai o esgoto do banheiro? Ou Para onde vai o esgoto do sanitário ou do buraco para dejeções?
+1,A005010,9.028205623853912,Qual é a principal forma de abastecimento de água deste domicílio
+2,A00601,6.9535192103834245, A água utilizada neste domicílio chega
+3,C009,6.7564219347192385,Cor ou raça
+4,D00301,6.649179573058307,Qual é o curso que frequenta
+5,A018015,6.17262200186301,Neste domicílio existe máquina de lavar roupa 
+6,A009010,5.796883641312556, A água utilizada para beber neste domicílio é
+7,A01403,5.370689126915965,"Utiliza sanitário ou buraco para dejeções, inclusive os localizados no terreno ou na propriedade (cercado por paredes de qualquer material"
+8,A011,5.358152773803333,Quantos cômodos estão servindo permanentemente de dormitório para os moradores deste domicílio
+9,J001,5.348331351038361,"De um modo geral, como é o estado de saúde de________"
+10,C016,5.287238857166639,Foi realizada cerimônia religiosa para esta união? 
+11,P015,5.261856674990647,Em quantos dias da semana o(a) Sr(a) costuma comer peixe? 
+12,VDF001,5.2415668131432325,"Em (mês da pesquisa), _______ recebia normalmente algum juro de caderneta de poupança e de outras aplicações financeiras, dividendos, programas sociais, seguro-desemprego, seguro defeso ou outros rendimentos? "
+13,E027,5.217894574674579,Informante do Módulo E
+14,V00204,5.135466718276126,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?"
+15,A001,5.084036704956741,Tipo do domicílio
+16,VDD004A,5.081492258277647,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) padronizado para o Ensino Fundamental -  SISTEMA DE 9 ANOS
+17,E01201,5.024640208745135,Qual era a ocupação (cargo ou função) que ___ tinha nesse trabalho
+18,E001,4.946458802440569,"Na semana de___ a___ (semana de referência), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em dinheiro"
+19,A016010,4.9391959680951505,Qual o (principal) destino dado ao lixo
+20,U014,4.910817787759366,Como o(s) Sr(a) conseguiu a consulta odontológica:
+21,A018013,4.863879629328763,Neste domicílio existe geladeira 
+22,A018023,4.8548876477803,"Neste domicílio existe computador (considere inclusive os portáteis, tais como: laptop, notebook ou netbook)?  "
+23,A018019,4.842226768662819,Neste domicílio existe telefone móvel celular 
+24,J05404,4.839871963294851,Qual tratamento _________ fez uso plantas medicinais e fitoterapia
+25,F008021,4.831998935013157,Valor habitualmente recebido
+26,O00801,4.807619159139401,Com que frequência o(a) Sr(a) usa capacete quando anda como passageiro de motocicleta
+27,C01001,4.805581146463301,Cônjuge ou companheiro(a) mora em nesse domicílio.
+28,Q017,4.805154454455053,"Na última consulta, o médico viu os exames das consultas passadas? "
+29,E002,4.801049001229442,"Na semana de ___a___ (semana de referência), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em produtos, mercadorias, moradia, alimentação, treinamento ou aprendizado etc"
+30,E033,4.784456909836291,". Na semana de___a___ (semana de referência), ___ qual foi o total de horas que dedicou às atividades de cuidados de pessoas e/ou afazeres domésticos? "
+31,P00613,4.76777234854229,"Amendoim, castanha de caju ou castanha do Brasil/Pará "
+32,D001,4.761566421485756,Sabe ler e escrever
+33,D006,4.756013199769912,Qual é o ano/semestre/série que ___frequenta?
+34,P00617,4.753614461912129,Salgadinho de pacote ou biscoito/bolacha salgado.
+35,E026,4.752419238650719,Se tivesse conseguido um trabalho ___ poderia ter começado a trabalhar na semana de___ a ___ (semana de referência)
+36,P00402,4.738385529997515,O(A) Sr(a) sabe sua altura? (mesmo que seja valor aproximado) 
+37,O00101,4.736703254389251," Atualmente, o(a) Sr(a) dirige automóvel (inclusive táxi, aplicativos de transporte e similares)"
+38,E01401,4.734106368176915,"Nesse trabalho, ___ era"
+39,N016,4.7139201936208295,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?"
+40,P00612,4.706676952330663,Leite
+41,P055,4.697345517568007,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez? 
+42,J05403,4.695935423462796,Qual tratamento _________ fez uso Homeopatia
+43,H007,4.692137044819534,"“Esse(a)"" é o(a) médico(a) mais responsável por seu atendimento de saúde?"
+44,J00404,4.691876224341981,Este motivo de saúde estava relacionado ao trabalho
+45,C00702,4.687297951937072,Mês de nascimento
+46,N001,4.68058205445158,"Em geral, como o(a) Sr(a) avalia a sua saúde"
+47,C014,4.677130522241535,Qual é a natureza dessa união? 
+48,U00206,4.676979791739948,O que o(a) Sr(a) usa para fazer a limpeza de sua boca Fio dental
+49,M01501,4.671635633371841, Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes
+50,E01403,4.670866047915101,"Nesse trabalho, ___tinha carteira de trabalho assinada"
+51,U00101,4.668146186780142,Com que frequência o(a) Sr(a) usa escova de dentes para a higiene bucal
+52,Q11006,4.662017202893992,"Algum médico ou profissional de saúde (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? "
+53,H011,4.6618912868270455,"Quando você vai ao(à) ""serviço de saúde"", é o(a) mesmo(a) médico(a) que atende você todas as vezes? "
+54,P040,4.659865682031867,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta? "
+55,Q044,4.658914576207504,"Na última consulta, o médico que o(a) atendeu era o mesmo das consultas anteriores? "
+56,Q12104,4.656156843165343,Diagnóstico de outro câncer? Pulmão
+57,P04502,4.6532961837727544,"Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notícias, vídeos, jogar etc? "
+58,J056,4.649814377485903,___ pagou algum valor por este(s) tratamento(s) 
+59,M005010,4.642363522093919,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã"
+60,A01402,4.6423326515782195,"Quantos banheiros (com chuveiro ou banheira e vaso sanitário ou privada) de uso comum a mais de um domicilio, existem neste terreno ou propriedade"
+61,P038,4.6324008949885345,"No seu trabalho, o(a) Sr(a) anda bastante a pé? "
+62,C008,4.6265121828293,Idade do morador na data de referência
+63,P04102,4.625161602292812,"Quanto tempo o(a) Sr(a) gasta, por dia, para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?Minutos"
+64,M01001,4.623838977012149,"Nos últimos 30 dias, alguém fumou no mesmo ambiente fechado onde o(a) Sr(a) trabalhava (todos os trabalhos)"
+65,Y00101,4.620355515061317,Idade do morador quando teve relações sexuais pela primeira vez
+66,H016,4.618335023458483,"“Esse(a) médico(a)"" sugeriu (indicou, encaminhou) que você fosse consultar com esse(a) especialista ou serviço especializado? "
+67,O00401,4.616617768869108,"Com que frequência o(a) Sr(a) usa cinto de segurança quando dirige automóvel (inclusive táxi, aplicativos de transporte e similares)?"
+68,P036,4.6161485599898375,Qual o exercício físico ou esporte que o(a) Sr(a) pratica (praticava) com mais frequência? (Anotar apenas o primeiro citado) 
+69,Q07707,4.615675282501622,O(A) Sr(a) pagou algum valor pelos medicamentos orais para asma? 
+70,E005,4.615429904568368,"Na semana de ___ a ___ (semana de referência), ___ tinha algum trabalho remunerado do qual estava temporariamente afastado"
+71,H025,4.61449361244833,Orientações sobre exercícios físicos apropriados para você
+72,P07006,4.613053901744274,Viu ou ouviu informações no rádio?
+73,N00101,4.611770315659531,"Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como você avalia o seu estado de saúde? "
+74,P05404,4.608257077378483,"Em média, quanto fuma por dia ou por semana Cigarros de palha ou enrolados a mão? "
+75,U02001,4.6082113392996265,"O (A) Sr (a) pagou algum valor por esta consulta odontológica (Entrevistador: Se o(a) entrevistado (a) responder que pagou, mas teve reembolso total, marque a opção 2)"
+76,D015,4.607757523326156,Informante do Módulo D
+77,Q03302,4.607374038225782,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente para acompanhamento do diabetes? 
+78,H022,4.605141389626283,Aconselhamento sobre como parar de fumar
+79,Q083,4.603354197482409,"Em geral, em que grau a artrite ou reumatismo limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? "
+80,M009,4.603211904326009,O(a) Sr(a) normalmente trabalha(va) em ambientes
+81,A018025,4.601816250016827,Neste domicílio existe motocicleta
+82,Q098,4.601444224219505,Algum dos medicamentos para depressão foi obtido em serviço público de saúde? 
+83,J046,4.59976264495027,"Nos últimos 12 meses, ___ teve atendimento de urgência ou emergência no domicílio"
+84,E03105,4.5945211865579685,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Cuidar da organização do domicílio (pagar contas, contratar serviços, orientar empregados etc.)? "
+85,P053,4.594018932992672,Que idade o(a) Sr(a) tinha quando começou a fumar cigarro diariamente? 
+86,Q06211,4.593089196158987,Recomendação para não fumar
+87,P00616,4.592362452510711, Bebida achocolatada ou iogurte com sabor. 
+88,Q046017,4.591845529998972,"Evitar o consumo de açúcar, bebidas açucaradas e doces"
+89,Q046013,4.591497357383258,Praticar atividade física regular
+90,Q03001,4.591375343472913,Algum médico já lhe deu o diagnóstico de diabetes? 
+91,F001011,4.58852335818507,"Em (mês da pesquisa) ___ recebia normalmente rendimento de aposentadoria ou pensão de instituto de previdência federal (INSS), estadual, municipal, ou do governo federal, estadual, municipal?"
+92,E006011,4.585782932346774,"Na semana de ___ a ___ (semana de referência), por que motivo ___ estava afastado desse trabalho"
+93,V00203,4.583430445989966,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento? "
+94,M01401,4.577208101427091,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins
+95,P02102,4.573408207503634,Que tipo de refrigerante o(a) Sr(a) costuma tomar? 
+96,M00303,4.573167026509061,"Normalmente, quantos dias na semana o(a) Sr(a) se desloca(va) de casa para o(s) trabalho(s)"
+97,P04405,4.572735960099693,"Quanto tempo gasta, por dia, realizando essas atividades domésticas pesadas ou que requerem esforço físico intenso? (não considerar atividade doméstica remunerada) Horas "
+98,P006,4.5713811924025105,Em quantos dias da semana o(a) Sr(a) costuma comer feijão? 
+99,Q03201,4.570985620156531,O(A) Sr(a) vai ao médico/serviço de saúde regularmente para acompanhamento do diabetes? 
+100,N013,4.57020141700027,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? "
+101,D008,4.569123381621699,Anteriormente ___frequentou escola ou creche
+102,C018,4.5658132442720545,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?  
+103,Q05301,4.565170754749033,Quando foi a última vez que realizaram um exame de vista ou fundo de olho em que dilataram sua pupila? 
+104,P00618,4.564867802051791,Biscoito/bolacha doce ou recheado ou bolo de pacote. 
+105,Q060,4.555058821867146,Algum médico já lhe deu o diagnóstico de colesterol alto? 
+106,P02101,4.55391546913226,Que tipo de suco de caixinha/lata ou refresco em pó o(a) Sr(a) costuma tomar? (Ler as opções de resposta) 
+107,Q018011,4.5538468151178835,Manter o peso adequado
+108,H005,4.552992276006321,"Você geralmente procura “esse(a) médico(a)"" quando adoece ou precisa de conselhos sobre a sua saúde?"
+109,E02805,4.5527259258565635,"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Transportar ou acompanhar para escola, médico, exames, parque, praça, atividades sociais, culturais, esportivas ou religiosas"
+110,H012,4.551962151219958,Você se sente à vontade contando as suas preocupações ou problemas à “esse(a) médico(a)”?
+111,A018022,4.550825737838061,Quantos?
+112,Q10701,4.550600690850975,O(A) Sr(a) conseguiu ir às consultas com profissional especialista de saúde mental? 
+113,P060,4.550447703079335,"Durante os últimos doze meses, o(a) Sr(a) tentou parar de fumar? "
+114,N015,4.5500610420679015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?"
+115,Q07704,4.549289986599417,. Nas duas últimas semanas o(a) Sr(a) usou os medicamentos orais por causa da asma (ou bronquite asmática) ?
+116,Q05901,4.548463767078329,Quando foi a última vez que o(a) Sr(a) fez exame de sangue para medir o colesterol e triglicerídeos? 
+117,Q087,4.547939331859088,"Em geral, em que grau o problema na coluna limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? "
+118,Q03601,4.547663125635738,Algum dos medicamentos orais para diabetes foi obtido no “Aqui tem Farmácia Popular”? 
+119,P018,4.539152810394922,Em quantos dias da semana o(a) Sr(a) costuma comer frutas? 
+120,Q00202,4.538997462839158,Essa hipertensão arterial (pressão alta) ocorreu apenas durante algum período de gravidez? 
+121,V02802,4.5375501257476465,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?"
+122,Q12501,4.535954105026959,"O Sr(a) fez transplante de rim, por causa da insuficiência renal crônica? "
+123,O01501,4.535605406714548,"Para este acidente de trânsito, o(a) Sr(a) recebeu algum tipo de atendimento de saúde?
+"
+124,J00101,4.529913749424403,"Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como é o estado de saúde de _____________? "
+125,P052,4.529157181357161,"E no passado, o(a) Sr(a) fumou algum produto do tabaco? "
+126,V007,4.528358380627883,Onde isso ocorreu?
+127,P03301,4.524822318538428,"Nos últimos doze meses, quantas vezes o(a) Sr(a) deixou de trabalhar, realizar afazeres domésticos, ir à escola, curso ou faculdade, fazer compras, etc. porque bebeu demais? "
+128,J042,4.524558519678067,A última internação de ___ nos últimos 12 meses foi coberta por algum plano de saúde
+129,P07201,4.52443369355806,"NOS ÚLTIMOS 30 DIAS, as advertências nos maços de cigarro que o(a) Sr(a) viu o levaram a pensar em parar de fumar? "
+130,J05405,4.524065249853717,Qual tratamento _________ fez uso auriculoterapia
+131,P03906,4.522917458490125,"Em um dia normal, quanto tempo o(a) Sr(a) passa andando bastante a pé ou realizando atividades essas atividades pesadas ou que requerem esforço físico no seu trabalho? Minutos"
+132,I004,4.521440631365297,"O plano de saúde médico (único ou principal) que _____ possui é de instituição de assistência de servidor público (municipal, estadual ou militar)? "
+133,U02402,4.5209731903854165,"Lembrando-se dos seus dentes permanentes de baixo, o(a) Sr(a) perdeu algum"
+134,Q03801,4.520969710873276,O(A) Sr(a) pagou algum valor pelos medicamentos orais para diabetes? 
+135,Q06601,4.519453315220192,O(A) Sr(a) já fez alguma cirurgia de ponte de safena ou cateterismo com colocação de stent ou angioplastia?
+136,P00620,4.516079776366092,"Salsicha, linguiça, mortadela ou presunto. "
+137,P03303,4.514478020384635,"Nos últimos doze meses, algum parente, amigo ou profissional de saúde disse que você estava bebendo demais ou para você parar de beber? "
+138,M01701,4.510888745542413,"Nos últimos doze meses, com que frequência o(a) Sr(a) participou de reuniões de grupos como associações de moradores ou funcionários, movimentos sociais/comunitários, centros acadêmicos ou similares"
+139,Q06507,4.510687228409935,Faz atualmente por causa da doença do coração: prática de atividade física regular?
+140,H008,4.510286041937368,"Quando você tem um novo problema de saúde, você vai à “esse(a) médico(a)"" antes de ir a outro serviço de saúde?"
+141,VDP001,4.50920107706472,Tipo de cigarro industrializado comprado
+142,V034,4.508829715322688,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato"
+143,A018027,4.50836327997612,Neste domicílio existe automóvel
+144,N00701,4.507765620646124,"Quando o(a) Sr(a) para, o que acontece com a dor ou desconforto no peito"
+145,J026,4.5069254176875875,O atendimento de ___ foi feito pelo SUS
+146,I00404,4.503624952693451,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos
+147,J05407,4.503360646403603,Qual tratamento _________ fez uso Yoga
+148,Q047071,4.502827481201658,Realizou o exame?
+149,C001,4.501899821458465,Número de pessoas no domicílio
+150,Q00503,4.501477671861524,Algum médico já lhe receitou algum medicamento para a hipertensão arterial (pressão alta)? 
+151,Q10202,4.5007166106107706,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido? "
+152,P034,4.500228192247207,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? "
+153,H014,4.500085179212185,"Se fosse muito fácil, você mudaria do(a) “serviço de saúde” para outro serviço de saúde?"
+154,V001,4.499820127383838,Foi assegurada a privacidade para aplicação desse módulo
+155,A02101,4.4985273778904515,"No seu domicílio, há trabalhador (as) doméstico(as) que trabalham em seu domicílio três vezes ou mais por semana (empregada doméstica, babá, cuidador etc.)"
+156,A02306,4.498334546558672,Quantos destes animais são cachorros
+157,Q050,4.4979177402391946,"Em algum dos atendimentos para diabetes, houve encaminhamento para alguma consulta com médico especialista, tal como cardiologista, endocrinologista, nefrologista ou oftalmologista? "
+158,W00103,4.497647909626407,"Peso - Final (em kg)
+(3 inteiros e 1 casa decimal)"
+159,P03001,4.4951998744808765,"Nos últimos doze meses, quando consumiu bebida alcoólica, o(a) Sr(a) dirigiu logo depois de beber? "
+160,P05902,4.493691596667752,Número de meses que parou de fumar
+161,Q010,4.493123394233556,O(A) Sr(a) pagou algum valor pelos medicamentos? 
+162,Q058,4.488335388008123,"Em geral, em que grau o diabetes ou alguma complicação do diabetes limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+163,C00701,4.488116878100873,Dia de nascimento
+164,Y004,4.488100622830588,"Nos últimos doze meses na última relação sexual que teve, foi usada camisinha masculina ou feminina? "
+165,P02401,4.487604995303957,Que tipo de leite o(a) Sr(a) costuma tomar? 
+166,N014,4.487584068082775,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?"
+167,A018024,4.486300000285073,Quantos?
+168,Q02901,4.485531246980805,"Quando foi a última vez que o(a) Sr(a) fez exame de sangue para medir a glicemia, isto é, o açúcar no sangue? "
+169,J05402,4.48465615395345,Qual tratamento _________ fez uso Acupuntura
+170,V01405,4.483045507535646,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?"
+171,Q026,4.482785564679309,Alguma vez o(a) Sr(a) se internou por causa da hipertensão ou de alguma complicação? 
+172,M005011,4.480780787575417,"Quantas horas trabalha(va) por dia, habitualmente, no período de 8 horas da noite e 5 horas da manhã"
+173,Q019131,4.479557250088982,Realizou o teste de esforço?
+174,M011021,4.477436821702619,"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição a ruído (barulho intenso) "
+175,Q04707,4.477366097893304,Foi pedido Glicemia (açúcar no sangue) ?
+176,Q068,4.477297199437389,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?
+177,P07004,4.477205896728146,Viu ou ouviu informações nos jornais ou revistas?
+178,Q03404,4.476506196854688,Qual o principal motivo de ___ não ter tomado todos os medicamentos orais receitados para controlar o diabetes? 
+179,V03502,4.4754326585582795,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas? "
+180,H020,4.474442568857559,"Se quisesse, você poderia ler (consultar) o seu prontuário médico no(a) ""serviço de saúde""?"
+181,Q085,4.473877151951446,Que idade o(a) Sr(a) tinha quando começou o problema na coluna? 
+182,Q01910,4.472624052459411,Foi pedido exame de sangue?
+183,W00202,4.472130992982122,"Altura - 2ª medição (em cm)
+(3 inteiros e 1 casa decimal)"
+184,U02101,4.471106076843333, Esta consulta odontológica foi feita pelo SUS
+185,V00101,4.470462976725292,O questionário foi preenchido por:
+186,H006,4.469960598174563,"“Esse(a)"" é o(a) médico(a) que melhor conhece você como pessoa?"
+187,C013,4.469112804523377,Cônjuge ou companheiro(a) mora em outro domicílio.
+188,Q03701,4.466948639888713,Algum dos medicamentos orais para diabetes foi obtido em serviço público de saúde? 
+189,Q119,4.466009518360036,"Em geral, em que grau a doença do pulmão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+190,U00208,4.465751314759036,O que o(a) Sr(a) usa para fazer a limpeza de sua boca Outros
+191,E003,4.464364607806093,"Na semana de ___ a ___ (semana de referência), ___ fez algum bico ou trabalhou em alguma atividade ocasional remunerada durante pelo menos 1 hora"
+192,Q046019,4.462356398631396,Examinar os pés regularmente
+193,V01403,4.461982955260899,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?"
+194,Q11007,4.461580411311426,Diagnóstico de Esquizofrenia 
+195,Q05401,4.460785537304091,Quando foi a última vez que um médico ou profissional de saúde examinou seus pés para verificar sensibilidade ou presença de feridas ou irritações? 
+196,P029,4.460244312578066,"Em geral, no dia que o(a) Sr(a) bebe, quantas doses de bebida alcoólica o(a) Sr(a) consome? "
+197,J051,4.459629712126877,"Neste atendimento, ___ foi transportado por ambulância para um serviço de saúde"
+198,U00207,4.459305819118537,"O que o(a) Sr(a) usa para fazer a limpeza de sua boca Enxaguatório bucal (como plax, colgate, cepacol)"
+199,U02303,4.457379479369618,Quantos dentes permanentes de cima perdeu?
+200,Q11407,4.456636943364714,"Por causa da doença mental Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar "
+201,Q080,4.456497006605651,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de artrite ou reumatismo?
+202,Q12102,4.454998552491339,Foi um diagnóstico de câncer de pele? 
+203,Q07705,4.454796237476882,Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? 
+204,U00902,4.454268209739264,Qual o principal motivo que o(a) fez consultar o dentista na última vez
+205,F007011,4.4537771692550905,"Em (mês da pesquisa), ___ recebia normalmente rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio?"
+206,P051,4.452203113634195,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente? "
+207,C010010,4.451780813760161,Número de ordem do cônjuge ou companheiro(a)
+208,Q12607,4.448589272307048,Toma medicamentos por causa da insuficiência renal crônica?
+209,E02601,4.448501705925198,"No período de ___ a ___ (período de referência de 358 dias), ___ trabalhou, por pelo menos 1 hora?"
+210,Q128,4.447299347030843,Algum médico já lhe deu algum diagnóstico de outra doença crônica (física ou mental) ou doença de longa duração (de mais de 6 meses de duração)? 
+211,C00703,4.446466488027118,Ano de nascimento
+212,VDE002,4.445180392014688,Condição de ocupação na semana de referência para pessoas de 14 anos ou mais de idade
+213,J00402,4.445132494301987, Qual foi o principal motivo de saúde que impediu ___ de realizar suas atividades habituais nas duas últimas semanas 
+214,P035,4.444611915859623,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?
+215,Q121015,4.443665228499022,Diagnóstico de outro câncer? Tireoide
+216,J05301,4.443505088146335,"Nos últimos doze meses, ___ utilizou tratamento como acupuntura, homeopatia, plantas medicinais e fitoterapia, meditação, yoga, tai chi chuan, lian gong ou outra prática integrativa e complementar a saúde?"
+217,Q08607,4.442067124498961,Pratica exercício regularmente por causa do problema na coluna
+218,J023,4.441875590835107, Este serviço de saúde onde___ foi atendido era:
+219,Q11604,4.441466473704334,"Algum médico já lhe deu o diagnóstico de alguma outra doença crônica no pulmão, tais como enfisema pulmonar, bronquite crônica ou DPOC (Doença Pulmonar Obstrutiva Crônica)?"
+220,N006,4.440941734090929, O que o(a) Sr(a) faz se sente dor ou desconforto no peito
+221,P042,4.4403793710764115,"Nas suas atividades habituais (tais como ir a algum curso, escola ou clube ou levar alguém a algum curso, escola ou clube), quantos dias por semana o(a) Sr(a) faz alguma atividade que envolva deslocamento a pé ou bicicleta? (Exceto o trabalho)"
+222,Q12609,4.440193785371312,Diálise peritoneal por causa da insuficiência renal crônica?
+223,V036,4.4392112181924945,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde"
+224,J03001,4.438827186502137, __conseguiu obter os medicamentos receitados? (Leia as opções de resposta)
+225,Q06509,4.4382112921602825,Faz atualmente por causa da doença do coração acompanhamento regular?
+226,P05403,4.438103386251998,Quantos por semana
+227,J037,4.437880397418523,"Nos últimos 12 meses, ___ ficou internado(a) em hospital por 24 horas ou mais"
+228,P03702,4.437598022939402,"Em geral, no dia que o(a) Sr(a) pratica (praticava) exercício ou esporte, quanto tempo em minutos dura essa atividade?Minutos "
+229,Q084,4.437337936462206,"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? "
+230,U00401,4.436923240386923, Com que frequência o(a) Sr(a) troca a sua escova de dente por uma nova
+231,Q03807,4.436586078585815,O(A) Sr(a) pagou pela insulina para controlar o diabetes? 
+232,P00104,4.435275099512784,"Peso - Final (em kg)
+(3 inteiros e 1 casa decimal)"
+233,P050,4.43378607876084,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco? "
+234,P04406,4.432212079728036,"Quanto tempo gasta, por dia, realizando essas atividades domésticas pesadas ou que requerem esforço físico intenso? "
+235,H015,4.432196485907197,"Você foi consultar qualquer tipo de especialista ou serviço especializado no período em que você está em acompanhamento com “esse(a) médico(a)""?"
+236,V02701,4.431155901753845,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade"
+237,P00621,4.429651328445658,"Pão de forma, de cachorro-quente ou de hambúrguer."
+238,O021,4.429205153155368,Nos últimos doze meses o(a) Sr(a) se envolveu em algum acidente de trabalho? (Sem considerar os acidentes de trânsito e/ou de deslocamento para o trabalho)
+239,O019,4.4281887993613624,"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais? (Se houver mais de um, considere o mais grave)"
+240,Q106,4.4280654008413665,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo? "
+241,Q07212,4.426829686473601,Faz atualmente por causa do derrame (ou AVC) Toma outros medicamentos? 
+242,P067,4.426363522128761,"ATUALMENTE, o (a) Sr (a) masca fumo, usa rapé ou algum outro produto do tabaco que não faz fumaça?"
+243,O00802,4.42630482746074," Com que frequência o (a) senhor (a) manuseia o celular durante a condução de moto ou automóvel (inclusive táxi, aplicativos de transporte e similares)?"
+244,Q109,4.425891184140445,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? "
+245,Q08108,4.4255552701927465,Recomendação para Fazer fisioterapia 
+246,J01002,4.425448350995056,Quando está doente ou precisando de atendimento de saúde___ costuma procurar
+247,Q120,4.424864117385085,Algum médico já lhe deu diagnóstico de câncer? 
+248,Q009,4.424477061691436,Algum dos medicamentos para hipertensão arterial foi obtido em serviço público de saúde? 
+249,P005,4.42444321161342,A Sra está grávida no momento?
+250,P05901,4.42397320506258,Número de anos que parou de fumar
+251,N011,4.4239491681628875,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? "
+252,Q018014,4.42010014886052,Não fumar
+253,I001031,4.419676146643906,Nº de ordem do titular 
+254,Q046012,4.419381493198293,Manter o peso adequado
+255,V01404,4.417629772188054,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?"
+256,J03301,4.416920617787836,Algum dos medicamentos foi obtido no programa Aqui Tem Farmácia Popular
+257,M00402,4.416731687833736,"Quanto tempo em minutos o(a) Sr(a) gasta, normalmente, por dia, no deslocamento para o(s) seu(s) trabalho(s), considerando ida e volta"
+258,Q09607,4.416395725101317,"Por causa da depressão Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar "
+259,O009,4.416383157592207," Nos últimos doze meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)"
+260,I005,4.415462577769899,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)? 
+261,N005,4.415032757162445,"Quando o(a) Sr(a) caminha em lugar plano, em velocidade normal, sente dor ou desconforto no peito"
+262,Q05101,4.414760210280786,O(A) Sr(a) foi às consultas com médico especialista? 
+263,Q073,4.413661108630516,"Em geral, em que grau o derrame (ou AVC) limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+264,N008,4.413279403558442,O(A) Sr(a) pode me mostrar onde geralmente sente essa dor/desconforto no peito
+265,Q12105,4.412530212387281,Diagnóstico de outro câncer? Cólon e reto (intestino) 
+266,H021,4.411988066295037,"Aconselhamento para problemas de saúde mental (ex.: ansiedade, depressão)"
+267,P03904,4.411790925164008,"Em uma semana normal, em quantos dias, o(a) Sr(a) anda bastante a pé ou faz essas atividades pesadas ou que requerem esforço físico no seu trabalho?"
+268,E01805,4.411712570722626,...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada somente em benefícios ?
+269,M01601,4.4084697795327665,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos"
+270,Q07711,4.407948789532919,O(A) Sr(a) pagou algum valor pelos aerossóis (bombinha) para asma? 
+271,E010010,4.407579544879469," Em ___ /___ /___ (último dia da semana de referência), fazia quanto tempo que ___ estava afastado desse trabalho"
+272,P00404,4.407150541131338,"Altura - Final (em cm)
+(3 inteiros)"
+273,Q08111,4.40395313176016,Recomendação para Fazer acompanhamento regular com profissional de saúde 
+274,Q11808,4.403650885681677,Por causa da doença no pulmão Fisioterapia respiratória 
+275,Q070,4.402569718037915,Que idade o(a) Sr(a) tinha no primeiro diagnóstico do derrame (ou AVC)? 
+276,J01101,4.401482456408987,Quando ____ consultou um médico pela última vez
+277,Q121013,4.401454262435175,Diagnóstico de outro câncer? Cérebro
+278,Q016,4.401161326605062,"Na última consulta, o médico que o(a) atendeu era o mesmo das consultas anteriores? "
+279,Q09605,4.400814918983464,Por causa da depressão Faz psicoterapia 
+280,Q105,4.400637212167671,Esse atendimento foi feito pelo SUS? 
+281,Q07601,4.400595002857075,Algum médico já lhe receitou algum medicamento para asma (ou bronquite asmática)? 
+282,Q06508,4.399732247128275,Faz atualmente por causa da doença do coração: toma medicamentos regularmente?
+283,P00623,4.398966321110339,"Macarrão instantâneo, sopa de pacote, lasanha congelada ou outro prato congelado comprado pronto industrilizado."
+284,D01303,4.398504081245767,___concluiu os anos iniciais deste curso que frequentou 
+285,P06101,4.397113911769252,"Durante os últimos doze meses, quando o(a) Sr(a) tentou parar de fumar, usou aconselhamento por profissional de saúde incluindo unidades de saúde que oferecem tratamento para parar de fumar?  "
+286,M011071,4.396959375848983,"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição à poeira mineral (pó de mármore, de areia, de brita, de vidro (sílica), de amianto (asbesto), de ferro ou aço)"
+287,P05905,4.39677198533983,"Nos últimos doze meses, durante algum atendimento, por médico ou outro profissional de saúde, foi perguntado se o(a) Sr(a) fumava? "
+288,V032,4.396002535097676,Quem fez isso com você
+289,P05406,4.395972417503028,Quantos por semana
+290,V003,4.395493373158183,"Nos últimos doze meses, quantas vezes isso aconteceu com você?"
+291,Q042,4.394575527825424,O(A) Sr(a) pagou algum valor por esse atendimento?
+292,A005012,4.394062381030194,Este domicílio está ligado à rede geral de distribuição de água? 
+293,E025,4.393631326826616,"Até o dia ___ (último dia da semana de referência), fazia quanto tempo que___ estava sem qualquer trabalho e tentando conseguir trabalho?"
+294,Y005,4.39296557402806,Qual o principal motivo por não ter usado camisinha?
+295,P04001,4.392439119692291,Quantos dias por semana o(a) Sr(a) faz algum trajeto a pé ou bicicleta? 
+296,P05416,4.392383943885063,"Em média, quanto fuma por dia ou por semana Narguilé (sessões)? "
+297,Q06506,4.39166870137497,Faz atualmente por causa da doença do coração: Dieta?
+298,Q08611,4.391093048067446,Faz acompanhamento regular com profissional de saúde por causa do problema na coluna
+299,O00901,4.390317733459915,Quantos
+300,E01605,4.3901142746720545,...recebia/fazia normalmente nesse trabalho rendimento/retirada somente em benefícios ?
+301,P04501,4.389592379936454,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão? "
+302,Q104,4.389214234231077,O(A) Sr(a) pagou algum valor por esse atendimento?
+303,W00203,4.387698773485296,"Altura - Final (em cm)
+(3 inteiros e 1 casa decimal)"
+304,A018011,4.387536149152089,Neste domicílio existe televisão em cores 
+305,J006,4.387169909308106,"Nas duas últimas semanas, quantos dias _____ esteve acamado (a)"
+306,Q04710,4.386912798702963,Foi pedido exame de urina?
+307,D01101,4.386498897697452,Este curso que ___ frequentou anteriormente era dividido em
+308,P05415,4.3844971643510915,Quantos por semana
+309,P05419,4.381790439070383,"Em média, quanto fuma por dia ou por semana Outro"
+310,H013,4.381554034964539,“Esse(a) médico(a)” sabe quais problemas são mais importantes para você?
+311,Q043,4.38097733847365,Esse atendimento foi feito pelo SUS? 
+312,Q064,4.380972729930954,Que idade o(a) Sr(a) tinha no primeiro diagnóstico da doença do coração? 
+313,P00619,4.379676007093673,"Sorvete, chocolate, gelatina, flan ou outra sobremesa industrializada."
+314,E02402,4.37878108899382,Quanto tempo depois de __/__/__ (último dia da semana de referência) ___ irá começar esse trabalho que conseguiu?
+315,Q00602,4.378110871103483,Qual o principal motivo para o(a) Sr(a) não ter tomado os medicamentos receitados para a hipertensão arterial (pressão alta)? 
+316,Q02301,4.3777919097827525,O(A) Sr(a) foi às consultas com o médico especialista? 
+317,C015,4.377657161358627,Esta união é registrada em cartório? 
+318,Q121012,4.377596757331668,Diagnóstico de outro câncer? Linfoma ou leucemia 
+319,U006,4.377436766873695,Que grau de dificuldade o(a) Sr(s) tem para se alimentar por causa de problemas com seus dentes ou dentadura?
+320,T002,4.377134522686878,O (a) Sr (a) tem mancha com dormência ou parte da pele com dormência?
+321,P00615,4.377107692480009,Suco de fruta em caixinha ou lata ou refresco em pó. 
+322,U00204,4.376780022342988, O que o(a) Sr(a) usa para fazer a limpeza de sua boca Escova de dente
+323,N004,4.376686624559285,"Quando o(a) Sr(a) sobe uma ladeira, um lance de escadas ou caminha rápido no plano, sente dor ou desconforto no peito"
+324,Q076,4.376107812044001,"Nos últimos doze meses, o(a) Sr(a) teve alguma crise de asma? "
+325,Q03802,4.375534009213614,Algum médico já lhe receitou insulina para controlar o Diabetes? 
+326,Q07708,4.374094769095077,Nas duas últimas semanas o(a) Sr(a) usou aerossóis (bombinha) por causa da asma (ou bronquite asmática) 
+327,Q11408,4.374043433084251,Por causa da doença mental Faz acompanhamento regular com profissional de saúde
+328,E02801,4.373314546005707,"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Auxiliar nos cuidados pessoais (alimentar, vestir, pentear, dar remédio, dar banho, colocar para dormir)"
+329,H004,4.373059319199325,Onde procurou o atendimento médico por este motivo?
+330,Q06310,4.372672366080445,Arritmia 
+331,Q111,4.3724876964327635,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? 
+332,Q079,4.371412469790069,Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? 
+333,J019,4.371162170056444,"Nas duas últimas semanas, quantas vezes ___ voltou a procurar atendimento de saúde por este mesmo motivo"
+334,E02806,4.371132956760545,Outras tarefas de cuidados de moradores do domicílio
+335,E02804,4.3708722416315275,"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Monitorar ou fazer companhia dentro do domicílio"
+336,Q06210,4.370472012238192,Recomendação para tomar medicamentos
+337,Q015,4.370126580436461,Esse atendimento foi feito pelo SUS? 
+338,P03201,4.369903666067815,"Nos últimos trinta dias, o(a) Sr(a) chegou a consumir cinco ou mais doses de bebida alcoólica em uma única ocasião? "
+339,H003,4.369707209875246,Por qual motivo o(a) sr(a) precisou consultar com um(a) médico(a)
+340,D00601 ,4.369704241213775,Qual é a etapa do ensino fundamental que ___ frequenta
+341,Q121010,4.369056830110906,"Diagnóstico de outro câncer? Boca, Orofaringe ou Laringe "
+342,U02403,4.368931457748902,Quantos dentes permanentes de baixo perdeu?
+343,H024,4.367526855792143,"Orientações sobre alimentação saudável, boa higiene e sono adequado (dormir suficientemente)"
+344,Q047091,4.3671442317573765,Realizou o exame?
+345,P04701,4.366629016729097,O(A) Sr(a) conhece algum programa público de estímulo à prática de atividade física no seu município? 
+346,P023,4.366499350103773,"Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (de origem animal: vaca, cabra, búfala etc.) "
+347,P05903,4.366399204974098,Número de semanas que parou de fumar
+348,P05421,4.36539436656949,Quantos por dia
+349,Q019121,4.3649541197548185,Realizou o eletrocardiograma?
+350,J047,4.364197310796702,Este atendimento foi coberto por algum plano de saúde
+351,J032,4.3639954427270125,Algum dos medicamentos foi coberto por plano de saúde
+352,M002,4.363809273883345,Identificação da mãe do morador selecionado
+353,O02001,4.363667101004459," O Sr(a) tem alguma sequela física permanente decorrente deste acidente de trânsito? (Se houver mais de um, considere o mais grave)"
+354,Q018013,4.362807511248904,Praticar atividade física regular
+355,O00501,4.36267075152376," Com que frequência o(a) Sr(a) usa cinto de segurança quando anda no banco de trás de automóvel (inclusive táxi, aplicativos de transporte e similares)?"
+356,J04001,4.362203501407805,Quanto tempo em meses o morador ficou internado
+357,Q12610,4.361365837828256,Faz acompanhamento regular com profissional de saúde?
+358,P00201,4.360874535958486,Quanto tempo faz que o(a) Sr(a) se pesou da última vez? 
+359,J022010,4.360391704462171,Por que motivo ___ não foi atendido (a) nessa última vez que procurou atendimento de saúde nas duas últimas semanas
+360,H026,4.3601145991800845,Verificar e discutir os medicamentos que você está usando
+361,T00605,4.359902211788757,Nesse diagnóstico recebeu orientações? Fazer os testes para as hepatites B e C 
+362,Q078,4.359428213893871,"Em geral, em que grau a asma limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? "
+363,Q014,4.359261530523339,"O(A) Sr(a) pagou algum valor por este atendimento? (Entrevistador: Se o(a) entrevistado(a) responder que pagou mas teve reembolso total, marque a opção 2) "
+364,Q07211,4.359211378239497,Faz atualmente por causa do derrame (ou AVC) Toma aspirina regularmente?
+365,V037,4.358470742119587,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde"
+366,Q12103,4.357657967558877,O câncer de pele diagnosticado foi do tipo melanoma?
+367,P05401,4.357655249036193,"Em média, quanto fuma por dia ou por semana Cigarros industrializados"
+368,P00604,4.357454706675578,"Carne de boi, porco, frango, peixe"
+369,M01801,4.356505181439369,"Nos últimos 12 meses, com que frequência o(a) Sr(a) fez trabalho voluntário não remunerado"
+370,J02702,4.356318538408938,Qual foi o principal atendimento de saúde que ___ recebeu?
+371,Q04708,4.354326806464587,Foi pedido Hemoglobina glicada?
+372,Q03806,4.354204254052896,A insulina foi obtida em serviço público de saúde? 
+373,P05409,4.354069130360905,Quantos por semana
+374,Q06308,4.353830507008484, Angina 
+375,P046,4.352601764880353,"Perto do seu domicílio, existe algum lugar público (praça, parque, rua fechada, praia) para fazer caminhada, realizar exercício ou praticar esporte? "
+376,O02201,4.352510289007906," Como consequência desse acidente de trabalho, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)? "
+377,Q046016,4.3505484744006955,Diminuir o consumo de massas e pães
+378,Q125,4.350529765293116,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de insuficiência renal crônica? 
+379,E01604,4.350354926999924,Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse trabalho?(valor estimado em produtos ou mercadorias)
+380,J003,4.3498349642327625,"Nas duas últimas semanas, quantos dias _____ deixou de realizar suas atividades habituais, por motivo da própria saúde"
+381,Q11008,4.348219518982917,Diagnóstico de Transtorno bipolar 
+382,Q055012,4.348081528931093,Infarto ou AVC (Acidente Vascular cerebral) /derrame ou outro problema circulatório 
+383,Q03804,4.3476758342893875,Qual o principal motivo de ___não ter usado a insulina para controlar o diabetes? 
+384,W001,4.346831632903683,Antropometria aferida do morador selecionado
+385,H023,4.34635067065346,"Aconselhamento sobre as mudanças que acontecem com o envelhecimento (ex.: diminuição da memória, risco de cair)"
+386,Q12107,4.345653972684198,Diagnóstico de outro câncer? Mama (só para mulheres) 
+387,P06901,4.344653244199663,"Nos últimos 30 dias, o(a) Sr(a) viu alguma propaganda ou anúncio de cigarros na internet, incluindo redes sociais (Facebook, Instagram, Twitter, WhatsApp, YouTube, Snapchat etc)? "
+388,E024011,4.344605916377805,Qual foi o principal motivo de ___ não ter tomado providência para conseguir trabalho no período de ___ a ___ (período de referência de 30 dias)?
+389,E01801,4.3442896559377076,...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada em dinheiro?
+390,E01803,4.3442896559377076,...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada em produtos ou mercadorias?
+391,P05414,4.3442896559377076,Quantos por dia
+392,P05408,4.3442896559377076,Quantos por dia
+393,VDDATA,4.3442896559377076,"Data de geração do arquivo de microdados. Data ordenada na forma: ano (4 algarismos), mês (2) e dia (2) -  AAAAMMDD"
+394,E01601,4.3442896559377076,...recebia/fazia normalmente nesse trabalho rendimento/retirada em dinheiro?
+395,E01603,4.3442896559377076,...recebia/fazia normalmente nesse trabalho rendimento/retirada em produtos ou mercadorias?
+396,P05417,4.3442896559377076,Quantos por dia
+397,P05412,4.3442896559377076,Quantos por semana
+398,P05422,4.3442896559377076,Quantos por semana
+399,M011051,4.343201560869571,"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Manuseio de resíduos urbanos (lixo) "
+400,Q07706,4.34311546285058,Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido em serviço público de saúde? 
+401,E010012,4.342719558416114,Tempo que estava afastado (De 1 ano a menos de 2 anos) 
+402,V006,4.342606288011349,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)"
+403,J021,4.341675667444448," Nessa última vez que procurou atendimento de saúde por este motivo, nas duas últimas semanas, ___ foi atendido (a)"
+404,Q022,4.341599930741488,"Em algum dos atendimentos para hipertensão arterial, houve encaminhamento para alguma consulta com médico especialista, tais como cardiologista ou nefrologista? "
+405,Q02701,4.341382932881405,Há quanto tempo foi a última internação por causa da hipertensão ou de alguma complicação?
+406,P00603,4.341101886468353,"Feijão, ervilha, lentilha ou grão de bico."
+407,Y002,4.339504780456042,Nos últimos doze meses teve relações sexuais? 
+408,Q04709,4.339451700065188,Foi pedido curva glicêmica?
+409,Q055016,4.339178335893271,Outro (Especifique)
+410,Q055013,4.339104184986107,Problema nos rins 
+411,Q132,4.338625367365893,"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? "
+412,Q046011,4.337945871701103,Orientações para manter uma alimentação saudável
+413,P07101,4.337434434224347,"Nos últimos trinta dias, viu alguma foto ou advertência sobre os riscos de fumar nos maços de cigarros? "
+414,P00607,4.33718045068687,"Alface, couve, brócolis, agrião ou espinfre."
+415,T00601,4.336617785639229,Nesse diagnóstico recebeu orientações? Usar regularmente preservativo 
+416,I001021,4.336520573982013,Quantos?
+417,H002,4.3345675630899505,Essa consulta foi o seu primeiro atendimento com esse(a) médico(a)?
+418,A02102,4.333578605460612,Quantos?
+419,V019,4.332791760000586,Onde isso ocorreu?
+420,P04302,4.332732184073688,"No dia em que o(a) Sr(a) faz essa(s) atividade(s), quanto tempo o(a) Sr(a) gasta no deslocamento a pé ou de bicicleta, considerando Ida e Volta?Minutos"
+421,Q12109,4.332166877139056,Diagnóstico de outro câncer? Próstata (só para homens) 
+422,Y003,4.331625850408633,"Nos últimos doze meses nas relações sexuais que teve, com que frequência usou camisinha:"
+423,P05413,4.331280169568718,"Em média, quanto fuma por dia ou por semana Charutos ou cigarrilhas? "
+424,Q03403,4.331193569578755,"Nas duas últimas semanas, por causa do diabetes, o(a) Sr(a) tomou os medicamentos orais para baixar o açúcar ?"
+425,V029,4.330795238506504,"Nos últimos doze meses, quantas vezes isso aconteceu?"
+426,E01804,4.33041718916476,Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse(s) outro(s) trabalho(s)?(valor estimado em produtos ou mercadorias)
+427,P06103,4.3293462803694895,Esse aconselhamento foi feito pelo SUS? 
+428,Q133,4.329291017436427,"Nas últimas duas semanas, por quantos dias usou o medicamento para dormir? "
+429,I00103,4.327584966204815,Quem é o titular do plano de saúde médico (único ou principal)?
+430,T00603,4.327470561877467,Nesse diagnóstico recebeu orientações? Fazer o teste de HIV 
+431,P00602,4.326407563980091,"Batata comum, mandioca/aipim/macaxeira, cará ou inhame."
+432,I00402,4.325718350191619,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a exames
+433,M011041,4.325644088228554," No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x)"
+434,P05904,4.325610199283401,Número de dias que parou de fumar
+435,M008,4.324675873135235, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas
+436,V033,4.324530773442145, Onde isso ocorreu?
+437,P06302,4.324206988513621,"Durante os últimos 12 meses, por que o(a) Sr(a) não usou nem aconselhamento nem medicamento para tentar parar de fumar? "
+438,VDF00102,4.3236360621042955,Valor recebido em reais (VDF001)
+439,Q018016,4.3233884514198,Fazer o acompanhamento regular com profissional de saúde
+440,Q07208,4.323088189843414,Faz atualmente por causa do derrame (ou AVC) Dieta?
+441,N012,4.322754583821922,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? "
+442,O00803,4.322601020049463,"Com que frequência o (a) senhor (a) conduz moto ou automóvel (inclusive táxi, aplicativos de transporte e similares) acima da velocidade da via?"
+443,O01102,4.3224301639677245,"Durante o acidente de trânsito ocorrido nos últimos 12 meses, o(a) Sr(a) era: (Se houver mais de um, considere o mais grave)"
+444,Q018010,4.322371805649853,Orientações para manter uma alimentação saudável
+445,Q03901,4.321788830980268,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa do diabetes? 
+446,Q12608,4.321253501612575,Hemodiálise por causa da insuficiência renal crônica?
+447,P069,4.3209996466637985,"Nos últimos trinta dias, o(a) Sr(a) viu alguma propaganda ou anúncio de cigarros nos pontos de venda de cigarros? "
+448,Q11009,4.320721402415364,Diagnóstico de TOC (Transtorno obsessivo compulsivo) 
+449,Q06307,4.3203151101491875,Infarto
+450,Q04002,4.318914163819578,"Na última vez que recebeu atendimento médico para diabetes, onde o(a) Sr(a) foi atendido? "
+451,P044,4.318791589685101,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada) "
+452,Q07209,4.318097967838036,Faz atualmente por causa do derrame (ou AVC) Fisioterapia?
+453,Q03803,4.317839115268532,Usou a insulina receitada na última prescrição? 
+454,E019,4.317709770497338,"Quantas horas ___ trabalhava normalmente, por semana, nesses outros trabalhos? "
+455,J048,4.317354080715053,"___pagou algum valor por este atendimento? (Entrevistador: se o(a) entrevistado(a) responder que pagou, mas teve reembolso total, marque a opção 2) "
+456,Q09011,4.316162867781102,Recomendado para DORT Fazer acompanhamento regular com profissional de saúde 
+457,J035,4.31590202575071, ___ pagou algum valor pelos medicamentos
+458,E01402,4.315299867426657,"Nesse trabalho, ___era servidor público estatutário (federal, estadual ou municipal)"
+459,V03503,4.314963964950338,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?"
+460,Q09010,4.3141056062619425,"Recomendado para DORT Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar"
+461,P01601,4.312917363927663,Em quantos dias da semana o(a) Sr(a) costuma tomar suco de fruta natural (incluída a polpa de fruta congelada)? 
+462,T003,4.312600265267603,Algum médico já lhe deu o diagnóstico de doença de Chagas? 
+463,Q00201,4.312141715003268,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)? 
+464,P07005,4.3120302049433725,Viu ou ouviu informações na televisão?
+465,V00202,4.312000523512014,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?"
+466,T005,4.311990922865777,"Nesse diagnóstico (se houver mais de um, considere o último) de doença/infecção sexualmente transmissível, o(a) Sr(a) fez algum tipo de tratamento com prescrição médica? "
+467,P00608,4.311768685810261,"Abóbora, cenoura, batata doce ou quiabo/caruru. "
+468,J038,4.311549710027434,"Nos últimos 12 meses, quantas vezes ___ esteve internado(a)"
+469,P05402,4.311313889505254,Quantos por dia
+470,T004,4.311285779569917,"Nos últimos 12 meses, algum médico lhe deu diagnóstico de doença/infecção sexualmente transmissível?"
+471,P05418,4.310952849457474,Quantos por semana
+472,Q055011,4.3108947676726785,Problemas na vista 
+473,P05411,4.310644786363908,Quantos por dia
+474,E010011,4.309876675636946,Tempo que estava afastado (De 1 mês a menos de 1 ano)
+475,Q11607,4.309687292615964,Diagnóstico de outro 
+476,Q07709,4.308918744993326,Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? 
+477,P068,4.3086951552881905,Com que frequência alguém fuma dentro do seu domicílio? 
+478,E017,4.308569386307797,"Quantas horas ___ trabalhava normalmente, por semana, nesse trabalho?"
+479,U005,4.308188978537453,"Em geral, como o(a) Sr(a) avalia sua saúde bucal (dentes e gengivas)"
+480,Q055015,4.307894613822616,Coma diabético 
+481,E024021,4.307743794639375,Número de meses para começar o trabalho que conseguiu.
+482,Q047111,4.30759017400772,Realizou o exame?
+483,D010,4.307148801259967,A duração deste curso que ___frequentou anteriormente era de
+484,Q06209,4.306970770643753,Recomendação para praticar atividade física regular
+485,P06102,4.306504347031577,O(A) Sr(a) pagou algum valor por esse aconselhamento?  
+486,O00701,4.3061840240297915,Com que frequência o(a) Sr(a) usa capacete quando dirige motocicleta
+487,Q00101,4.306066653709533,Quando foi a última vez que o (a) Sr(a) teve sua pressão arterial medida?
+488,O01401,4.30597468599411,"Por causa deste acidente de trânsito o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)? "
+489,Q121016,4.3039819007384,Diagnóstico de outro câncer?
+490,Q05701,4.303970375247309,Há quanto tempo foi a última internação por causa do diabetes ou de alguma complicação?
+491,Q12301,4.303619445438022,"Em geral, seu tratamento, ou algum problema provocado pelo câncer, limita as suas atividades profissionais ou habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? "
+492,Q074,4.303136134984305,Algum médico já lhe deu o diagnóstico de asma (ou bronquite asmática)? 
+493,F007021,4.303080326302898,Valor habitualmente recebido
+494,Q11606,4.302859418092371,Diagnóstico de bronquite crônica 
+495,V01402,4.3026601180174,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?"
+496,J009,4.302241501767155," ___ costuma procurar o mesmo lugar, mesmo médico ou mesmo serviço de saúde quando precisa de atendimento de saúde"
+497,Q045,4.301647036368603,"Na última consulta, o médico viu os exames das consultas passadas? "
+498,M011011,4.301637885552175," No(s) seu(s) trabalho(s), o(a) Sr(a) está(estava) exposto(a) a algum destes fatores que podem afetar a sua saúde. Manuseio de substâncias químicas (agrotóxicos, gasolina, diesel, formol, chumbo, mercúrio, cromo, quimioterápicos etc.)"
+499,E02501,4.30134999024413,fazia quanto tempo que vinha procurando trabalho (de 1 mês a menos de 1 ano)
+500,T00604,4.298436855075215,Nesse diagnóstico recebeu orientações? Fazer o teste de sífilis 
+501,J05406,4.298113877952323,Qual tratamento _________ fez uso meditação
+502,E010013,4.2964325593848525,Tempo que estava afastado (De 2 anos a 98 anos)
+503,Q12108,4.2961870308325905,Diagnóstico de outro câncer? Colo de útero (só para mulheres) 
+504,P00611,4.294984250825316,"Laranja, banana, maçã, abacaxi. "
+505,VDM001,4.294473739113153,Faixa de tempo gasto por dia no deslocamento casa-trabalho pelas pessoas ocupadas que se deslocavam para o trabalho
+506,Q10101,4.2944629012796645,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão? 
+507,M011031,4.2940276668508215," No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição longa ao sol"
+508,Q134,4.293865223777548,O medicamento que o(a) Sr(a) usa (usou) para dormir foi receitado por médico?
+509,O01602,4.293323342945271,Onde o(a) Sr(a) recebeu o primeiro atendimento de saúde
+510,Q07210,4.293186889918683,Faz atualmente por causa do derrame (ou AVC) Outras terapias de reabilitação?
+511,J01502,4.292543254813544,Qual foi o motivo principal pelo qual ___ procurou atendimento relacionado à própria saúde nas duas últimas semanas
+512,A02308,4.291062522628865,Quantos destes animais são peixes
+513,Q028,4.2900761268842675,"Em geral, em que grau a hipertensão ou alguma complicação da hipertensão limita as suas atividades habituais (como trabalhar, estudar, realizar afazeres domésticos etc.)? "
+514,E014011,4.289343657164467,Trabalhador não remunerado em ajuda a membro do domicílio ou parente 
+515,P05410,4.2884685319019304,"Em média, quanto fuma por dia ou por semana Cachimbos (considere cachimbos cheios)? "
+516,P06106,4.288343829154889,Algum desses medicamentos foi obtido em serviço público de saúde?
+517,P04101,4.288078132507562,"Quanto tempo o(a) Sr(a) gasta, por dia, para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?Horas "
+518,E03108,4.287618398233,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Outras tarefas domésticas?"
+519,P013,4.287592583150139,Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? 
+520,J049,4.287270328790912,Este atendimento foi feito através do Sistema Único de Saúde (SUS)
+521,J02901,4.286892015251365," Neste atendimento de ___, foi receitado algum medicamento"
+522,P058,4.2845813703157924,"Em média, quantos cigarros industrializados o(a) Sr(a) fumava por dia ou por semana?"
+523,H009,4.284381456572604,"Quando o(a) “serviço de saúde” está aberto(a), você consegue aconselhamento rápido pelo telefone se precisar?"
+524,Q03002,4.283978880126959,Esse diabetes ocorreu apenas durante algum período de gravidez? 
+525,Q11405,4.2839175358596195,Por causa da doença mental faz psicoterapia 
+526,Q08610,4.283543601771028,"Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar por causa do problema na coluna"
+527,Q047081,4.283330707919314,Realizou o exame?
+528,Q075,4.282930677310619,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de asma? 
+529,P04401,4.282588780534814,"Em uma semana normal, nas suas atividades domésticas, em quantos dias o(a) Sr(a) faz faxina pesada ou realiza atividades que requerem esforço físico intenso? (não considerar atividade doméstica remunerada)"
+530,Q115,4.280291597392404,"Em geral, em que grau essa doença mental limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+531,C01801,4.279567619315653,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?   
+532,Q08110,4.279227401579547,"Recomendação para Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar"
+533,J057,4.2790205349665635,Este(s) tratamento(s) foi (foram) feito(s) através do Sistema Único de Saúde (SUS):
+534,D00501,4.277474747988651, Esse curso que ___ frequenta é dividido em
+535,O023,4.277276256876566,"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais? (Se houver mais de um, considere o mais grave)"
+536,J024,4.2735371909962385, Este atendimento de saúde de ___ foi coberto por algum plano de saúde
+537,M011061,4.273455448823867,"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição a material biológico (sangue, agulhas, secreções)"
+538,Q046021,4.270193286561073,Fazer acompanhamento regular com profissional de saúde
+539,Q091,4.269912126455929,"Em geral, em que grau o DORT limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+540,I006,4.269273567697146, ___ considera este plano de saúde: 
+541,C006,4.269232667705917,Sexo
+542,J005,4.268866684600306,Nas duas últimas semanas___ esteve acamado (a)
+543,Y001,4.268184437645556,Que idade tinha quando teve relações sexuais pela primeira vez? 
+544,P00614,4.267580840553587,ONTEM o(a) Sr(a) tomou ou comeu:Refrigerante
+545,Q09201,4.267559151980802,Algum médico já lhe receitou algum medicamento para depressão?
+546,J04002,4.26725630780645,Quanto tempo em dias o morador ficou internado
+547,Q09008,4.26677987885315,Recomendado para DORT Fazer fisioterapia 
+548,Q11807,4.266341325916112,Por causa da doença no pulmão Usa oxigênio 
+549,H029,4.266256997752916,“Esse(a) médico(a)” se reuniria com membros de sua família se você achasse necessário?
+550,P05407,4.265763427609068,"Em média, quanto fuma por dia ou por semana Cigarros de cravo ou de Bali? "
+551,Q067,4.265140658046721,"Em geral, em que grau a doença do coração limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)?"
+552,F001021,4.264804398434194,Valor habitualmente recebido
+553,U02501,4.2638050143993675,"O(A) Sr(a) usa algum tipo de prótese dentária (dente artificial, implante, dentadura, chapa)"
+554,Q07213,4.261502560860181,Faz acompanhamento regular com profissional de saúde?
+555,J052,4.261487241555317,O transporte foi feito por
+556,E023011,4.261119165159685,"No período de ___ a ___ (período de referência de 30 dias), qual foi a principal providência que ___ tomou para conseguir trabalho? "
+557,Q082,4.260849881571862,O(A) Sr(a) já fez alguma cirurgia por causa da artrite ou reumatismo? 
+558,P02002,4.260744519689789,Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? 
+559,P06105,4.260306754909347,O(A) Sr(a) pagou algum valor por esse(s) medicamento(s)?  
+560,J054010,4.260039194478489,Qual tratamento _________ fez uso Outro
+561,V038,4.259652473915018,Onde foi realizado este atendimento de saúde
+562,Q09007,4.259255159053216,Recomendado para DORT Praticar exercício regularmente
+563,P027,4.258600155153601,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?
+564,Q121014,4.2585519812173676,Diagnóstico de outro câncer? Ovário (só para mulheres) 
+565,Y007,4.257944552891057,Por que não procurou algum serviço público saúde para obter camisinha masculina ou feminina? 
+566,E02503,4.257194983397041,fazia quanto tempo vinha procurando trabalho (2 anos ou mais)
+567,A02402,4.256762414048822,"Nos últimos 12 meses , quantos cachorros foram vacinados contra raiva?"
+568,I00401,4.256431649002437,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas
+569,H017,4.25611049895264,“Esse(a) médico(a)” escreveu alguma informação para o(a) especialista sobre o motivo dessa consulta?
+570,P05405,4.255678421370516,Quantos por dia
+571,M01901,4.255673758396428,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)"
+572,J034,4.255419361175115,Algum dos medicamentos foi obtido em serviço público de saúde
+573,U02302,4.25338673828311," Lembrando-se dos seus dentes permanentes de cima, o(a) Sr(a) perdeu algum"
+574,T00602,4.252605302456509,Nesse diagnóstico recebeu orientações? Informar aos (às) parceiros (as) da infecção 
+575,J00801,4.250317741066054,"Alguma dessas doenças limita de alguma forma suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos, etc.)"
+576,Q08609,4.248573413889882,Usa medicamentos ou injeções 
+577,Q046020,4.247562873732264,"Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar"
+578,P00601,4.246558741252469,"Ontem o(a) Sr(a) comeu arroz, macarrão, polenta, cuscuz ou milho verde. "
+579,J05408,4.245399439925624,"Qual tratamento _________ fez uso Tai chi chuan, Lian gong, Qi gong"
+580,Q100,4.245335713981426,O(A) Sr(a) pagou algum valor pelos medicamentos? 
+581,J01602,4.244470637333617,Onde ___ procurou o primeiro atendimento de saúde por este motivo nas duas últimas semanas
+582,I010010,4.244425774017236,Quem paga a mensalidade deste plano de saúde?
+583,V02702,4.241946420638389,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?"
+584,P05906,4.2417723209219655,"Nos últimos doze meses, durante algum desses atendimentos o(a) Sr(a) foi aconselhado a parar de fumar? "
+585,A01001,4.239081303878484, Quantos cômodos têm este domicílio
+586,Q12201,4.237807492359846,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? 
+587,M007,4.237469276753726," Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas"
+588,E03107,4.23688510328858,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Cuidar dos animais domésticos? "
+589,V039,4.236581202806553,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais"
+590,T00606,4.235552476891173,Nesse diagnóstico recebeu orientações? Tomar vacina para hepatite B 
+591,Q046015,4.234644582674511,Não beber em excesso
+592,Q06306,4.2342849389040085,"Algum médico já lhe deu o diagnóstico de uma doença do coração, tal como infarto, angina, insuficiência cardíaca ou outra?"
+593,W00201,4.232204479937228,"Altura - 1ª medição (em cm)
+(3 inteiros e 1 casa decimal)"
+594,E004,4.231914053399527,"Na semana de ___ a ___ (semana de referência), ___ ajudou durante pelo menos 1 hora, sem receber pagamento, no trabalho remunerado de algum morador do domicílio ou de parente"
+595,Q055014,4.231684590726493,"Úlcera/ferida nos pés ou amputação de membros (pés, pernas, mãos ou braços) "
+596,Q07710,4.230289738402281,Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido em serviço público de saúde?
+597,P00610,4.230118710968077,"Mamão, manga, melão amarelo ou pequi. "
+598,H019,4.229991468279606,“Esse(a) médico(a)” pareceu interessado(a) na qualidade do cuidado que você recebeu no(a) especialista ou serviço especializado (perguntou se você foi bem ou mal atendido(a))? 
+599,P05802,4.22912621311326,Quantos por semana
+600,Q03805,4.226211091119648,A insulina foi obtida no Aqui tem Farmácia Popular (PFP)? 
+601,Q01912,4.225004964979803,Foi pedido eletrocardiograma?
+602,Q018015,4.224785562850112,Não beber em excesso
+603,Q127,4.223836008919268,"Em geral, em que grau a insuficiência renal crônica limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? "
+604,O02401,4.22358579020757, O(A) Sr(a) tem alguma sequela física permanente decorrente desse acidente de trabalho
+605,P06701,4.223472413853388,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)? "
+606,B002,4.2219164989220985,. Quando o seu domicílio foi cadastrado
+607,Q11806,4.2213181238710975,"Por causa da doença no pulmão Usa medicamentos (inaladores, aerossol ou comprimidos) "
+608,Q11010,4.219509499289905,Outro diagnóstico
+609,Q04711,4.218948246306344,Foi pedido colesterol e/ou triglicerídeos?
+610,P00405,4.2188676263019325,Marca de imputação para altura e/ou peso referido
+611,Q09202,4.218743462337457,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?
+612,V018,4.21837589551385,Quem fez isso com você
+613,O01702,4.218299525649421,Quem lhe prestou atendimento no local do acidente
+614,J043,4.218060165816237," ___ pagou algum valor por esta última internação? (Entrevistador: se o(a) entrevistado(a) responder que pagou, mas teve reembolso total, marque a opção 2) "
+615,M001,4.217169630839395,Entrevista do adulto selecionado
+616,P039,4.2170682255331755,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? "
+617,P00102,4.216926433123728,O(A) Sr(a) sabe seu peso? 
+618,P03202,4.216804902757313,"Quando isso ocorreu, qual foi o número máximo de doses consumido em uma única ocasião?"
+619,Q046018,4.21554105225617,Medir a glicemia em casa
+620,H018,4.21526047851655,“Esse(a) médico(a)” sabe quais foram os resultados dessa consulta?
+621,J05409,4.214166742762796,Qual tratamento _________ fez uso Terapia comunitária integrativa
+622,V00205,4.213735597239349,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?"
+623,J03102,4.2127927310761395,Qual o principal motivo de ___ não ter conseguido obter todos os medicamentos receitados
+624,P00103,4.212468257164837,"Peso - Informado (em kg)
+(3 inteiros e 1 casa decimal)"
+625,A018016,4.211553417620761,Quantos?
+626,P00609,4.211549670637327,"Tomate, pepino, abobrinha, berinjela, chuchu ou beterraba. "
+627,P04801,4.210100529366924,O(A) Sr(a) participa desse programa público de estímulo à prática de atividade física no seu município? 
+628,C011,4.210094489687714,Qual é o estado civil de ___? 
+629,J01701,4.209881729862983,"Nessa primeira vez que procurou atendimento de saúde por este motivo, nas duas últimas semanas"
+630,Q019111,4.20909566574956,Realizou o exame de urina?
+631,Q01202,4.207998673603005,"Na última vez que recebeu atendimento médico para hipertensão arterial, onde o(a) Sr(a) foi atendido? "
+632,Q11201,4.206975347241612,O(A) Sr(a) visita o médico/serviço de saúde regularmente por causa dessa doença mental ou só quando tem algum problema?
+633,P01001,4.206910963483608,"Em geral, o(a) Sr(a) costuma comer esse tipo de verdura ou legume: "
+634,Q11809,4.205826734822641,Por causa da doença no pulmão Faz acompanhamento regular com profissional de saúde
+635,Q08109,4.204427618263013,Recomendação para Usar medicamentos ou injeções 
+636,O02101,4.20378177068285,Quantos
+637,Q06309,4.200374706720547,Insuficiência cardíaca 
+638,J044,4.198325475290352,Esta última internação de ___ foi feita através do Sistema Único de Saúde (SUS)
+639,J03602,4.198218379397003,"Nas duas últimas semanas, por que motivo ___ não procurou serviço de saúde"
+640,H010,4.197267385273932,"É difícil para você conseguir atendimento médico no(a) ""serviço de saúde” quando pensa que é necessário?"
+641,Y006,4.195334046933579,"Nos últimos doze meses, alguma vez procurou algum serviço público (posto, centro de saúde, hospital público, hospital conveniado do SUS, agente comunitário de saúde) para obter camisinha masculina ou feminina? "
+642,Q11701,4.193730843413762,Que idade o(a) Sr(a) tinha no primeiro diagnóstico dessa(s) doença(s) no pulmão? 
+643,J039,4.193668493051827,Qual foi o principal atendimento de saúde que ___recebeu quando esteve internado(a) (pela última vez) nos doze últimos meses
+644,P01101,4.1932220797334505,"Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? "
+645,V03501,4.192438339563679,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos? "
+646,Q01911,4.190561136776324,Foi pedido exame de urina?
+647,Q03303,4.1891488406032815,Algum médico já lhe receitou algum medicamento oral para o diabetes? 
+648,V00201,4.18663380338472,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?"
+649,Q047101,4.183758746276035,Realizou o exame?
+650,D007,4.18259558397828, ___já concluiu algum outro curso superior de graduação
+651,VDE001,4.177765129892186,Condição em relação à força de trabalho na semana de referência para pessoas de 14 anos ou mais de idade
+652,O00402,4.1771293567869225,"Com que frequência o(a) Sr(a) usa cinto de segurança quando anda no banco da frente como passageiro de automóvel (inclusive táxi, aplicativos de transporte e similares)?"
+653,N017,4.175126828324257,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?"
+654,Q08901,4.174944871044773,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de DORT?
+655,H030,4.174732683399091,No seu seviço de saúde são realizadas pesquisas com os pacientes para ver se os serviços estão satisfazendo (atendendo) as necessidades das pessoas
+656,P02001,4.172489585507995,Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó ? 
+657,Q06207,4.171199739412632,Recomendação para manter uma alimentação saudável
+658,Q018017,4.166977973993269,"Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar"
+659,P03905,4.165129111983036,"Em um dia normal, quanto tempo o(a) Sr(a) passa andando bastante a pé ou realizando essas atividades pesadas ou que requerem esforço físico no seu trabalho?Horas "
+660,P03302,4.16466859741999,"Nos últimos doze meses, quantas vezes, depois/após ter bebido, o(a) Sr(a) não conseguiu lembrar o que aconteceu? "
+661,P019,4.164052660688657,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas? "
+662,E008,4.163177470373081,A doença ou acidente foi relacionado ao trabalho?
+663,P06104,4.163039166806638,"Durante os últimos 12 meses, quando o Sr(a) tentou parar de fumar, usou medicamento(s) que auxilia( m) as pessoas no processo de deixar de fumar, tais como adesivo, pastilha, spray, inalador, goma de mascar, bupropiona, champix/vareniclina, nortriptilina, Clonidina, etc? "
+664,Q11406,4.162681839570935,Por causa da doença mental usa medicamentos ou injeções 
+665,W00101,4.160530335883508,"Peso - 1ª pesagem (em kg)
+(3 inteiros e 1 casa decimal)"
+666,V015,4.15890284060313,"Nos últimos doze meses, quantas vezes isso aconteceu?"
+667,D00901,4.155638471246947,Qual foi o curso mais elevado que ___frequentou 
+668,A018026,4.152745563247666,Quantos?
+669,A018018,4.152083807273927,Quantos?
+670,Q046014,4.150014874894795,Não fumar
+671,O010,4.146387672813669,"Algum desses acidentes de trânsito ocorreu quando o(a) Sr(a) estava trabalhando, indo ou voltando do trabalho"
+672,Q01913,4.146043557353729,Foi pedido teste de esforço?
+673,A018012,4.142059565221159,Quantos?
+674,U00205,4.141356128261621, O que o(a) Sr(a) usa para fazer a limpeza de sua boca Pasta de dente
+675,Q056,4.138085511290786,Alguma vez o(a) Sr(a) se internou por causa do diabetes ou de alguma complicação? 
+676,Q00401,4.136755137334122,O(A) Sr(a) vai ao médico/serviço de saúde regularmente para acompanhamento da hipertensão arterial (pressão alta) ? 
+677,M00302,4.134705087193403,O informante desta parte é:
+678,E030,4.134138257397756,"Na semana de ___ a ___ (semana de referência), ___ cuidou de parentes que não moravam neste domicílio e que precisavam de cuidados (crianças, idosos, enfermos ou pessoas com necessidades especiais)? "
+679,D01302,4.1329523084026185,Qual foi a etapa de ensino fundamental que ___frequentou
+680,Q031,4.129298498400416,Que idade o(a) Sr(a) tinha no primeiro diagnóstico do diabetes? 
+681,Q00502,4.128690347634149,Qual o principal motivo do(a) Sr (a) não visitar o médico/serviço de saúde regularmente para acompanhamento da hipertensão arterial (pressão alta)? 
+682,P07007,4.126957222025235,"Viu ou ouviu informações na internet, incluindo redes sociais?"
+683,Q003,4.123307479642647,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de hipertensão arterial (pressão alta)? 
+684,D01201,4.118936872831282,"concluiu, com aprovação, pelo menos o primeiro ano/semestre/série deste curso que frequentou "
+685,P00901,4.118393959156067,"Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? "
+686,Q11605,4.116333203434523,Diagnóstico de enfisema pulmonar
+687,J025,4.115284572159128, ___ pagou algum valor por este atendimento de saúde recebido nas duas últimas semanas 
+688,Q019101,4.114117709475612,Realizou o exame de sangue?
+689,J02002,4.113757623053512,Onde ___ procurou o último atendimento de saúde por este motivo nas duas últimas semanas
+690,Q09502,4.112945473280366,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão? 
+691,A02401,4.110026534372415,"Nos últimos 12 meses, quantos gatos foram vacinados contra raiva?"
+692,E01802,4.109593745315921,Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse(s) outro(s) trabalho(s)?(valor em dinheiro)
+693,P02601,4.1094801460103225,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:"
+694,Q124,4.109458824007791,Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? 
+695,M00401,4.103588400638324,"Quanto tempo em horas o(a) Sr(a) gasta(va), normalmente, por dia, no deslocamento para o(s) seu(s) trabalho(s), considerando ida e volta"
+696,J01802,4.100335343961948,Por que motivo ___ não foi atendido(a) na primeira vez que procurou atendimento de saúde nas duas últimas semanas
+697,P02801,4.095424963906079,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica? 
+698,B003,4.078002639024694,"Nos últimos doze meses, com que frequência o seu domicílio recebeu uma visita de algum Agente Comunitário ou algum membro da Equipe de Saúde da Família? "
+699,T001,4.076712753641375,O (a) Sr. (a) está com tosse há três semanas ou mais? 
+700,A018028,4.074038697869869,Quantos?
+701,P02501,4.073252667474614,"Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?"
+702,W00102,4.07274553697883,"Peso - 2ª pesagem (em kg)
+(3 inteiros e 1 casa decimal)"
+703,A02307,4.067221191365074,Quantos destes animais são aves
+704,Q09606,4.064426631676873,Por causa da depressão Toma medicamentos
+705,A018021,4.06426199055176,Neste domicílio existe forno micro-ondas
+706,M00601,4.059815221552443,"Com que frequência, habitualmente, o(a) Sr(a) trabalha(va) no horário entre 8 horas da noite e 5 horas da manhã em algum dos seus trabalhos"
+707,P04301,4.057661730374697,"No dia em que o(a) Sr(a) faz essa(s) atividade(s), quanto tempo o(a) Sr(a) gasta no deslocamento a pé ou de bicicleta, considerando Ida e Volta?Horas"
+708,D014,4.056082465818936,___concluiu este curso que frequentou 
+709,H027,4.054132142749961,Como prevenir quedas
+710,P00622,4.0518671081846245,"Margarina, maionese, ketchup ou outros molhos industrializados. "
+711,N018,4.051005266856267,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?"
+712,VDC001,4.04681875544383,"Número de componentes do domicílio (exclusive as pessoas cuja condição na família era pensionista, empregado doméstico ou parente do empregado doméstico) "
+713,Q121011,4.044602369673183,Diagnóstico de outro câncer? Bexiga
+714,Q06311,4.041878475662524,Outra
+715,H001,4.041160926082026,Quando foi a última vez que o(a) sr(a) consultou com um(a) médico(a)?
+716,Q088,4.031794752466395,Algum médico já lhe deu o diagnóstico de DORT? 
+717,E03106,4.031619665143113,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Fazer compras ou pesquisar preços de bens para o domicílio? "
+718,Q09301,4.03094037204427,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão? 
+719,P05801,4.023699516977027,Quantos por dia
+720,P00403,4.021423865239388,"Altura - Informada (em cm)
+(3 inteiros)"
+721,P00605,4.012999219681924,"Ovo (frito, cozido ou mexido ). "
+722,V02801,4.005326989443122," E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade"
+723,N010,4.003913099978436,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?"
+724,Q00601,4.002967771624258,"Nas duas últimas semanas, o(a) Sr(a) tomou os medicamentos para controlar a hipertensão arterial (pressão alta)? "
+725,Q094,3.994632653912893,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?
+726,E011,3.99364954695611,Quantos trabalhos ___tinha na semana de ___ a ___ 
+727,Q08608,3.983160992557062,Faz fisioterapia por causa do problema na coluna 
+728,Q06212,3.9786863659178975,Recomendação para fazer acompanhamento regular com profissional de saúde
+729,Q061,3.9611903568364495,Que idade o(a) Sr(a) tinha no primeiro diagnóstico de colesterol alto? 
+730,U01002,3.9609301701070847,Onde foi a última consulta odontológica
+731,E022,3.9602993233381434,"No período de ___ a ___ (período de referência de 30 dias), ___ tomou alguma providência para conseguir trabalho, seja um emprego ou um negócio próprio? "
+732,E032,3.9599977899438876,". Na semana de___a___ (semana de referência), ___fez alguma tarefa doméstica em domicílio de parente? "
+733,F008011,3.955362606838371,"Em (mês da pesquisa), ___ recebia normalmente rendimento de aluguel ou arrendamento?"
+734,Q018012,3.9450125210864013,Ingerir menos sal
+735,J012,3.929220321862567,Quantas vezes ___ consultou um médico nos últimos 12 meses
+736,Q01101,3.9049967612482073,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da hipertensão arterial? 
+737,Q09009,3.8969822156395297,Recomendado para DORT Usar medicamentos ou injeções 
+738,C017,3.8909176650810955,___já viveu com cônjuge ou companheiro (a) antes? 
+739,Q06208,3.88736996365672,Recomendação para manter o peso adequado
+740,Q12106,3.8791019983197566,Diagnóstico de outro câncer? Estômago
+741,P04902,3.878582888476963,Qual o principal motivo de não participar? 
+742,E03102,3.8633485018971845,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: cuidar da limpeza ou manutenção de roupas e sapatos/"
+743,E02502,3.850777591033705,fazia quanto tempo que vinha procurando trabalho (de 1 ano a menos de 2 anos)
+744,I00102,3.849769449737759,"tem algum plano de saúde médico particular, de empresa ou órgão público?"
+745,A018014,3.8491206306454755,Quantos?
+746,J002,3.8490096993156575," Nas duas últimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos etc.) por motivo da própria saúde"
+747,E03103,3.846579954274954,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: fazer pequenos reparos ou manutenção do domicílio, do automóvel, de eletrodomésticos ou outros equipamentos? "
+748,E02803,3.841772019645589,"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Ler, jogar ou brincar"
+749,Q00801,3.8416541598595795,Algum dos medicamentos para hipertensão arterial foi obtido no “Aqui tem farmácia popular”? 
+750,J041,3.831319468888889,O estabelecimento de saúde em que ___ esteve internado(a) pela última vez nos últimos 12 meses era
+751,D01301,3.825401825038922,"Qual foi o último ano/semestre/série que ___ concluiu, com aprovação, neste curso que frequentou "
+752,A02305,3.816757563534967,Quantos destes animais são gatos
+753,P02602,3.805377591649881,"Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc? "
+754,E01602,3.7807328040267945,Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse trabalho?(valor em dinheiro)
+755,A02201,3.769837083630912," Em seu domicílio, há algum animal de estimação"
+756,E03104,3.7520962324328084,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Limpar ou arrumar o domicílio, a garagem, o quintal ou o jardim? "
+757,P03701,3.751850328780604,"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quanto tempo em horas dura essa atividade? Horas "
+758,E01501,3.7364891943981817,Qual era a principal atividade desse negócio/empresa
+759,H028,3.734712998821743,“Esse(a) médico(a)” pergunta as suas ideias e opiniões (o que você pensa) ao planejar o tratamento e cuidado para você ou para um membro da sua família? 
+760,O00201,3.7336531004162135,"Atualmente, o(a) Sr(a) dirige motocicleta"
+761,E02802,3.732501026131199,"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Auxiliar em atividades educacionais"
+762,Q08107,3.719109876507055,Recomendação para praticar atividade física regularmente 
+763,D00202,3.6728170424322344,A escola que frequenta é da
+764,V01401,3.656988186488489,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?"
+765,I00403,3.620504417573516,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações
+766,J01301,3.6113176363138253,Quando ___ consultou um dentista pela última vez
+767,A01901,3.5488809315093843,"Algum morador tem acesso à Internet no domicílio por meio de computador, tablet, telefone móvel celular, televisão ou outro equipamento?"
+768,J014,3.5029065672117463,"Nas duas últimas semanas, ___ procurou algum lugar, serviço ou profissional de saúde para atendimento relacionado à própria saúde"
+769,D00201,3.4886227918638646,Frequenta escola ou creche
+770,A003010,3.475980706098803,Material predominante na cobertura (telhado) do domicílio
+771,I00101,3.4730375836921907,"tem algum plano odontológico particular, de empresa ou órgão público?"
+772,VDF002,3.385595165853796,"Rendimento domiciliar 
+(exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)"
+773,B001,3.3358675165288503,O seu domicílio está cadastrado na unidade de saúde da família 
+774,VDF003,3.265354260374669,"Rendimento domiciliar per capita
+(exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)"
+775,Q092,3.2005589231761125,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?
+776,A018017,3.1997482371995294,Neste domicílio existe telefone fixo convencional
+777,E03101,3.0851180224855064,"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: preparar ou servir alimentos, arrumar a mesa ou lavar as louças?"
+778,VDC003,2.9814959786375876,Total de moradores com 15 anos ou mais
+779,A002010,2.4359605260672392,Qual é o material que predomina na construção das paredes externas deste domicílio?
+780,VDF004,2.1947184449929353,"Faixa de rendimento domiciliar per capita (exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)"
+781,A004010,2.166845026256447,Qual é o material que predomina no piso deste domicílio
+782,J007,2.1571919356613685,"Algum médico já deu o diagnóstico de alguma doença crônica, física ou mental, ou doença de longa duração (de mais de 6 meses de duração) a ___"
+783,C004,1.941574564643236,Condição no domicílio
+784,A018020,1.6831284155042028,Quantos?
+785,B004,1.5329599445625153,"Nos últimos doze meses, com que frequência o seu domicílio recebeu uma visita de algum agente de endemias (como a dengue, por exemplo)"
+786,A01401,0.0,"Quantos banheiros (com chuveiro ou banheira e vaso sanitário ou privada) de uso exclusivo dos moradores existem neste domicílio, inclusive os localizados no terreno ou propriedade"
