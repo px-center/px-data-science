@@ -1,0 +1,1 @@
+select created_at, company_id, contract_days from freights f 
