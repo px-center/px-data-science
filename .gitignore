@@ -1,0 +1,5 @@
+# Ignora todos os arquivos e pastas ocultos
+.*
+
+# Exceto o próprio .gitignore
+!.gitignore
