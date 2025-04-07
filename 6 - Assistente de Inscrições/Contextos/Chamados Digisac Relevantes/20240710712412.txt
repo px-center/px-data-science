@@ -1,0 +1,152 @@
+Nome do contato:  225096- CLAUDIO PEREIRA DA SILVA
+Número do contato: 556293268421
+
+Nome do arquivo Valeria Deseta Olímpio , Sabrina De Morais Silva, Eliane Severino dos Santos Silva , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 08:45:34
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712412
+
+[Sistema, 10/07/2024 08:45:33]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 08:45:33>
+
+[Claudio Pereira(556293268421), 10/07/2024 08:45:33]: Ola bom dia?
+
+[BOT, 10/07/2024 08:45:36]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Claudio Pereira(556293268421), 10/07/2024 08:45:42]: Tou presisando de ajuda.
+
+[BOT, 10/07/2024 08:45:45]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Claudio Pereira(556293268421), 10/07/2024 08:45:48]: 1
+
+[BOT, 10/07/2024 08:45:52]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Claudio Pereira(556293268421), 10/07/2024 08:46:01]: 2
+
+[BOT, 10/07/2024 08:46:05]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Claudio Pereira(556293268421), 10/07/2024 08:46:21]: 1
+
+[Sistema, 10/07/2024 08:46:23]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 08:46:23>
+
+[BOT, 10/07/2024 08:46:24]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Claudio Pereira(556293268421), 10/07/2024 08:46:36]: Ok
+
+[Claudio Pereira(556293268421), 10/07/2024 10:24:05]: O toxicologico tem que ser atual..
+
+[Claudio Pereira(556293268421), 10/07/2024 10:48:26]: Ola bom dia ?
+
+[Claudio Pereira(556293268421), 10/07/2024 10:48:35]: Sobre o cadastro?
+
+[Sistema, 10/07/2024 11:06:46]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 11:06:46>
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:06:46]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:06:56]: Podes anexar o laudo do seu toxicológico pelo aplicativo mesmo, para a PX tem a validade de 1 ano, a equipe responsável irá avaliar depois que o senhor finalizar seu cadastro junto com um de nossos atendentes
+
+[Claudio Pereira(556293268421), 10/07/2024 11:07:45]: Ok
+
+[Claudio Pereira(556293268421), 10/07/2024 11:07:56]: 31558500197
+
+[Claudio Pereira(556293268421), 10/07/2024 11:08:06]: Goiania goias..
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:28:42]: MOTORISTA - GOIÂNIA GO ( TRUCK)
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:28:50]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 10/07/2024 11:28:54]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 11:28:54>
+
+[Sistema, 10/07/2024 11:28:59]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:28:59>
+
+[Valeria Deseta Olímpio , 10/07/2024 11:28:59]: oi
+
+[Sistema, 10/07/2024 11:28:59]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) - 10/07/2024 11:28:59>
+
+[Sistema, 10/07/2024 11:29:00]: <Chamado transferido - Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:29:00>
+
+[Eliane Severino dos Santos Silva , 10/07/2024 11:29:00]: oi
+
+[Valeria Deseta Olímpio , 10/07/2024 11:29:01]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Claudio Pereira(556293268421), 10/07/2024 11:29:32]: Nao nenhuma das opçoes.
+
+[Claudio Pereira(556293268421), 10/07/2024 12:23:36]: Estou sem trab e sem seguro.
+
+[Valeria Deseta Olímpio , 10/07/2024 13:57:31]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Claudio Pereira(556293268421), 10/07/2024 13:58:59]: Nao tenho
+
+[Claudio Pereira(556293268421), 10/07/2024 13:59:06]: Vcs podem abrir..
+
+[Claudio Pereira(556293268421), 10/07/2024 14:03:29]: Nao sei abrir?
+
+[Valeria Deseta Olímpio , 10/07/2024 14:04:42]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Claudio Pereira(556293268421), 10/07/2024 14:05:10]: Sim
+
+[Claudio Pereira(556293268421), 10/07/2024 14:18:11]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b9b8367c-9760-499c-9041-9b972be4353f.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=eU8sO2eL7BNMCpXaQWjWwr5yIoU%3D&response-content-disposition=attachment%3B%20filename%3D3364670380500923.jpeg - Nome do arquivo: 3364670380500923.jpeg
+
+[Claudio Pereira(556293268421), 10/07/2024 14:19:08]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6c98dc4a-4d36-4cec-8472-7e5e486d44ef.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=EeqE6SSRZZ6fBP7l%2Bf%2F7ScW2Oq4%3D&response-content-disposition=attachment%3B%20filename%3D1138115007271899.jpeg - Nome do arquivo: 1138115007271899.jpeg
+
+[Claudio Pereira(556293268421), 10/07/2024 14:27:13]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5086808c-7836-42bf-a9d0-b4269925110b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=AYEpk7CtCxz2CGNwG4FM0D2IuvM%3D&response-content-disposition=attachment%3B%20filename%3D8870138676336154.jpeg - Nome do arquivo: 8870138676336154.jpeg
+
+[Valeria Deseta Olímpio , 10/07/2024 15:12:46]: Encaminha sua CNH e um comprovante de residência atual
+
+[Claudio Pereira(556293268421), 10/07/2024 15:13:09]: Ok
+
+[Claudio Pereira(556293268421), 10/07/2024 15:13:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/dcbd47b8-8427-476b-8d25-77faf7abd28f.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=4r9CEVjOJPP3Bm2KXsn82WFqE%2Bk%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Claudio Pereira(556293268421), 10/07/2024 15:14:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3dbd5e10-60be-4dec-bc98-0dc69d0bfa91.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=nILEqiybHEwQy6%2Fq0Z9vTnIxfqk%3D&response-content-disposition=attachment%3B%20filename%3D1969333296850195.jpeg - Nome do arquivo: 1969333296850195.jpeg
+
+[Claudio Pereira(556293268421), 10/07/2024 15:20:41]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/cd15455a-c16d-4608-973a-42341985024d.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=EvjABD0MaS9K3WP%2Fev03aiFC0PE%3D&response-content-disposition=attachment%3B%20filename%3D8285844311468375.jpeg - Nome do arquivo: 8285844311468375.jpeg
+
+[Valeria Deseta Olímpio , 10/07/2024 15:36:36]: Comprovante de residência aceitamos de Agua,luz ou telefone,pode ser em nome de outra pessoa da casa
+
+[Valeria Deseta Olímpio , 10/07/2024 15:36:45]: pode encaminhar outro
+
+[Claudio Pereira(556293268421), 10/07/2024 15:39:46]: Ok
+
+[Claudio Pereira(556293268421), 10/07/2024 16:29:06]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f321186a-c4a0-4a20-a29f-a53f060bb8c6.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795319&Signature=vVj2ZZVLGkyib3ZKhC7GOy1vzn0%3D&response-content-disposition=attachment%3B%20filename%3D1777271886208981.jpeg - Nome do arquivo: 1777271886208981.jpeg
+
+[Claudio Pereira(556293268421), 10/07/2024 16:52:32]: Entaó?
+
+[Claudio Pereira(556293268421), 10/07/2024 16:52:44]: Este conprovante serve?
+
+[Valeria Deseta Olímpio , 10/07/2024 16:53:56]: Sim
+
+[Valeria Deseta Olímpio , 10/07/2024 16:54:07]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 11/07/2024 07:15:49]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 11/07/2024 07:15:49>
+
+[Claudio Pereira(556293268421), 11/07/2024 07:50:07]: No aguardo Bom dia?

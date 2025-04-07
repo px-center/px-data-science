@@ -1,0 +1,169 @@
+Nome do contato:  226137 - FERNANDO MINUZZI RODRIGUES
+Número do contato: 555596375596
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 08/07/2024 10:26:12
+Fechamento: 09/07/2024 18:25:16
+
+Número do protocolo: 20240708708362
+
+[Sistema, 08/07/2024 10:26:11]: <Inicio de chamado - Suporte - MOTORISTA - 08/07/2024 10:26:11>
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:26:11]: Olá
+
+[BOT, 08/07/2024 10:26:14]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:26:14]: Bom dia
+
+[BOT, 08/07/2024 10:26:17]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:26:41]: 1
+
+[BOT, 08/07/2024 10:26:45]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:27:02]: 2
+
+[BOT, 08/07/2024 10:27:05]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:27:39]: 1
+
+[Sistema, 08/07/2024 10:27:41]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 08/07/2024 10:27:41>
+
+[BOT, 08/07/2024 10:27:42]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 08/07/2024 10:36:20]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 08/07/2024 10:36:20>
+
+[Tainara Ferreira Da Silva, 08/07/2024 10:36:21]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:37:44]: 01070590029
+Santa Catarina
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:39:44]: Palhoça/ santa Catarina
+
+[Tainara Ferreira Da Silva, 08/07/2024 10:53:33]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 08/07/2024 10:53:36]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 08/07/2024 10:53:36>
+
+[Sistema, 08/07/2024 10:53:42]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 08/07/2024 10:53:42>
+
+[Valeria Deseta Olímpio , 08/07/2024 10:53:42]: oi
+
+[Valeria Deseta Olímpio , 08/07/2024 10:53:46]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 10:54:04]: Não
+
+[Valeria Deseta Olímpio , 08/07/2024 12:20:29]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 12:21:13]: Não tenho nenhum dos dois
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 12:21:43]: E não sei como fasso pra fazer um Mei
+
+[Valeria Deseta Olímpio , 08/07/2024 12:35:58]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 12:37:05]: Sim tenho
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 12:38:43]: Na CLT
+
+[Valeria Deseta Olímpio , 08/07/2024 12:42:39]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:00:52]: Esposa eciana Bernardo Soares (55) 999013974
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:00:52]: A carteira digital não sei como fasso pra enviar
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:00]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2b900d01-85b5-4dba-bbfd-982f3bf4e0db.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=2wqXxmVw75YjPGZtQ4jWw%2Fm5JC4%3D&response-content-disposition=attachment%3B%20filename%3D1907054016423207.jpeg - Nome do arquivo: 1907054016423207.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3e44f3b6-caea-447b-8ca9-e7d7291aa7b8.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=ooohun47mry8aGslQO49576lavE%3D&response-content-disposition=attachment%3B%20filename%3D828136175927267.jpeg - Nome do arquivo: 828136175927267.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9890e7dc-5a15-460c-9e9d-dcb2ea617c54.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=fufMo2rwVlbPYOhzKcE4qiESdzY%3D&response-content-disposition=attachment%3B%20filename%3D493421909815781.jpeg - Nome do arquivo: 493421909815781.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4d55ee61-c490-4963-a32d-6da1a1235ef4.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=94VMD5EoYLD%2Fm9e5i%2F10J8JzheI%3D&response-content-disposition=attachment%3B%20filename%3D452822880881402.jpeg - Nome do arquivo: 452822880881402.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/97f837f8-4672-442f-930d-a9c431ddbbe0.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=PdG8PHFXgLSJ72BNY6jTtn7ryGg%3D&response-content-disposition=attachment%3B%20filename%3D480016454616931.jpeg - Nome do arquivo: 480016454616931.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:01:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b7f7d8eb-c564-485d-b63e-0faafc1bc95c.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=6OZ22g%2FIlRVLPAOms0ISp32gcQI%3D&response-content-disposition=attachment%3B%20filename%3D1243452593303971.jpeg - Nome do arquivo: 1243452593303971.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 13:33:03]: Tenho mais experiência na CLT inclusive Mercosul mas não estou conseguindo baixar pelo aplicativo do gov.br
+
+[Valeria Deseta Olímpio , 08/07/2024 13:45:22]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 08/07/2024 14:45:07]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 08/07/2024 14:45:07>
+
+[Sistema, 08/07/2024 16:46:27]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 08/07/2024 16:46:27>
+
+[Valeria Deseta Olímpio , 08/07/2024 16:53:12]: Oi
+
+[Valeria Deseta Olímpio , 08/07/2024 16:53:19]: pode fazer uma gentileza
+
+[Valeria Deseta Olímpio , 08/07/2024 16:53:29]: o comprovante de endereço tem que ser atual
+
+[Valeria Deseta Olímpio , 08/07/2024 16:53:35]: pode encaminhar outro
+
+[Valeria Deseta Olímpio , 08/07/2024 16:54:00]: a partir 05-2024
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 16:56:45]: Arrecem passei pro meu nome
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 16:56:55]: Na verdade passei hoje
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 16:57:30]: Tenho o contrato de locatário? Será que serve
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 17:01:04]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/84472d35-b5c2-4ea0-b8f7-7c4a8765c0ff.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=kxsE1lbqsnnvDe1PuKwkGYQC020%3D&response-content-disposition=attachment%3B%20filename%3D855287149859018.jpeg - Nome do arquivo: 855287149859018.jpeg
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 08/07/2024 17:01:12]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/00d3f5a4-e730-44e1-a2a8-e7acd7049fcb.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795343&Signature=cK0rYN6Z%2FmZ70f0thufVwXpnu84%3D&response-content-disposition=attachment%3B%20filename%3D3741029482775302.jpeg - Nome do arquivo: 3741029482775302.jpeg
+
+[Valeria Deseta Olímpio , 08/07/2024 17:12:21]: Obrigada
+
+[Sistema, 08/07/2024 17:12:32]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 08/07/2024 17:12:32>
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 09/07/2024 08:48:37]: Bom dia
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 09/07/2024 08:49:23]: O que falta pra poder me candidatar para poder trabalhar na Px
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 09/07/2024 08:49:26]: ?
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 09/07/2024 11:05:48]: Bom dia
+
+[ FERNANDO MINUZZI RODRIGUES(555596375596), 09/07/2024 11:06:03]: Não estou conseguindo concluir o cadastro
+
+[Sistema, 09/07/2024 15:58:13]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 09/07/2024 15:58:13>
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 18:08:34]: Olá Fernando Lamentamos, mas no momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar em contato novamente após o período de 1 ano.
+Estimamos tudo de melhor, para você e sua família!
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 18:08:39]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 09/07/2024 18:25:16]: <Fim do chamado - undefined - 09/07/2024 18:25:16>

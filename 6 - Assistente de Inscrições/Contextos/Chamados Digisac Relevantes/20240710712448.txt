@@ -1,0 +1,115 @@
+Nome do contato:   12584 JOSé CAVALCANTE FERREIRA
+Número do contato: 5519974134596
+
+Nome do arquivo Ana Flávia Orosimbo Pinheiro
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:10:10
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712448
+
+[Sistema, 10/07/2024 09:10:08]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:10:08>
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:10:08]: Bom dia
+
+[BOT, 10/07/2024 09:10:11]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:10:26]: 1
+
+[BOT, 10/07/2024 09:10:29]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:10:41]: 2
+
+[BOT, 10/07/2024 09:10:44]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:11:09]: 2
+
+[Sistema, 10/07/2024 09:11:11]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 09:11:11>
+
+[BOT, 10/07/2024 09:11:12]: Tranquilo! Correria?! Consegue tentar agora e voltar a me chamar quando terminar?
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:11:32]: Ok
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:15:23]: Fiz o login, deu candidatura negada.
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 09:16:10]: Precisa arrumar o cadastro.
+
+[Sistema, 10/07/2024 10:15:22]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 10/07/2024 10:15:22>
+
+[Sistema, 10/07/2024 10:15:28]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Ana Flávia Orosimbo Pinheiro) - 10/07/2024 10:15:28>
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 10:15:28]: oi
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 10:15:41]: Bom dia! Me chamo Ana Flávia e vou te auxiliar no cadastro.
+Para concluir, eu preciso confirmar algumas informações. Aliás, qualquer dúvida, pode me perguntar! Vamos lá?
+Primeiro: Está trabalhando CLT ou recebendo seguro?
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 10:44:52]: Bom dia não estou CLT, estou fazendo Uber
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 10:46:47]: Nem seguro.
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 11:17:11]: Tem  1 ano ou mais de experiência com caminhão ou ônibus de 2017 pra frente?
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 11:28:03]: Sim
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 11:28:16]: Aí todo 30 anis
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 11:28:22]: Anis
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 11:28:36]: Anos
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 13:11:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7e8f8b4c-ea9c-44cc-abdb-43f4d09f916b.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795313&Signature=lAfBqSOvSgODzNqtacjJMSA6Dk0%3D&response-content-disposition=attachment%3B%20filename%3Dqualcidade.mp3 - Nome do arquivo: qualcidade.mp3
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 14:12:28]: Campinas
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 14:12:48]: Estado de são Paulo
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 14:28:24]: No final do processo você será prestador de serviço com CNPJ/MEI. Tudo bem pra você abrir MEI?
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 15:25:38]: Sim tudo bem
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 17:11:56]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c557bafb-9e2b-4a09-8c8e-10f6e2262dbb.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795313&Signature=a9dVTTKi4EO9YQjsDRsZz%2BJgyoo%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 17:16:16]: Ok obrigado
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 17:16:38]: - 2 Contatos de Emergência ( Ex: Filho,Esposa, Pai, Mãe, irmão)
+-Comprovante de residência mais recente de água, luz ou telefone 
+-Foto ou versão digital da carteira de trabalho
+-Me informar cidade e estado que nasceu
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 17:16:45]: Esses por favor
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 22:25:12]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1ffb81b7-1197-4515-b6dd-f09dbd108751.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795313&Signature=nDR%2B3%2BmIXxRtRjvtiwYlERcJ8xk%3D&response-content-disposition=attachment%3B%20filename%3DVer-Minha-Fatura-Claro-AQUI-38.pdf - Nome do arquivo: Ver-Minha-Fatura-Claro-AQUI-38.pdf
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 22:26:36]: undefined
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 22:27:36]: undefined
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 22:30:05]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b69274be-1bcd-4f84-894e-f7d93dee5850.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795313&Signature=SgcveSJbMUiDo%2BpNhHQzheU70LQ%3D&response-content-disposition=attachment%3B%20filename%3DJos%25C3%25A9-Cavalcante-Ferreira.pdf - Nome do arquivo: José-Cavalcante-Ferreira.pdf
+
+[  12584 JOSé CAVALCANTE FERREIRA(5519974134596), 10/07/2024 22:36:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/903cd1a7-2ea9-477d-bd40-790e478ebb7b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795313&Signature=yKKfnWZvxYhRvYqL6hr3LejCx58%3D&response-content-disposition=attachment%3B%20filename%3D409928411404018.jpeg - Nome do arquivo: 409928411404018.jpeg

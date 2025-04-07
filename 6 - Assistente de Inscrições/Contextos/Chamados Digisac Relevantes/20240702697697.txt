@@ -1,0 +1,173 @@
+Nome do contato: 207566 - ROGÉRIO ARAUJO DE OLIVEIRA
+Número do contato: 557192748283
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Michael Franz, Tainara Ferreira Da Silva
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 01/07/2024 21:40:54
+Fechamento: 05/07/2024 14:34:14
+
+Número do protocolo: 20240702697697
+
+[Sistema, 01/07/2024 21:40:51]: <Inicio de chamado - Suporte - MOTORISTA - 01/07/2024 21:40:51>
+
+[Carol🍀(557192748283), 01/07/2024 21:40:51]: Oi
+
+[BOT, 01/07/2024 21:40:55]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Carol🍀(557192748283), 01/07/2024 21:41:27]: 1
+
+[BOT, 01/07/2024 21:41:29]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Carol🍀(557192748283), 01/07/2024 21:42:33]: 2
+
+[BOT, 01/07/2024 21:42:36]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Carol🍀(557192748283), 01/07/2024 21:43:23]: 1
+
+[Sistema, 01/07/2024 21:43:25]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 01/07/2024 21:43:25>
+
+[BOT, 01/07/2024 21:43:26]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 02/07/2024 08:13:58]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 02/07/2024 08:13:58>
+
+[Tainara Ferreira Da Silva, 02/07/2024 08:13:58]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Carol🍀(557192748283), 02/07/2024 08:20:28]: Bom dia, 02056630524 Salvador Bahia
+
+[Tainara Ferreira Da Silva, 02/07/2024 08:28:47]: SEGUIR (SALVADOR BA  - FILA)
+
+[Tainara Ferreira Da Silva, 02/07/2024 08:28:55]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 02/07/2024 08:29:09]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 02/07/2024 08:29:09>
+
+[Sistema, 02/07/2024 08:29:14]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Michael Franz) - 02/07/2024 08:29:14>
+
+[Michael Franz, 02/07/2024 08:29:14]: oi
+
+[Michael Franz, 02/07/2024 08:29:19]: Olá,
+
+Sou Michael da Motorista PX, e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Qual sua cidade/região?
+
+[Carol🍀(557192748283), 02/07/2024 09:51:17]: Salvador Bahia
+
+[Carol🍀(557192748283), 02/07/2024 09:51:26]: Fazenda grande do Retiro
+
+[Michael Franz, 02/07/2024 10:43:47]: Qual nome da cidade?
+
+[Carol🍀(557192748283), 02/07/2024 10:44:05]: Salvador
+
+[Michael Franz, 02/07/2024 10:47:46]: Legal.... temos demanda de motoristas em sua região.
+
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Carol🍀(557192748283), 02/07/2024 10:57:07]: Desempregado
+
+[Carol🍀(557192748283), 02/07/2024 10:57:37]: Sem Receber seguro
+
+[Michael Franz, 02/07/2024 11:02:17]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Carol🍀(557192748283), 02/07/2024 11:04:11]: Pode abrir online?
+
+[Carol🍀(557192748283), 02/07/2024 11:04:46]: Sou contrata com CNPJ?
+
+[Michael Franz, 02/07/2024 11:05:28]: O MEI(cnpj) é necessário para rodar na PX, com ele você emite as notas fiscais após realizar as viagens e recebe pelos serviços também, além de ficar assegurado pelo INSS.
+
+[Michael Franz, 02/07/2024 11:05:40]: Mas fique tranquilo, ajudamos com a MEI no fim da Validação desse cadastro.
+
+[Michael Franz, 02/07/2024 11:05:40]: Você tem experiência comprovada como motorista (CNH C, D ou E) de no mínimo 1 ano (de 2017 à 2024)? (CLT, Nota Fiscal, manifesto, contrato etc)
+
+[Carol🍀(557192748283), 02/07/2024 11:07:06]: Tenho experiência
+
+[Michael Franz, 02/07/2024 11:12:25]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH (Pode ser digital)
+ • Carteira de Trabalho digital (Experiências de 2017 a 2024)
+ • Comprovante de Residencia um dos últimos 3 meses (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Michael Franz, 02/07/2024 19:40:26]: Olá! Quando possível, não esqueça de me enviar os documentos para finalizar seu cadastro. Obrigado!
+
+[Carol🍀(557192748283), 04/07/2024 10:46:07]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/11eb4c2f-9237-448a-9f04-dcb6c26830ad.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=9PPWOB7u1MC%2BsSrM7uqkQtuA%2F%2B8%3D&response-content-disposition=attachment%3B%20filename%3DLaudo_29042024_121418.pdf - Nome do arquivo: Laudo_29042024_121418.pdf
+
+[Carol🍀(557192748283), 04/07/2024 10:46:07]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/bbd0f558-e1c1-4ef9-a2cf-d5f87b93146e.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=if2tkntLCkwx6dbk31cREAWVUCg%3D&response-content-disposition=attachment%3B%20filename%3DCNH.ROG.24.pdf - Nome do arquivo: CNH.ROG.24.pdf
+
+[Carol🍀(557192748283), 04/07/2024 10:46:08]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/cfd0016a-7541-4c09-bac2-f29a5acf32dd.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=meK3Rr1sAq4vFbDnQY%2FTAPny2hQ%3D&response-content-disposition=attachment%3B%20filename%3DCOMPROVANTE.RESIDENCIA.pdf - Nome do arquivo: COMPROVANTE.RESIDENCIA.pdf
+
+[Carol🍀(557192748283), 04/07/2024 10:48:23]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/72aca18a-839b-410e-b084-a10020215b91.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=bhiSaLVsb2AhsgGxH0JesoHrNj0%3D&response-content-disposition=attachment%3B%20filename%3D2217910415219783.jpeg - Nome do arquivo: 2217910415219783.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 10:48:23]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/eb56e721-63e6-4933-9302-34cb11999d09.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=ALvzUL%2BIk9u9cYN8neSsUWIy9GQ%3D&response-content-disposition=attachment%3B%20filename%3D2217910415219783.jpeg - Nome do arquivo: 2217910415219783.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 10:48:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2e94e2d0-0077-4431-996d-bb9bb776a35e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=dXdvJVyUK%2FozCIzfNlYGldJ6X6U%3D&response-content-disposition=attachment%3B%20filename%3D499182479451581.jpeg - Nome do arquivo: 499182479451581.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 10:48:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ecddaca3-2b12-4746-af7b-6bfc95b47662.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=ECp1fitNFw%2FLTj1e8s6%2BYadNr%2FI%3D&response-content-disposition=attachment%3B%20filename%3D398615163191629.jpeg - Nome do arquivo: 398615163191629.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 10:48:25]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/dc83fd21-2d63-4aee-9409-b95ae0de6cf0.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=id3OFKK8fjjdQe2Uu7VdtDCtdHo%3D&response-content-disposition=attachment%3B%20filename%3D1024511359197182.jpeg - Nome do arquivo: 1024511359197182.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 10:48:47]: A carteira de trabalho digital já tem dias que tento entrar e não consigo
+
+[Carol🍀(557192748283), 04/07/2024 10:49:13]: Telefone para contato 71986791327
+71992298861
+
+[Carol🍀(557192748283), 04/07/2024 10:56:59]: Trabalhei até com o Frete Braz Viajando 
+São Paulo x Salvador 
+Curitiba x Mato grosso e Paraná
+
+[Michael Franz, 04/07/2024 17:01:08]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0d2756ee-9ade-4d95-9f47-b1b691b3b187.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=3IL7QFkCaMTVQ5Wr4ogaY4mykL8%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Carol🍀(557192748283), 04/07/2024 17:01:54]: Pronto vou estar te enviando
+
+[Michael Franz, 04/07/2024 21:10:25]: Consegue me mandar agora amigo... já consigo adiantar seu cadastro, e amanhã a equipe da próxima etapa já entra em contato.
+
+[Carol🍀(557192748283), 04/07/2024 21:12:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/477e7511-a60e-4643-8e64-fca1b144decf.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=lZhv8%2BxTbtTV3BMBm4e6yYEtfTQ%3D&response-content-disposition=attachment%3B%20filename%3D1040413677430330.jpeg - Nome do arquivo: 1040413677430330.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 21:12:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e08d7d93-1758-4674-9885-d117d69560bc.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=pbeASVfGHipvcwInKma%2FS0Gm%2FU4%3D&response-content-disposition=attachment%3B%20filename%3D442510122008242.jpeg - Nome do arquivo: 442510122008242.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 21:12:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/059bf48d-c4dd-4d69-804c-344002c68846.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=GEMVHixJeYo8gZdmN5HSrJxEFyo%3D&response-content-disposition=attachment%3B%20filename%3D1341987470053645.jpeg - Nome do arquivo: 1341987470053645.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 21:12:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8adf1cfa-c4ab-47c8-bebd-9c901ba9a2de.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=PYdoY52mbsyjw5qDvfIxAditkHQ%3D&response-content-disposition=attachment%3B%20filename%3D497102759653530.jpeg - Nome do arquivo: 497102759653530.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 21:12:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6d2c7b9a-8db2-4ee0-ab92-f6012330520e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=GKfVkF%2BKEItwV0z9ChGpFmntRuE%3D&response-content-disposition=attachment%3B%20filename%3D794087869541126.jpeg - Nome do arquivo: 794087869541126.jpeg
+
+[Carol🍀(557192748283), 04/07/2024 21:12:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4fd69692-13b6-4869-8b04-78e404c01a1e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795493&Signature=qfAQ98xo9MD446ciJp88piTgs9I%3D&response-content-disposition=attachment%3B%20filename%3D391125157308751.jpeg - Nome do arquivo: 391125157308751.jpeg
+
+[Michael Franz, 04/07/2024 21:46:52]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 04/07/2024 21:47:02]: <Chamado transferido - Cadex Etapa 1 - LEAD (Michael Franz) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 04/07/2024 21:47:02>
+
+[Sistema, 05/07/2024 13:59:24]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 13:59:24>
+
+[Fernanda de Ávila Feijó Machado Matos, 05/07/2024 14:14:09]: Olá Rogerio , Lamentamos mas  para o momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar novamente em contato após um período de 1 ano.
+Estimamos tudo de melhor para você e sua família.
+
+[Fernanda de Ávila Feijó Machado Matos, 05/07/2024 14:34:08]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 05/07/2024 14:34:14]: <Fim do chamado - undefined - 05/07/2024 14:34:14>

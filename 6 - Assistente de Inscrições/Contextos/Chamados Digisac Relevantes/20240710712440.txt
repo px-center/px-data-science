@@ -1,0 +1,103 @@
+Nome do contato: Leandro Paulino
+Número do contato: 553195200628
+
+Nome do arquivo Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:05:54
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712440
+
+[Sistema, 10/07/2024 09:05:53]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:05:53>
+
+[Leandro Paulino(553195200628), 10/07/2024 09:05:53]: Oi
+
+[BOT, 10/07/2024 09:05:56]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Leandro Paulino(553195200628), 10/07/2024 09:06:04]: 1
+
+[BOT, 10/07/2024 09:06:07]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Leandro Paulino(553195200628), 10/07/2024 09:06:25]: 2
+
+[BOT, 10/07/2024 09:06:28]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Leandro Paulino(553195200628), 10/07/2024 09:06:51]: 3
+
+[Sistema, 10/07/2024 09:06:54]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 09:06:54>
+
+[BOT, 10/07/2024 09:06:55]: Hum.. Entendi! Lamento meu parceiro. Acontece, ou por celular, ou por internet, ou por um BUG mesmo.. Mas deixa pra mim.. Vou te chamar um especialista no time aqui, blza?!
+
+[Sistema, 10/07/2024 11:07:50]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 11:07:50>
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:07:51]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Leandro Paulino(553195200628), 10/07/2024 11:39:12]: 06614375660
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:50:42]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 10/07/2024 11:50:48]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 11:50:48>
+
+[Sistema, 10/07/2024 11:50:54]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:50:54>
+
+[Valeria Deseta Olímpio , 10/07/2024 11:50:55]: OI
+
+[Valeria Deseta Olímpio , 10/07/2024 11:50:59]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Leandro Paulino(553195200628), 10/07/2024 14:39:40]: Tava trabalhando
+
+[Leandro Paulino(553195200628), 10/07/2024 14:39:49]: Registrado
+
+[Leandro Paulino(553195200628), 10/07/2024 14:40:03]: Oi
+
+[Valeria Deseta Olímpio , 10/07/2024 15:16:33]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Leandro Paulino(553195200628), 10/07/2024 15:44:11]: Tenho não
+
+[Leandro Paulino(553195200628), 10/07/2024 15:44:35]: Precisa
+
+[Valeria Deseta Olímpio , 10/07/2024 15:59:08]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Leandro Paulino(553195200628), 10/07/2024 16:09:56]: Tenho
+
+[Leandro Paulino(553195200628), 10/07/2024 16:10:42]: Pode me liga não entendi a pergunta
+
+[Valeria Deseta Olímpio , 10/07/2024 16:49:49]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Leandro Paulino(553195200628), 10/07/2024 17:02:10]: Pode me ligar
+
+[Valeria Deseta Olímpio , 10/07/2024 18:01:10]: Somente por audio
+
+[Leandro Paulino(553195200628), 10/07/2024 19:38:39]: Praq

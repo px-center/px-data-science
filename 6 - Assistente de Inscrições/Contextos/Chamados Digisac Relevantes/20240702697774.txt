@@ -1,0 +1,143 @@
+Nome do contato: 104393 - VANESSA RODRIGUES CLAUDINO OTTO
+Número do contato: 554796741031
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Michael Franz
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO  NA GR
+
+Abertura: 02/07/2024 07:22:47
+Fechamento: 03/07/2024 14:05:00
+
+Número do protocolo: 20240702697774
+
+[Sistema, 02/07/2024 07:22:44]: <Inicio de chamado - Suporte - MOTORISTA - 02/07/2024 07:22:44>
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 07:22:44]: Bom dia!
+
+[BOT, 02/07/2024 07:22:48]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 07:23:03]: 1
+
+[BOT, 02/07/2024 07:23:06]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 07:23:21]: 2
+
+[BOT, 02/07/2024 07:23:24]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 07:23:48]: 3
+
+[Sistema, 02/07/2024 07:23:50]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 02/07/2024 07:23:50>
+
+[BOT, 02/07/2024 07:23:51]: Hum.. Entendi! Lamento meu parceiro. Acontece, ou por celular, ou por internet, ou por um BUG mesmo.. Mas deixa pra mim.. Vou te chamar um especialista no time aqui, blza?!
+
+[Sistema, 02/07/2024 08:34:58]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 02/07/2024 08:34:58>
+
+[Sistema, 02/07/2024 08:35:11]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Michael Franz) - 02/07/2024 08:35:11>
+
+[Michael Franz, 02/07/2024 08:35:11]: oi
+
+[Michael Franz, 02/07/2024 08:35:15]: Olá,
+
+Sou Michael da Motorista PX, e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Qual sua cidade/região?
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 08:47:29]: Moro em Itapema, Santa Catarina
+
+[Michael Franz, 02/07/2024 08:57:15]: Legal.... temos demanda de motoristas em sua região.
+
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:21:41]: Não estou trabalhando, vou fazer o Mei hoje!
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:22:03]: Mas, já sou motorista de caminhão a 13 anos
+
+[Michael Franz, 02/07/2024 09:26:25]: Fique tranquilo, ajudamos com a MEI no fim da Validação desse cadastro. Não precisa fazer já... nós ajudamos, sem custo para isso.
+
+[Michael Franz, 02/07/2024 09:26:27]: Você tem experiência comprovada como motorista (CNH C, D ou E) de no mínimo 1 ano (de 2017 à 2024)? (CLT, Nota Fiscal, manifesto, contrato etc)
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:27:51]: Sim
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:28:10]: Tenho experiência no CLT
+
+[Michael Franz, 02/07/2024 09:30:06]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH (Pode ser digital)
+ • Carteira de Trabalho digital (Experiências de 2017 a 2024)
+ • Comprovante de Residencia um dos últimos 3 meses (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:30:59]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e898ffcb-1cd9-4dc5-83b3-fa2da1ab151b.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795596&Signature=8WFMyVQUhRkbm4JM5rLhjSzfl7A%3D&response-content-disposition=attachment%3B%20filename%3DVanessa-Rodrigues-Claudino-Otto.pdf - Nome do arquivo: Vanessa-Rodrigues-Claudino-Otto.pdf
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:31:15]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/35a0059c-258d-438b-9e37-db675d8d1a88.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795596&Signature=n7mLTmwxeSVjh20l1mz6AJAwf2U%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Michael Franz, 02/07/2024 09:33:03]: • Carteira de Trabalho digital (Experiências de 2017 a 2024)
+• Comprovante de Residencia um dos últimos 3 meses (Agua,luz ou telefone)
+• Contato de Emergência ( Ex: Esposa, filho, Pai, Mã
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:36:13]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/02bf79c2-22dc-4946-851c-2690f95e76dc.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795596&Signature=19cVxnFlQxqDjJtCmBfLJzHXJNQ%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_03964976911_16-04-2024.pdf - Nome do arquivo: CTPSDigital_03964976911_16-04-2024.pdf
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:37:42]: Telefone mãe 48: 98822-1297
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:38:53]: Esposa Elen: 48 99180-6067
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:42:01]: Pode desconsiderar esse número!
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:42:54]: Tenho outro contato meu 48 99160-3170
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 09:45:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b5125ae5-7dea-4cf0-b0ee-7325b5b5d44b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795596&Signature=9uzgiKmsyGnF1a2JuSJwSEu%2Ff%2F4%3D&response-content-disposition=attachment%3B%20filename%3D2355957647927554.jpeg - Nome do arquivo: 2355957647927554.jpeg
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 10:28:51]: Oi
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 10:45:17]: Oi
+
+[Michael Franz, 02/07/2024 10:59:42]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Michael Franz, 02/07/2024 15:50:04]: oi
+
+[Michael Franz, 02/07/2024 15:50:35]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 02/07/2024 15:51:05]: <Chamado transferido - Cadex Etapa 1 - LEAD (Michael Franz) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 02/07/2024 15:51:05>
+
+[Vanessa Rodrigues(554796741031), 02/07/2024 17:33:12]: Por acaso vocês ligam para confirmar o cadastro??
+
+[Sistema, 03/07/2024 10:40:47]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 03/07/2024 10:40:47>
+
+[Fernanda de Ávila Feijó Machado Matos, 03/07/2024 11:51:25]: Olá Vanessa Lamentamos mas para o momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar novamente em contato após um período de 1 ano.
+Estimamos tudo de melhor para você e sua família.
+
+[Vanessa Rodrigues(554796741031), 03/07/2024 11:52:10]: Que palhaçada
+
+[Vanessa Rodrigues(554796741031), 03/07/2024 11:52:39]: Porque não
+
+[Fernanda de Ávila Feijó Machado Matos, 03/07/2024 11:52:57]: Essa não conformidade pode ocorrer devido a problemas de documentação, título de eleitor, declaração de imposto de renda ou até mesmo a processos (julgados, em aberto ou arquivados). Por isso não conseguimos seguir com o seu cadastro.
+
+[Fernanda de Ávila Feijó Machado Matos, 03/07/2024 11:53:02]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Vanessa Rodrigues(554796741031), 03/07/2024 11:53:39]: Ridículo isso
+
+[Vanessa Rodrigues(554796741031), 03/07/2024 11:59:59]: Vocês vão ficar sem mão de obra daqui a pouco
+
+[Sistema, 03/07/2024 14:05:00]: <Fim do chamado - undefined - 03/07/2024 14:05:00>

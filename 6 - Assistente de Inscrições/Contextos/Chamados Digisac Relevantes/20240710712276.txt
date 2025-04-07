@@ -1,0 +1,88 @@
+Nome do contato: Paulo Dalcim
+Número do contato: 554791030727
+
+Nome do arquivo Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 05:59:02
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712276
+
+[Sistema, 10/07/2024 05:59:00]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 05:59:00>
+
+[Paulo Dalcim(554791030727), 10/07/2024 05:59:00]: Gostaria de entrar em Contato para Dúvidas referente a Motorista PX.
+
+[BOT, 10/07/2024 05:59:03]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Paulo Dalcim(554791030727), 10/07/2024 05:59:41]: 1
+
+[BOT, 10/07/2024 05:59:46]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Paulo Dalcim(554791030727), 10/07/2024 06:00:17]: 2
+
+[BOT, 10/07/2024 06:00:21]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Paulo Dalcim(554791030727), 10/07/2024 06:00:59]: 3
+
+[Sistema, 10/07/2024 06:01:02]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 06:01:02>
+
+[BOT, 10/07/2024 06:01:03]: Hum.. Entendi! Lamento meu parceiro. Acontece, ou por celular, ou por internet, ou por um BUG mesmo.. Mas deixa pra mim.. Vou te chamar um especialista no time aqui, blza?!
+
+[Sistema, 10/07/2024 10:58:19]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 10:58:19>
+
+[Tainara Ferreira Da Silva, 10/07/2024 10:58:19]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Paulo Dalcim(554791030727), 10/07/2024 10:59:19]: 16689554821
+Jaraguá do Sul 
+Santa Catarina
+
+[Paulo Dalcim(554791030727), 10/07/2024 10:59:38]: Sou carreteiro
+
+[Paulo Dalcim(554791030727), 10/07/2024 10:59:42]: Blz
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:22:43]: JARAGUA DO SUL - SC
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:23:26]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 10/07/2024 11:23:34]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 11:23:34>
+
+[Sistema, 10/07/2024 11:23:40]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:23:40>
+
+[Valeria Deseta Olímpio , 10/07/2024 11:23:41]: oi
+
+[Valeria Deseta Olímpio , 10/07/2024 11:23:46]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Paulo Dalcim(554791030727), 10/07/2024 11:56:27]: Nao
+
+[Valeria Deseta Olímpio , 10/07/2024 13:48:37]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Paulo Dalcim(554791030727), 10/07/2024 14:02:14]: Pra ser motorista Px tem que ter CNPJ ou Mei
+
+[Valeria Deseta Olímpio , 10/07/2024 14:07:31]: Sim

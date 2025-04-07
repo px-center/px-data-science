@@ -1,0 +1,128 @@
+Nome do contato: Eduardo
+Número do contato: 558196175685
+
+Nome do arquivo Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:56:35
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712533
+
+[Sistema, 10/07/2024 09:56:32]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:56:32>
+
+[Eduardo(558196175685), 10/07/2024 09:56:32]: Olá Bom dia
+
+[BOT, 10/07/2024 09:56:37]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Eduardo(558196175685), 10/07/2024 09:56:55]: 1
+
+[BOT, 10/07/2024 09:56:58]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Eduardo(558196175685), 10/07/2024 09:57:33]: 2
+
+[BOT, 10/07/2024 09:57:37]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Eduardo(558196175685), 10/07/2024 09:58:49]: 1
+
+[Sistema, 10/07/2024 09:58:51]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 09:58:51>
+
+[BOT, 10/07/2024 09:58:53]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Eduardo(558196175685), 10/07/2024 09:59:22]: Ok
+
+[Sistema, 10/07/2024 11:08:44]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 11:08:44>
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:08:44]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Eduardo(558196175685), 10/07/2024 11:14:58]: CPF 119.678.174.56
+Pernambuco
+
+[Eduardo(558196175685), 10/07/2024 11:15:28]: Jaboatão dos guararapes
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:39:10]: MOTORISTAS - RECIFE PE (TRUCK)
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:39:21]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 10/07/2024 11:39:24]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 11:39:24>
+
+[Sistema, 10/07/2024 11:39:29]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:39:29>
+
+[Valeria Deseta Olímpio , 10/07/2024 11:39:29]: oi
+
+[Valeria Deseta Olímpio , 10/07/2024 11:39:33]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Eduardo(558196175685), 10/07/2024 11:51:04]: Não estou trabalhando não
+
+[Eduardo(558196175685), 10/07/2024 11:51:43]: Estou sim recebendo seguro
+
+[Valeria Deseta Olímpio , 10/07/2024 13:47:02]: Como você está recebendo o seguro-desemprego informamos que no fim do cadastro é necessario ter o MEI (CNPJ) e emitir notas, ao fazer isso pode perder direito ao benefício. deseja seguir com o cadastro ou prefere aguardar ?
+
+[Eduardo(558196175685), 10/07/2024 13:51:01]: Quero continuar meu cadastro mais eu não tenho MEI não como eu faço para fazer
+
+[Eduardo(558196175685), 10/07/2024 13:51:09]: O MEI
+
+[Eduardo(558196175685), 10/07/2024 13:51:17]: ❓
+
+[Valeria Deseta Olímpio , 10/07/2024 13:52:48]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Eduardo(558196175685), 10/07/2024 13:54:20]: Tenho sim já trabalhei como motorista de caminhão
+
+[Eduardo(558196175685), 10/07/2024 13:54:53]: Por 2 anos
+
+[Valeria Deseta Olímpio , 10/07/2024 13:55:16]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Eduardo(558196175685), 10/07/2024 13:56:18]: Ok
+
+[Eduardo(558196175685), 10/07/2024 13:56:28]: Já já estou mandando
+
+[Eduardo(558196175685), 10/07/2024 13:57:37]: Mais eu não tenho carteira digital
+
+[Eduardo(558196175685), 10/07/2024 13:58:12]: A minha é normal de papel
+
+[Eduardo(558196175685), 10/07/2024 14:16:31]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f9f27ca5-e318-4c93-9376-71751d7dc988.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795229&Signature=1aMkjQ40IzVI9Z43ymQdSP%2FEf1c%3D&response-content-disposition=attachment%3B%20filename%3D982011066938636.jpeg - Nome do arquivo: 982011066938636.jpeg
+
+[Eduardo(558196175685), 10/07/2024 14:16:31]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/65250c53-455b-45ca-b4e9-c07f09d7ee9e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795229&Signature=qYq05Rl2riR1O7wLa6dnJr2Jgfs%3D&response-content-disposition=attachment%3B%20filename%3D820283493399513.jpeg - Nome do arquivo: 820283493399513.jpeg
+
+[Eduardo(558196175685), 10/07/2024 14:16:31]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a86a0a2b-3537-430c-9d6f-42ab3500d199.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795229&Signature=D%2B1x9vdyHqBov959q%2FiSk1P9PHI%3D&response-content-disposition=attachment%3B%20filename%3D1041560474197353.jpeg - Nome do arquivo: 1041560474197353.jpeg
+
+[Eduardo(558196175685), 10/07/2024 14:16:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c2582811-55c3-4f0d-947a-63d4f5737320.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795229&Signature=nJa4jaWh9ntgXjeAyekIhxuButc%3D&response-content-disposition=attachment%3B%20filename%3D1230021691694114.jpeg - Nome do arquivo: 1230021691694114.jpeg
+
+[Eduardo(558196175685), 10/07/2024 14:16:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9cf2783f-e4b8-4204-80d4-08c74a96b6e8.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795229&Signature=MuGH8MATTFgIOFRjWrR2tktXClA%3D&response-content-disposition=attachment%3B%20filename%3D1158605192116696.jpeg - Nome do arquivo: 1158605192116696.jpeg
+
+[Eduardo(558196175685), 10/07/2024 14:17:48]: 81 9477-3467 número de minha esposa
+
+[Valeria Deseta Olímpio , 10/07/2024 14:45:13]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!

@@ -1,0 +1,205 @@
+Nome do contato:  221226- REINALDO BISPO DA CONCEICAO
+Número do contato: 557398164156
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Regianne Maysa Costa Almeida Norte, Aline de Freitas Franca Santos, Sabrina De Morais Silva, Valeria Deseta Olímpio , Tainara Ferreira Da Silva, Jhenyffer Cristina Baches Nunes
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 03/07/2024 21:11:01
+Fechamento: 06/07/2024 10:40:24
+
+Número do protocolo: 20240704702118
+
+[Sistema, 03/07/2024 21:10:59]: <Inicio de chamado - Suporte - MOTORISTA - 03/07/2024 21:10:59>
+
+[Reinaldo Bispo(557398164156), 03/07/2024 21:10:59]: Gostaria de entrar em Contato para Dúvidas referente a Motorista PX.
+
+[BOT, 03/07/2024 21:11:03]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Reinaldo Bispo(557398164156), 03/07/2024 21:11:23]: 1
+
+[BOT, 03/07/2024 21:11:25]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Reinaldo Bispo(557398164156), 03/07/2024 21:11:45]: 1
+
+[BOT, 03/07/2024 21:11:48]: Maravilha, seja muito bem vindo!
+
+Vamos lá! Qual é a categoria da sua CNH?
+ 
+1 - B ou AB
+2 - C, D ou AC, AD
+3 - E ou AE
+
+0 - Voltar ao Menu principal.
+
+[Reinaldo Bispo(557398164156), 03/07/2024 21:12:05]: 2
+
+[BOT, 03/07/2024 21:12:09]: Legal! Já baixou o app?
+Sim ou Não?
+
+0 - Voltar ao Menu principal.
+
+[Sistema, 04/07/2024 08:15:33]: <Chamado transferido - Suporte - MOTORISTA para Suporte - MOTORISTA (Jhenyffer Cristina Baches Nunes) - 04/07/2024 08:15:33>
+
+[Jhenyffer Cristina Baches Nunes, 04/07/2024 08:15:33]: Olá, como você está? 😃
+Vou encaminhar seu chamado para a pessoa responsável. Só um momento.
+
+[Sistema, 04/07/2024 08:15:36]: <Chamado transferido - Suporte - MOTORISTA (Jhenyffer Cristina Baches Nunes) para Atendimento - MOTORISTA - 04/07/2024 08:15:36>
+
+[Sistema, 04/07/2024 09:02:43]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 04/07/2024 09:02:43>
+
+[Tainara Ferreira Da Silva, 04/07/2024 09:02:43]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Reinaldo Bispo(557398164156), 04/07/2024 09:05:19]: CPF 106.546.168-25 vitória da conquista BA
+
+[Tainara Ferreira Da Silva, 04/07/2024 09:21:38]: MOTORISTA - VITORIA DA CONQUISTA BA ( TRUCK)
+
+[Tainara Ferreira Da Silva, 04/07/2024 09:21:45]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 04/07/2024 09:21:49]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 04/07/2024 09:21:49>
+
+[Sistema, 04/07/2024 09:21:54]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 04/07/2024 09:21:54>
+
+[Valeria Deseta Olímpio , 04/07/2024 09:21:55]: oi
+
+[Valeria Deseta Olímpio , 04/07/2024 09:21:59]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Reinaldo Bispo(557398164156), 04/07/2024 09:26:53]: Bom dia Estou desempregado e sem nenhuma renda
+
+[Valeria Deseta Olímpio , 04/07/2024 10:01:57]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Reinaldo Bispo(557398164156), 04/07/2024 10:48:22]: Não tenho
+
+[Valeria Deseta Olímpio , 04/07/2024 12:28:56]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Reinaldo Bispo(557398164156), 04/07/2024 12:50:21]: Tenho sim 
+Sou motorista a mais de 20 anos e tenho como provar
+
+[Reinaldo Bispo(557398164156), 04/07/2024 12:54:53]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/934f8b1f-e1c1-477a-a140-b0f5e49170e3.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=AmPl5UejOXk1QKMB97K%2FYbIDQgk%3D&response-content-disposition=attachment%3B%20filename%3D778981357650692.jpeg - Nome do arquivo: 778981357650692.jpeg
+
+[Valeria Deseta Olímpio , 04/07/2024 14:21:01]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:41:47]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/01df4d66-0cc2-4d2a-96db-759e1e7c40db.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=OpjJu8XcxXuZgO0rPkE9X2I0JFg%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_10654616825_04-07-2024.pdf - Nome do arquivo: CTPSDigital_10654616825_04-07-2024.pdf
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:41:47]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8ca7d2c1-0f8c-46a1-8e00-d877e78c3a8d.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=Lxoi4RCgUFnn%2BDo1%2BaauqwzFJJw%3D&response-content-disposition=attachment%3B%20filename%3Dlaudo_motion.pdf - Nome do arquivo: laudo_motion.pdf
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:41:48]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6d1c49b0-9a7b-4bbc-8b91-bba7fe92c15c.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=IlQX9Tqo5St1GZdNrlqPMGT%2Btbk%3D&response-content-disposition=attachment%3B%20filename%3D1552575102018679.jpeg - Nome do arquivo: 1552575102018679.jpeg
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:41:48]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b909541f-ce3f-46bc-977a-ae8d2899ffb3.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=jwvIgoUXHP6QF1wqiCVC8Ktn5o4%3D&response-content-disposition=attachment%3B%20filename%3D1512138062705458.jpeg - Nome do arquivo: 1512138062705458.jpeg
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:41:48]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/85eff930-2772-4de2-ba6c-f43d08ad51c8.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=A3MS4BmZA%2BmtcB0vxPa9486hJvQ%3D&response-content-disposition=attachment%3B%20filename%3D410785398661769.jpeg - Nome do arquivo: 410785398661769.jpeg
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:42:50]: Contato de emergência 
+Esposa
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:44:13]: (77)988462918
+
+[Valeria Deseta Olímpio , 04/07/2024 14:46:10]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c0e809f9-4dcb-406d-834a-e29079126b4a.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=Ol1hkXN0IkbTLAjYcDmIhFyhMWM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Reinaldo Bispo(557398164156), 04/07/2024 14:47:10]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5b129b33-5fc7-4f5e-b92a-5ec25c6683fc.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=r8S%2BgriPN9NVNASVHl%2BGKakv7EI%3D&response-content-disposition=attachment%3B%20filename%3D441773135361266.jpeg - Nome do arquivo: 441773135361266.jpeg
+
+[Valeria Deseta Olímpio , 04/07/2024 14:49:44]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 04/07/2024 20:36:34]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 04/07/2024 20:36:34>
+
+[Sistema, 05/07/2024 11:56:07]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (Aline de Freitas Franca Santos) - 05/07/2024 11:56:07>
+
+[Aline de Freitas Franca Santos, 05/07/2024 13:31:10]: Poderia por favor informar os nomes e o contato do telefone dos encarregados ou empresas em que trabalhou, que consta no seu cadastro?
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:48:08]: undefined
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:49:18]: Esse é o contato do meu encarregado da Vix logística
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:50:02]: O verdadeiro nome dele é Ronaldo
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:51:36]: undefined
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:52:49]: Essa é umas das dona da GWG turismo
+
+[Aline de Freitas Franca Santos, 05/07/2024 13:53:46]: W.M.S TRANSPORTES E TURISMO LTDA
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:53:59]: undefined
+
+[Aline de Freitas Franca Santos, 05/07/2024 13:54:08]: Você tem o contato dessa empresa, pode ser o zap do encarregado
+
+[Reinaldo Bispo(557398164156), 05/07/2024 13:54:53]: Esse é o contato 👍🏽
+
+[Aline de Freitas Franca Santos, 05/07/2024 14:13:20]: obrigada
+
+[Reinaldo Bispo(557398164156), 05/07/2024 14:14:23]: 👍🏽
+
+[Sistema, 05/07/2024 15:16:41]: <Chamado transferido - Cadex Etapa 2 - CHECK (Aline de Freitas Franca Santos) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 15:16:41>
+
+[Sistema, 05/07/2024 16:06:07]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) - 05/07/2024 16:06:07>
+
+[Regianne Maysa Costa Almeida Norte, 05/07/2024 16:18:26]: Obrigada por ter aguardado até agora !!! 🙌 Essa é a ultima etapa do seu cadastro, para concluir o mais rápido possível depende só de você. 🚀🚀 Meu é Regianne e vou te ajudar nessa etapa.👍 Pode enviar: O seu CNPJ, e a sua chave Pix. Você já tem um CNPJ no seu nome?
+
+[Reinaldo Bispo(557398164156), 05/07/2024 16:19:57]: Eu ainda não tenho CNPJ
+
+[Regianne Maysa Costa Almeida Norte, 05/07/2024 16:20:32]: Vou te orientar como fazer o seu Mei... estou enviando um vídeo de passo a passo de como fazer.👍🏾
+
+[Regianne Maysa Costa Almeida Norte, 05/07/2024 16:20:42]: Instruções de como fazer o CNPJ MEI:
+
+1-  Acesse o link que explica o passo a passo 👉 https://youtu.be/kz0CEwIIF0k
+
+2- Informações obrigatórias na abertura do MEI (Que esta no vídeo):
+MEI precisa ser Regime de Tributação: GERAL, não é MEI caminhoneiro
+Capital social - No mínimo deve ser 10.000,00
+Forma de atuação - Internet 
+Ocupação principal - Motorista por aplicativo.
+
+3- Acesse o link para fazer a abertura do seu CNPJ MEI (Lembrando que a abertura é gratuita) 👉 https://mei.receita.economia.gov.br/inscricao/login
+
+[Regianne Maysa Costa Almeida Norte, 05/07/2024 16:20:54]: Mas para concluir o cadastro é necessário fazer o CNPJ MEI... Ok?
+
+[Reinaldo Bispo(557398164156), 05/07/2024 16:22:15]: OK vou fazer 👍🏽
+
+[Reinaldo Bispo(557398164156), 05/07/2024 17:00:19]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8eed72e7-ff76-45f2-bbc8-6e944eda5711.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795472&Signature=8TWZIOLrP8sPLL1f1iNm0tx2stU%3D&response-content-disposition=attachment%3B%20filename%3DCCMEI-55824665000101.pdf - Nome do arquivo: CCMEI-55824665000101.pdf
+
+[Reinaldo Bispo(557398164156), 05/07/2024 17:15:32]: Minha chave Pix:10654616825
+
+[Regianne Maysa Costa Almeida Norte, 05/07/2024 17:27:25]: Tudo certo!!🙌  Obrigada pela sua cooperação. Pedimos para aguardar o contato final.
+
+Orientações finais:
+
+1- Na sequência você receberá instruções para fazer sua integração e assistir alguns vídeos para entender como funciona o aplicativo. (É obrigatório👍)
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal, é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os vídeos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 05/07/2024 17:27:45]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 17:27:45>
+
+[Reinaldo Bispo(557398164156), 05/07/2024 17:29:01]: undefined
+
+[Fernanda de Ávila Feijó Machado Matos, 06/07/2024 10:40:16]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 06/07/2024 10:40:24]: <Fim do chamado - undefined - 06/07/2024 10:40:24>

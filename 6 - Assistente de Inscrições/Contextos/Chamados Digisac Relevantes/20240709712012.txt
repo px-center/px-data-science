@@ -1,0 +1,142 @@
+Nome do contato:  226948- ADAO MUNIZ DA SILVA
+Número do contato: 5516997174124
+
+Nome do arquivo Sabrina De Morais Silva, Fernanda de Ávila Feijó Machado Matos, Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 09/07/2024 18:03:26
+Fechamento:  ----- 
+
+Número do protocolo: 20240709712012
+
+[Sistema, 09/07/2024 18:03:25]: <Inicio de chamado - Suporte - MOTORISTA - 09/07/2024 18:03:25>
+
+[Adão Garapava(5516997174124), 09/07/2024 18:03:25]: 👍🏼
+
+[BOT, 09/07/2024 18:03:27]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Adão Garapava(5516997174124), 09/07/2024 18:03:50]: 1
+
+[BOT, 09/07/2024 18:03:52]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Adão Garapava(5516997174124), 09/07/2024 18:04:13]: 2
+
+[BOT, 09/07/2024 18:04:16]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Adão Garapava(5516997174124), 09/07/2024 18:04:42]: 3
+
+[Sistema, 09/07/2024 18:04:43]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 09/07/2024 18:04:43>
+
+[BOT, 09/07/2024 18:04:44]: Hum.. Entendi! Lamento meu parceiro. Acontece, ou por celular, ou por internet, ou por um BUG mesmo.. Mas deixa pra mim.. Vou te chamar um especialista no time aqui, blza?!
+
+[Adão Garapava(5516997174124), 09/07/2024 18:05:07]: Blz
+
+[Adão Garapava(5516997174124), 10/07/2024 08:48:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7a68fa09-46a1-412e-a93a-c05bdc620a86.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=Uvy8ShOB%2Bopuj%2FOQDyphmZBRwg4%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_62085433987_04-07-2024.pdf - Nome do arquivo: CTPSDigital_62085433987_04-07-2024.pdf
+
+[Adão Garapava(5516997174124), 10/07/2024 10:07:48]: Bom dia
+
+[Sistema, 10/07/2024 10:56:32]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 10:56:32>
+
+[Tainara Ferreira Da Silva, 10/07/2024 10:56:32]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Adão Garapava(5516997174124), 10/07/2024 11:01:27]: 62085433987
+
+[Adão Garapava(5516997174124), 10/07/2024 11:01:38]: Guariba SP
+
+[Adão Garapava(5516997174124), 10/07/2024 11:02:10]: Eu não tô conseguindo me cadastrar
+
+[Adão Garapava(5516997174124), 10/07/2024 11:05:40]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8b83e8a6-ade4-4fe2-8c77-7275e32664b6.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=mteXxTCoGidBP%2BmhHWwyC5pfcJw%3D&response-content-disposition=attachment%3B%20filename%3D1536556320620542.jpeg - Nome do arquivo: 1536556320620542.jpeg
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:27:30]: MOTORISTA - RIBEIRÃO PRETO SP ( TRUCK)
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:27:35]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 10/07/2024 11:27:38]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 11:27:38>
+
+[Sistema, 10/07/2024 11:27:45]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 11:27:45>
+
+[Valeria Deseta Olímpio , 10/07/2024 11:27:45]: oi
+
+[Valeria Deseta Olímpio , 10/07/2024 11:27:56]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Adão Garapava(5516997174124), 10/07/2024 11:28:37]: Tô no seguro
+
+[Valeria Deseta Olímpio , 10/07/2024 12:13:40]: Como você está recebendo o seguro-desemprego informamos que no fim do cadastro é necessario ter o MEI (CNPJ) e emitir notas, ao fazer isso pode perder direito ao benefício. deseja seguir com o cadastro ou prefere aguardar ?
+
+[Adão Garapava(5516997174124), 10/07/2024 12:15:08]: Tem nada não pôde proceguir
+
+[Adão Garapava(5516997174124), 10/07/2024 12:15:24]: Quero trabalhar
+
+[Adão Garapava(5516997174124), 10/07/2024 12:15:34]: Pode dar andamento
+
+[Adão Garapava(5516997174124), 10/07/2024 12:20:23]: O valor do seguro e muitos pouco
+
+[Valeria Deseta Olímpio , 10/07/2024 13:54:56]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Adão Garapava(5516997174124), 10/07/2024 13:56:12]: Tenho mais de 20 anos
+
+[Adão Garapava(5516997174124), 10/07/2024 13:56:57]: Mas de 2014 pra cá eu estava trabalhando por conta com ônibus
+
+[Adão Garapava(5516997174124), 10/07/2024 13:57:38]: Mas tenho experiência em carteira comprovada
+
+[Valeria Deseta Olímpio , 10/07/2024 14:34:47]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Adão Garapava(5516997174124), 10/07/2024 14:41:06]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4b72347a-91d3-4545-a7a1-d8068b4975d0.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=WhrsVjSCbcxhS%2BU0ZRbXEXn3g98%3D&response-content-disposition=attachment%3B%20filename%3D1534408453840157.jpeg - Nome do arquivo: 1534408453840157.jpeg
+
+[Adão Garapava(5516997174124), 10/07/2024 14:41:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0e41acf9-07a3-4dba-be90-d8c336b5d556.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=SKSlK8ZjZ1fl8MUspvuZZQiYno4%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_62085433987_04-07-2024.pdf - Nome do arquivo: CTPSDigital_62085433987_04-07-2024.pdf
+
+[Adão Garapava(5516997174124), 10/07/2024 14:42:06]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6472dc8b-dbca-449a-a02a-e54531fb02ec.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=GTej5moxvFl%2Fu3nWWnGn%2BDwnjTg%3D&response-content-disposition=attachment%3B%20filename%3D465439046126259.jpeg - Nome do arquivo: 465439046126259.jpeg
+
+[Adão Garapava(5516997174124), 10/07/2024 14:47:49]: Telefone da esposa 
+016997858934
+
+[Adão Garapava(5516997174124), 10/07/2024 14:52:33]: O meu tóxicologico
+Vence em novembro 
+13/11/2024
+
+[Adão Garapava(5516997174124), 10/07/2024 14:52:51]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/396fbce6-d400-4c29-8ecc-2555d91b2926.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795318&Signature=l%2Fwyeu5lb5HhmMuhlDYnWTnGxng%3D&response-content-disposition=attachment%3B%20filename%3D1027122728970165.jpeg - Nome do arquivo: 1027122728970165.jpeg
+
+[Valeria Deseta Olímpio , 10/07/2024 15:31:02]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Adão Garapava(5516997174124), 10/07/2024 16:09:28]: Ok
+
+[Adão Garapava(5516997174124), 10/07/2024 16:09:33]: Obrigado
+
+[Sistema, 10/07/2024 16:40:53]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 10/07/2024 16:40:53>
+
+[Adão Garapava(5516997174124), 10/07/2024 17:15:01]: Vi certinho vai vencer em setembro más amanhã bjs vou fz outro
+
+[Adão Garapava(5516997174124), 10/07/2024 17:58:56]: Amanhã cedo já vou na clínica não venceu mas já vou fz outro
+
+[Sistema, 11/07/2024 09:42:06]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 11/07/2024 09:42:06>

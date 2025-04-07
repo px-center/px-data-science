@@ -1,0 +1,43 @@
+### Acesso e Navegação no Portal do Empreendedor
+
+#### Introdução
+O Portal do Empreendedor é uma plataforma essencial para o Microempreendedor Individual (MEI). Este portal permite a realização de diversos serviços, como a formalização do MEI, alterações cadastrais, emissão de guias de pagamento e declaração anual de faturamento. Este guia fornece um passo a passo detalhado sobre como acessar e navegar no Portal do Empreendedor.
+
+#### Passo a Passo para Acesso e Navegação
+
+##### 1. Acessar o Portal do Empreendedor
+- **Endereço do Portal**: Acesse o site do Portal do Empreendedor através do link: [Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor).
+- **Página Inicial**: Na página inicial, você encontrará várias opções de serviços disponíveis para o MEI【174:0†source】【174:1†source】.
+
+##### 2. Formalização do MEI
+- **Iniciar Inscrição**:
+  - Clique na opção “Quero ser MEI” e depois em “Formalize-se”.
+  - Preencha os dados iniciais solicitados, como CPF e senha do aplicativo gov.br.
+  - O sistema preencherá automaticamente alguns dados, e você deverá completar as informações restantes, como RG e e-mail【174:1†source】【174:4†source】【174:5†source】.
+- **Dados Adicionais**:
+  - Informe o valor do capital social, a atividade principal, forma de atuação e endereço comercial e residencial.
+  - Marque todas as declarações e termos, clique em "Continuar", revise os dados e confirme a inscrição【174:1†source】【174:4†source】.
+
+##### 3. Alteração de Dados Cadastrais
+- **Acessar a Página de Alteração**:
+  - Na página inicial do Portal, clique em "Já sou MEI" e depois em "Atualização Cadastral".
+  - Informe o CNPJ, CPF e o código de acesso gerado previamente.
+  - Realize as alterações necessárias, marque as declarações, clique em "Continuar", revise os dados e confirme a alteração. Imprima o novo CCMEI【174:1†source】【174:4†source】【174:5†source】.
+
+##### 4. Emissão de Carnês de Pagamento (DAS)
+- **Acessar a Página de Emissão**:
+  - Clique em "Já sou MEI" e depois em "Pagamento de Contribuição Mensal".
+  - Informe o CNPJ e clique em "Emitir DAS". Escolha o período de apuração e imprima a guia de pagamento【174:1†source】【174:5†source】.
+
+##### 5. Declaração Anual de Faturamento (DASN-SIMEI)
+- **Preencher e Transmitir a Declaração**:
+  - Clique em "Já sou MEI" e depois em "Declaração Anual de Faturamento".
+  - Informe o CNPJ, total de receita anual, selecione o ano-calendário e clique em "Transmitir".
+  - Imprima a declaração para manter em seus registros【174:1†source】【174:5†source】.
+
+#### Conclusão
+O Portal do Empreendedor é uma ferramenta indispensável para o MEI, oferecendo um ambiente centralizado para a realização de diversas obrigações e serviços essenciais. Seguindo os passos detalhados neste guia, o microempreendedor pode navegar facilmente pelo portal, garantindo que suas obrigações fiscais e administrativas sejam cumpridas de maneira eficiente e correta.
+
+##### Referências
+- Manual de Inscrição MEI【174:0†Manual de Inscrição MEI】.
+- Cartilha do MEI 2023【174:2†Cartilha do MEI 2023】.

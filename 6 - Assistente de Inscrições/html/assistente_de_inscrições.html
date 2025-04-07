@@ -1,0 +1,186 @@
+
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voz para Texto</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans">
+    <style>
+        :root {
+            --df-messenger-default-font-family: 'Google Sans', 'Helvetica Neue', sans-serif;
+            --df-messenger-default-font-size: 14px;
+            --df-messenger-default-font-color: #1f1f1f;
+            --df-messenger-default-secondary-font-color: #757575;
+            --df-messenger-default-icon-font-color: #444746;
+            --df-messenger-default-primary-color: #0b57d0;
+            --df-messenger-default-link-font-color: #0b57d0;
+            --df-messenger-default-link-decoration: underline;
+            --df-messenger-default-focus-color: #1e88e5;
+            --df-messenger-default-focus-color-contrast: #fff;
+            --df-messenger-default-border-color: #e0e0e0;
+            --df-messenger-default-border: 1px solid var(--df-messenger-default-border-color);
+            --df-messenger-default-border-radius: 8px;
+            --df-messenger-default-chat-border-radius: 0;
+            --df-messenger-default-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #transcript {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            width: 100%;
+            max-width: 600px;
+            min-height: 100px;
+            background-color: #f9f9f9;
+        }
+        .mic-icon {
+            font-size: 100px;
+            cursor: pointer;
+            color: #0b57d0;
+        }
+        .mic-icon.recording {
+            color: #ff0000;
+        }
+        @media (max-width: 768px) {
+            df-messenger {
+                z-index: 999;
+                position: fixed;
+                --df-messenger-font-color: #000;
+                --df-messenger-font-size: 50px;
+                --df-messenger-font-family: Google Sans;
+                --df-messenger-chat-background: #f3f6fc;
+                --df-messenger-message-user-background: #d3e3fd;
+                --df-messenger-message-bot-background: #fff;
+                bottom: 150px;
+                right: 0;
+                top: 0px;
+                left: 0;
+                width: 100%;
+            }
+        }
+        @media (max-width: 2000px) {
+            df-messenger {
+                z-index: 999;
+                position: fixed;
+                --df-messenger-font-color: #000;
+                --df-messenger-font-size: 25px;
+                --df-messenger-font-family: Google Sans;
+                --df-messenger-chat-background: #f3f6fc;
+                --df-messenger-message-user-background: #d3e3fd;
+                --df-messenger-message-bot-background: #fff;
+                bottom: 150px;
+                right: 0;
+                top: 0px;
+                left: 0;
+                width: 100%;
+            }
+        }
+        .mic-icon-container {
+            position: fixed;
+            bottom: 20px;
+            display: flex;
+            justify-content: center;
+            width: 100%;
+        }
+    </style>
+    <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+    <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+</head>
+<body>
+    <df-messenger
+    project-id="formal-purpose-354320"
+    agent-id="d506d848-5d9d-4769-b6b2-8502d2dcd531"
+    language-code="en"
+    max-query-length="-1"
+    allow-feedback="all"
+    location="global">
+    <df-messenger-chat chat-title="Assistente PX.Center" id="df-chat-wrapper"></df-messenger-chat>
+</df-messenger>
+
+<div class="mic-icon-container">
+    <span id="micIcon" class="material-icons mic-icon">mic</span>
+</div>
+
+<div id="transcript" style="display: none"></div>
+
+<script>
+    const micIcon = document.getElementById('micIcon');
+    const transcriptElement = document.getElementById('transcript');
+    let finalTranscript = '';
+    let isRecording = false;
+
+    let recognition;
+    if ('webkitSpeechRecognition' in window) {
+        recognition = new webkitSpeechRecognition();
+    } else {
+        recognition = new SpeechRecognition();
+    }
+
+    recognition.lang = 'pt-BR';
+    recognition.continuous = true;
+    recognition.interimResults = true;
+
+    micIcon.addEventListener('click', () => {
+        if (isRecording) {
+            recognition.stop();
+            micIcon.classList.remove('recording');
+        } else {
+            recognition.start();
+            micIcon.classList.add('recording');
+            finalTranscript = '';
+        }
+        isRecording = !isRecording;
+    });
+
+    recognition.onresult = (event) => {
+    let finalTranscript = ''; // Inicializa uma variável local para armazenar o texto final
+    for (let i = event.resultIndex; i < event.results.length; i++) {
+        if (event.results[i].isFinal) {
+            const transcript = event.results[i][0].transcript;
+            finalTranscript += transcript + ' ';
+        }
+    }
+    transcriptElement.textContent = finalTranscript;
+    };
+
+
+recognition.onerror = (event) => {
+    console.error(event.error);
+    transcriptElement.textContent = 'Ocorreu um erro: ' + event.error;
+    micIcon.classList.remove('recording');
+    isRecording = false;
+};
+
+function updateTextarea(text) {
+    const dfMessenger = document.querySelector('df-messenger');
+    dfMessenger.renderCustomText(text, false);
+    dfMessenger.sendQuery(text);
+}
+
+recognition.onend = () => {
+    if (!isRecording) {
+                // Adiciona o texto à div apenas uma vez quando a gravação parar
+                const dfMessenger = document.querySelector('df-messenger');
+                const text = transcriptElement.textContent;
+                dfMessenger.renderCustomText(text, false);
+                dfMessenger.sendQuery(text);
+            }
+        };
+
+        document.addEventListener('df-messenger-loaded', function() {
+            micIcon.disabled = false;
+        });
+    </script>
+</body>
+</html>
+

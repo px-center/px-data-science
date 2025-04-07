@@ -1,0 +1,139 @@
+Nome do contato: 160844- LUIZ ALBERTO CARNEIRO DE SOUZA
+Número do contato: 558388075897
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Thiago Henrique Seixas Olimpio
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 25/06/2024 11:18:06
+Fechamento: 08/07/2024 15:34:59
+
+Número do protocolo: 20240625684009
+
+[Sistema, 25/06/2024 11:18:04]: <Inicio de chamado - Suporte - MOTORISTA - 25/06/2024 11:18:04>
+
+[Luiz Alberto(558388075897), 25/06/2024 11:18:04]: Bom dia
+
+[BOT, 25/06/2024 11:18:08]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Luiz Alberto(558388075897), 25/06/2024 11:18:19]: 1
+
+[BOT, 25/06/2024 11:18:22]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Luiz Alberto(558388075897), 25/06/2024 11:18:36]: 2
+
+[BOT, 25/06/2024 11:18:39]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Luiz Alberto(558388075897), 25/06/2024 11:19:11]: 2
+
+[Sistema, 25/06/2024 11:19:13]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 25/06/2024 11:19:13>
+
+[BOT, 25/06/2024 11:19:14]: Tranquilo! Correria?! Consegue tentar agora e voltar a me chamar quando terminar?
+
+[Luiz Alberto(558388075897), 25/06/2024 11:19:34]: Tenho que baixar?
+
+[Sistema, 25/06/2024 11:31:16]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 3 - SPRINT (Thiago Henrique Seixas Olimpio) - 25/06/2024 11:31:16>
+
+[Thiago Henrique Seixas Olimpio, 25/06/2024 14:05:11]: Oi Luiz, boa tarde.
+
+[Thiago Henrique Seixas Olimpio, 25/06/2024 14:05:17]: Aqui é o Thiago do setor do MEI. Tudo bem?
+
+[Thiago Henrique Seixas Olimpio, 25/06/2024 14:05:27]: Recebeu seguro?
+
+[Thiago Henrique Seixas Olimpio, 25/06/2024 14:13:42]: Quer finalizar o seu cadastro? Abrir o MEI?
+
+[Luiz Alberto(558388075897), 25/06/2024 14:13:47]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8268641b-7da6-4393-bda8-a76c96b84c29.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795418&Signature=eh3Q6qlM37wEqjIU8hRGHvOdM6E%3D&response-content-disposition=attachment%3B%20filename%3D1005836457876375.mp3 - Nome do arquivo: 1005836457876375.mp3
+
+[Thiago Henrique Seixas Olimpio, 25/06/2024 14:14:39]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/268bc986-45a3-473f-bcb0-b23e37ecbf05.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795418&Signature=JH0VLOhpgSvUdSAD%2FDGsT0Wj3uo%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Luiz Alberto(558388075897), 25/06/2024 14:21:14]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1a78179b-d79f-403f-b2bc-8e3dfd8bac04.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795418&Signature=Kz5UBNkp8uHrkwp5dkbHzUbsmw8%3D&response-content-disposition=attachment%3B%20filename%3D2358672657655654.mp3 - Nome do arquivo: 2358672657655654.mp3
+
+[Luiz Alberto(558388075897), 08/07/2024 13:23:49]: Boa tarde
+
+[Luiz Alberto(558388075897), 08/07/2024 13:23:59]: Dei baixa aqui na empresa
+
+[Luiz Alberto(558388075897), 08/07/2024 13:24:27]: Tenho que fazer o Mei?
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 13:58:20]: Isso mesmo Luiz
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 13:59:47]: Quer o passo a passo para abertura do MEI?
+
+[Luiz Alberto(558388075897), 08/07/2024 14:05:43]: Queria
+
+[Luiz Alberto(558388075897), 08/07/2024 14:05:45]: Sim
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 14:13:29]: Vou enviar o passo a passo, e o link do GOV onde pode fazer isso online e GRATUITAMENTE, ok? Qualquer dúvida pode falar, que vou te ajudando.
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 14:13:43]: https://mei.receita.economia.gov.br/inscricao/login
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 14:13:50]: Informações obrigatórias na abertura do MEI:
+
+MEI precisa seria GERAL, não é MEI caminhoneiro
+
+Capital social - 10.000,00
+
+Forma de atuação - Internet e porta a porta
+
+Ocupação principal - Motorista por aplicativo.
+
+[Luiz Alberto(558388075897), 08/07/2024 14:52:11]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/42f35d8b-8900-4ab9-b661-19fdcd91a204.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795419&Signature=rydwjn23vYi9cQ15RHR9zTTJxN4%3D&response-content-disposition=attachment%3B%20filename%3D1007478347659352.jpeg - Nome do arquivo: 1007478347659352.jpeg
+
+[Luiz Alberto(558388075897), 08/07/2024 14:52:17]: Olha se deu certo
+
+[Luiz Alberto(558388075897), 08/07/2024 14:52:20]: Por favor
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 15:05:31]: Deu certo
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 15:05:42]: Me informa sua chave PIX e o nome do banco, por favor.
+
+[Luiz Alberto(558388075897), 08/07/2024 15:06:53]: 83988075897
+Luiz Alberto carneiro de Souza 
+Banco:caixa econômica federal
+
+[Luiz Alberto(558388075897), 08/07/2024 15:07:07]: Chave pix
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 15:21:24]: Obrigado Luiz
+
+[Thiago Henrique Seixas Olimpio, 08/07/2024 15:21:30]: Orientações finais: 
+1- Na sequência você receberá instruções para fazer sua integração e assisitir alguns vídeos para entender como funciona o aplicativo.
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal,  é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os videos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 08/07/2024 15:21:43]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Thiago Henrique Seixas Olimpio) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 08/07/2024 15:21:43>
+
+[Luiz Alberto(558388075897), 08/07/2024 15:23:38]: 👍ok
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 15:34:53]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 08/07/2024 15:34:59]: <Fim do chamado - undefined - 08/07/2024 15:34:59>

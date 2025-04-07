@@ -1,0 +1,117 @@
+Nome do contato: Jai 131313
+Número do contato: 557581329077
+
+Nome do arquivo Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:28:51
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712484
+
+[Sistema, 10/07/2024 09:28:49]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:28:49>
+
+[Jai 131313(557581329077), 10/07/2024 09:28:49]: Bom dia
+
+[BOT, 10/07/2024 09:28:52]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Jai 131313(557581329077), 10/07/2024 09:29:08]: Motorista
+
+[BOT, 10/07/2024 09:29:12]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Jai 131313(557581329077), 10/07/2024 09:29:18]: 1
+
+[BOT, 10/07/2024 09:29:22]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Jai 131313(557581329077), 10/07/2024 09:29:36]: 2
+
+[BOT, 10/07/2024 09:29:39]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Jai 131313(557581329077), 10/07/2024 09:29:54]: 1
+
+[Sistema, 10/07/2024 09:29:56]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 09:29:56>
+
+[BOT, 10/07/2024 09:29:57]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 10/07/2024 11:08:11]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 11:08:11>
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:08:12]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Jai 131313(557581329077), 10/07/2024 12:44:39]: 006.969.485
+
+[Jai 131313(557581329077), 10/07/2024 12:44:55]: 00696948508
+
+[Jai 131313(557581329077), 10/07/2024 12:45:06]: Feira de Santana
+
+[Jai 131313(557581329077), 10/07/2024 12:45:07]: Bahia
+
+[Tainara Ferreira Da Silva, 10/07/2024 13:41:21]: MOTORISTAS - FEIRA DE SANTANA - (TRUCK)
+
+[Sistema, 10/07/2024 13:42:04]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 13:42:04>
+
+[Sistema, 10/07/2024 13:42:09]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 13:42:09>
+
+[Valeria Deseta Olímpio , 10/07/2024 13:42:09]: oi
+
+[Jai 131313(557581329077), 10/07/2024 13:46:26]: Bom dia
+
+[Jai 131313(557581329077), 10/07/2024 13:46:28]: Oi
+
+[Jai 131313(557581329077), 10/07/2024 13:46:34]: Posso falar agora
+
+[Jai 131313(557581329077), 10/07/2024 13:50:28]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b48efd5d-c986-4f7f-b3de-dc400f743a3e.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=0yEiqKd55OAvFKdDEobujsVDCOg%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-09-07-2024-16.46.pdf - Nome do arquivo: CamScanner-09-07-2024-16.46.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:50:29]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c387da92-3731-4372-9c3c-8088e5ae685a.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=j%2BeWLpPyPX07Wksld5jWjdYot3s%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-22-04-2024-10.42.pdf - Nome do arquivo: CamScanner-22-04-2024-10.42.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:50:37]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b9701e0e-c9b6-442c-af4d-04da85bac05a.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=NjA4en%2B3MGnjiPVpkZ7kKmOLxyc%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-16-04-2024-01.29.pdf - Nome do arquivo: CamScanner-16-04-2024-01.29.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:50:38]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2e8fb9f9-a4f1-4c7b-bfd1-6c74d1e161d1.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=vxlCItOhvOG%2FpODT7PIFtmrSiIk%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-08-04-2024-18.35.pdf - Nome do arquivo: CamScanner-08-04-2024-18.35.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:50:38]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/87d849f1-869c-45dc-b730-94db7d5fd753.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=OyPMl83%2FELIiql2Fzavea3o%2FXuQ%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-05-05-2024-17.40.pdf - Nome do arquivo: CamScanner-05-05-2024-17.40.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:50:38]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8ebfb20e-584a-424e-8bb7-665b85c42aa6.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795310&Signature=br2%2BEIbNMU7oVooUF3OZveSfqYg%3D&response-content-disposition=attachment%3B%20filename%3DCamScanner-02-04-2024-20.12.pdf - Nome do arquivo: CamScanner-02-04-2024-20.12.pdf
+
+[Jai 131313(557581329077), 10/07/2024 13:52:46]: Documento que está faltando pra mim puder viajar
+
+[Jai 131313(557581329077), 10/07/2024 13:52:52]: Trabalhar
+
+[Valeria Deseta Olímpio , 10/07/2024 13:54:20]: Tem que ter o seu nome nas notas
+
+[Jai 131313(557581329077), 10/07/2024 14:05:04]: Entendi carro que eu trabalho e agregado a nota fiscal saí nome do proprietário do carro
+
+[Jai 131313(557581329077), 10/07/2024 14:05:17]: Ravell
+
+[Valeria Deseta Olímpio , 10/07/2024 14:38:32]: Consegue uma carta de referencia
+
+[Jai 131313(557581329077), 10/07/2024 16:02:17]: Vou conseguir
+
+[Jai 131313(557581329077), 10/07/2024 16:02:44]: Já falei com gerente
+
+[Valeria Deseta Olímpio , 10/07/2024 16:11:54]: ok

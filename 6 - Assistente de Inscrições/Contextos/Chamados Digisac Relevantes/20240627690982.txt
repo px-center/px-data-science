@@ -1,0 +1,248 @@
+Nome do contato: 74902 - ALEX CATANEO
+Número do contato: 554891765738
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Regianne Maysa Costa Almeida Norte, José Soares Fragoso Junior , Sabrina De Morais Silva, Renata Peres Silva dos Santos, Tainara Ferreira Da Silva
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 27/06/2024 17:02:28
+Fechamento: 03/07/2024 16:28:46
+
+Número do protocolo: 20240627690982
+
+[Sistema, 27/06/2024 17:02:26]: <Inicio de chamado - Suporte - MOTORISTA - 27/06/2024 17:02:26>
+
+[Alex cataneo(554891765738), 27/06/2024 17:02:26]: Boa tarde
+
+[BOT, 27/06/2024 17:02:29]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Alex cataneo(554891765738), 27/06/2024 17:02:43]: 1
+
+[BOT, 27/06/2024 17:02:45]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Alex cataneo(554891765738), 27/06/2024 17:02:54]: 2
+
+[BOT, 27/06/2024 17:02:58]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Alex cataneo(554891765738), 27/06/2024 17:03:06]: 1
+
+[Sistema, 27/06/2024 17:03:08]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 27/06/2024 17:03:08>
+
+[BOT, 27/06/2024 17:03:09]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Alex cataneo(554891765738), 27/06/2024 17:03:41]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/bbf078de-589f-493e-85e5-92ea91631d6a.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=pi1qbNyn9qQWeqQ632Mssdw9OYw%3D&response-content-disposition=attachment%3B%20filename%3Dlaudo_CT24000016056.pdf - Nome do arquivo: laudo_CT24000016056.pdf
+
+[Sistema, 27/06/2024 17:05:42]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 27/06/2024 17:05:42>
+
+[Tainara Ferreira Da Silva, 27/06/2024 17:05:43]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Tainara Ferreira Da Silva, 27/06/2024 17:05:55]: Podes anexar o laudo do seu toxicológico pelo aplicativo mesmo, para a PX tem a validade de 1 ano, a equipe responsável irá avaliar depois que o senhor finalizar seu cadastro junto com um de nossos atendentes
+
+[Alex cataneo(554891765738), 27/06/2024 17:06:29]: 019.884.989-37 
+Palhoca 
+Sc
+
+[Tainara Ferreira Da Silva, 27/06/2024 17:08:03]: MOTORISTA - SÃO JOSÉ SC ( TRUCK)
+
+[Tainara Ferreira Da Silva, 27/06/2024 17:08:17]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 27/06/2024 17:08:43]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 27/06/2024 17:08:43>
+
+[Sistema, 27/06/2024 17:08:52]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Renata Peres Silva dos Santos) - 27/06/2024 17:08:52>
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:08:53]: oi
+
+[Alex cataneo(554891765738), 27/06/2024 17:09:09]: Opa
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:09:09]: Sou do cadastro da Motorista PX .Vou te ajudar a rodar o mais rápido possível. Só Preciso de algumas informações para validar o seu cadastro. 
+Está trabalhando registrado Ou recebendo seguro desemprego ou beneficio do governo?
+
+[Alex cataneo(554891765738), 27/06/2024 17:09:33]: Sou mei
+
+[Alex cataneo(554891765738), 27/06/2024 17:10:01]: Parado no momento
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:10:22]: informr o numero para eu ver a situação
+
+[Alex cataneo(554891765738), 27/06/2024 17:10:46]: De que?
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:11:15]: numero do MEI
+
+[Alex cataneo(554891765738), 27/06/2024 17:11:51]: Precisa ter mei pra se cadastrar na px?
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:13:17]: Vou explicar a importancia do MEI:
+Para trabalhar para a PX é importante a MEI, porque é a forma segura de trabalharmos com os motoristas. Com ele você emite notas fiscais apos realizar as viagens e recebe pelos serviços tambem., Alem de ficar assegurado pelo INSS. Ajudamos a abrir no fim da validação do cadastro .O senhor pode fechar o MEI no momento que desejar.
+
+[Alex cataneo(554891765738), 27/06/2024 17:14:14]: CNPJ do meu mei
+55.220.584/0001-00
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:39:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f4bd7185-65de-49b9-b68f-6b8a1e3022fa.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=W%2F%2FJTmHHiQurm06wInO8KkA585Q%3D&response-content-disposition=attachment%3B%20filename%3Dimage.png - Nome do arquivo: image.png
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:39:34]: Tem experiência COMPROVADA de no mínimo 6 meses como motorista de caminhao , onibus ou furgao?  (a partir de 2017 – 2024)
+ Aceitamos :
+*Carteira de Trabalho digital ou Física OU
+*Notas (Nota Fiscal, , manifesto,OU contrato , OU ROMANEIO ,OU CTES , DANFE )OU Carta de referencia .
+
+ Pode enviar a experiencia  ,por favor ?
+
+[Alex cataneo(554891765738), 27/06/2024 17:40:05]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/59f1502d-5ef1-4e2b-8879-1d05c74648ea.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=pvceHCuu1ITLI32hKU74ztkKjtY%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_01988498937_24-06-2024.pdf - Nome do arquivo: CTPSDigital_01988498937_24-06-2024.pdf
+
+[Alex cataneo(554891765738), 27/06/2024 17:40:21]: Peregrina com 30 mts
+
+[Alex cataneo(554891765738), 27/06/2024 17:40:38]: Sai dia 17 de lá
+
+[Alex cataneo(554891765738), 27/06/2024 17:40:59]: Porém na carteira digital ainda consta em aberto
+
+[Renata Peres Silva dos Santos, 27/06/2024 17:58:34]: com o documento de dispensa ou homologação ou exame demissional , conseguimos seguir
+
+[Alex cataneo(554891765738), 27/06/2024 19:01:54]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/93e257c5-19e2-4d72-8030-8628e6fca7aa.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=Zv8mSexjPJVd%2BfgnVs7oXUZaRzI%3D&response-content-disposition=attachment%3B%20filename%3D487769597118405.jpeg - Nome do arquivo: 487769597118405.jpeg
+
+[Alex cataneo(554891765738), 27/06/2024 19:02:09]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/dc3acd29-a8da-4d16-afef-c0ff1007da0b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=ZXkqE3qapPlINoC7w8Wn5WLV0Po%3D&response-content-disposition=attachment%3B%20filename%3D443931795118495.jpeg - Nome do arquivo: 443931795118495.jpeg
+
+[Renata Peres Silva dos Santos, 28/06/2024 07:38:50]: Obrigada
+
+[Renata Peres Silva dos Santos, 28/06/2024 07:39:13]: Preciso dos seguintes documentos para validar seu cadastro:
+
+• Foto da CNH
+• Comprovante de Residencia Válido: (Agua,luz ou telefone)A partir de Abril
+
+[Renata Peres Silva dos Santos, 28/06/2024 07:39:20]: •Exame toxicológico(Caso tenha)
+
+
+Informe por favor : Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe ,irmao ,tio,amigo) 
+
+
+Informe tambem , seu Estado civil e Escolaridade, Qual sua Naturalidade  (Cidade e estado em que nasceu?) Por favor( Nao precisa foto , somente informar)
+
+[Alex cataneo(554891765738), 01/07/2024 11:40:21]: Bom dia
+
+[Alex cataneo(554891765738), 01/07/2024 11:40:42]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5b8c935d-e7e0-4158-bd1d-9a86ee4a16f2.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=m%2Fh6BAXezKOhZL7wbDp8LQLhjjM%3D&response-content-disposition=attachment%3B%20filename%3D1115514162860170.jpeg - Nome do arquivo: 1115514162860170.jpeg
+
+[Alex cataneo(554891765738), 01/07/2024 11:40:53]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/620d1714-75e3-416a-954c-73e361b285c9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=Yol5TQ8ST6ATXwxg7DcFGPt9puI%3D&response-content-disposition=attachment%3B%20filename%3D1231301964524034.jpeg - Nome do arquivo: 1231301964524034.jpeg
+
+[Alex cataneo(554891765738), 01/07/2024 11:41:23]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6d2c77aa-9f87-4c65-91d7-899bdc2e55d7.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=p0LbX59mdn97DtkxvypIOD4x%2BK0%3D&response-content-disposition=attachment%3B%20filename%3Dlaudo_CT24000016056.pdf - Nome do arquivo: laudo_CT24000016056.pdf
+
+[Alex cataneo(554891765738), 01/07/2024 11:42:38]: Contato de emergência 
+Cristina Pereira Lopes 
+48 999686151
+Esposa
+
+[Alex cataneo(554891765738), 01/07/2024 11:43:13]: Natural de tubarao sc
+2 grau completo
+
+[Renata Peres Silva dos Santos, 01/07/2024 12:18:48]: toxicologico ok
+
+[Renata Peres Silva dos Santos, 01/07/2024 12:19:39]: Obrigada!  irei  encaminhar seu cadastro para validação .Por favor ,  aguarde que em breve terá mais informações. Seu cadastro vai passar por um analise. Solicitamos em média 2 dias.  Voltaremos a te chamar por aqui mesmo!
+
+[Alex cataneo(554891765738), 01/07/2024 12:22:58]: 👍
+
+[Sistema, 02/07/2024 08:38:37]: <Chamado transferido - Cadex Etapa 1 - LEAD (Renata Peres Silva dos Santos) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 02/07/2024 08:38:37>
+
+[Sistema, 02/07/2024 17:46:16]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) - 02/07/2024 17:46:16>
+
+[José Soares Fragoso Junior , 02/07/2024 20:08:58]: Formato de mensagem não suportado.
+
+[Alex cataneo(554891765738), 02/07/2024 20:10:15]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6a3d9c15-bc72-4a91-8b1f-ade688211160.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=wvuIc9AlJG2T7GyLaoyYaNhgFVA%3D&response-content-disposition=attachment%3B%20filename%3D1138889584053798.mp3 - Nome do arquivo: 1138889584053798.mp3
+
+[José Soares Fragoso Junior , 02/07/2024 20:11:27]: Tem da Peregrina
+
+[José Soares Fragoso Junior , 02/07/2024 20:11:38]: Se conseguir algum da Slim
+
+[Alex cataneo(554891765738), 02/07/2024 20:48:05]: Não a sim já trocou tudos os gerentes lá
+
+[Alex cataneo(554891765738), 02/07/2024 20:48:34]: undefined
+
+[Alex cataneo(554891765738), 02/07/2024 20:48:42]: Gerente da peregrina
+
+[José Soares Fragoso Junior , 03/07/2024 12:50:04]: opa Alex
+
+[José Soares Fragoso Junior , 03/07/2024 12:50:23]: Na SLIM tem de algum encarregado, pode já ter saido da empresa
+
+[Alex cataneo(554891765738), 03/07/2024 12:50:38]: Opa
+
+[Alex cataneo(554891765738), 03/07/2024 12:50:55]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ae817caf-6222-480a-bdc8-9ebe1a7977f1.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=V%2F4BwaEta%2FgwDzx8c%2B%2FwmJkIWAY%3D&response-content-disposition=attachment%3B%20filename%3D459539410117301.mp3 - Nome do arquivo: 459539410117301.mp3
+
+[Sistema, 03/07/2024 14:29:27]: <Chamado transferido - Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 03/07/2024 14:29:27>
+
+[Sistema, 03/07/2024 14:42:14]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) - 03/07/2024 14:42:14>
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:54:09]: Obrigada por ter aguardado até agora !!! 🙌 Essa é a ultima etapa do seu cadastro, para concluir o mais rápido possível depende só de você. 🚀🚀 Meu é Regianne e vou te ajudar nessa etapa.👍 Pode enviar: O seu CNPJ, e a sua chave Pix. Você já tem um CNPJ no seu nome?
+
+[Alex cataneo(554891765738), 03/07/2024 14:55:23]: Esse
+
+[Alex cataneo(554891765738), 03/07/2024 14:56:10]: Olá!
+Você pode transferir de qualquer banco para minha chave Pix Itaú:+5548991765738
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:56:33]: Já estou verificando o seu CNPJ
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:56:47]: Verifiquei o seu CNPJ e para rodar com a Px é necessário fazer algumas alterações.
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:56:58]: Capital social - No mínimo deve ser 10.000,00
+
+Forma de atuação - Internet
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:57:09]: Link para fazer alteração no MEI:
+https://mei.receita.economia.gov.br/alteracao/acesso
+
+ABRA O LINK 
+
+➡ Clique em ENTRAR COM O GOV
+➡ PREENCHA SEU CPF E SENHA 
+➡ ALTERE OS CAMPOS NECESSÁRIOS E CONFIRME
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:57:59]: Por que é importante alterar o capital social? Você vai emitir notas para uma empresa que tem mais de 10 funcionários registrado, pela lei o valor do capital social tem que ser de no mínimo 10.000,00.
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:59:03]: E a forma de atuação é internet porque voce vai trabalhar usando o aplicativo
+
+[Alex cataneo(554891765738), 03/07/2024 15:03:32]: Oi arrumei
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 15:12:53]: Tudo certo!!🙌  Obrigada pela sua cooperação. Pedimos para aguardar o contato final.
+
+Orientações finais:
+
+1- Na sequência você receberá instruções para fazer sua integração e assistir alguns vídeos para entender como funciona o aplicativo. (É obrigatório👍)
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal, é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os vídeos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 03/07/2024 15:13:09]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 03/07/2024 15:13:09>
+
+[Alex cataneo(554891765738), 03/07/2024 15:13:21]: Ok
+
+[Alex cataneo(554891765738), 03/07/2024 15:13:23]: Obrigado
+
+[Fernanda de Ávila Feijó Machado Matos, 03/07/2024 16:28:37]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 03/07/2024 16:28:46]: <Fim do chamado - undefined - 03/07/2024 16:28:46>

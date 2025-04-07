@@ -1,0 +1,429 @@
+Nome do contato: 104896 - JORGE LEANDRO DA SILVA
+Número do contato: 5521983554153
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Gislene Paula de Morais Costa, Sabrina De Morais Silva, Letícia Mariano Costa, Eliane Severino dos Santos Silva 
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 05/07/2024 09:10:36
+Fechamento: 09/07/2024 12:10:01
+
+Número do protocolo: 20240705704428
+
+[Sistema, 05/07/2024 09:10:35]: <Inicio de chamado - Suporte - MOTORISTA - 05/07/2024 09:10:35>
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:10:35]: B dia ! Sou motorista Categoria D e gostaria de me candidatar a vaga de motorista ou ajudante aqui no Rio de Janeiro. 
+ No aplicativo não consegui nenhum serviço,  poderia me ajudar?
+
+[BOT, 05/07/2024 09:10:38]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:10:53]: 1
+
+[BOT, 05/07/2024 09:10:56]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:11:08]: 2
+
+[BOT, 05/07/2024 09:11:10]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:11:38]: 1
+
+[Sistema, 05/07/2024 09:11:41]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 05/07/2024 09:11:41>
+
+[BOT, 05/07/2024 09:11:42]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 05/07/2024 09:16:56]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 05/07/2024 09:16:56>
+
+[Sistema, 05/07/2024 09:17:09]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) - 05/07/2024 09:17:09>
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:17:09]: oi
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:17:18]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/df52c006-5d9d-43a8-9703-c012c5096776.mp4?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=VKhYnX%2Fm7FcIvuDp6yiztdcuQMw%3D&response-content-disposition=attachment%3B%20filename%3DAnima%25C3%25A7%25C3%25A3o%2520Rica%2520-%2520vers%25C3%25A3o%2520compacta%252016mb.mp4 - Nome do arquivo: Animação Rica - versão compacta 16mb.mp4
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:17:25]: Me chamo Eliane e vou ajudar com seu cadastro , vi que já colocou algumas informações no aplicativo e falta a validação
+Está trabalhando registrado no momento ?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:17:41]: Não
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:17:43]: B dia!
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:17:58]: Estou a procura de uma oportunidade
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:18:25]: Sou do  RJ e moro em Nova Iguaçu
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:18:30]: Está recebendo  ou vai dar entrada no seguro desemprego?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:18:53]: N
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:19:01]: Não
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:19:32]: Você tem mais de 1 ano de experiência comprovada de 2017 a 2024 dirigindo  caminhão, carreta ou ônibus ?
+
+Para comprova pode ser carteira de trabalho, carta de referência, nota fiscal, manifesto, contrato etc de 2017 a 2024
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:20:13]: 44.093.074/0001-95 MEI ok
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:20:48]: Tenho experiência comprovada em carteira de trabalho antes deste prazo
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:21:26]: Durante este período somente sem comprovação
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:21:58]: Más posso também trabalhar como ajudante se for o caso
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:22:22]: sim, você escolhe
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:22:39]: Quero trabalhar como motorista
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:22:53]: Se acaso N tiver como ainda
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:23:03]: Eu trabalho como ajudante
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:26:35]: O que devo fazer pra validar meu cadastro?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:26:46]: Assim que possível me responda pfvr
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:28:14]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/83af221d-46ff-48cd-99f8-fb543e51fd96.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=ETC8SScu4qg1GU7bvRpNKKumm%2Fs%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:29:12]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:29:38]: Poderia validar meu cadastro como ajudante?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:30:19]: Enquanto eu providencio os documentos pra validar o cadastro de motorista
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:30:24]: Pfvr
+
+[Eliane Severino dos Santos Silva , 05/07/2024 09:33:00]: ok, vou encaminha para o setor
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 09:33:15]: Mt obgd
+
+[Sistema, 05/07/2024 09:33:28]: <Chamado transferido - Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) para Atendimento - AJUDANTE - 05/07/2024 09:33:28>
+
+[Sistema, 05/07/2024 10:02:37]: <Chamado transferido - Atendimento - AJUDANTE para Atendimento - AJUDANTE (Letícia Mariano Costa) - 05/07/2024 10:02:37>
+
+[Letícia Mariano Costa, 05/07/2024 10:02:37]: Olá! Tudo bem? Seja bem-vindo ao atendimento Motorista PX. Me chamo Letícia.
+Por gentileza, me informe sua cidade?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:03:31]: Nova Iguaçu no RJ
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:03:39]: B dia!
+
+[Letícia Mariano Costa, 05/07/2024 10:04:37]: Está trabalhando CLT ou recebendo seguro desemprego?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:05:04]: Não
+
+[Letícia Mariano Costa, 05/07/2024 10:12:27]: Possui CNPJ MEI?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:13:20]: Tem como me cadastrar só com meu CPF?
+
+[Letícia Mariano Costa, 05/07/2024 10:17:18]: Para receber pelos dias trabalhados é necessario que o ajudante emita uma nota fiscal através do seu CNPJ MEI Ativo. Nós te daremos suporte para abertura do CNPJ MEI assim que seu cadastro for aprovado na PX, Tudo bem para o senhor?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:58:16]: Sim
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:58:21]: Pode ser então
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 10:58:54]: Como faço pra conseguir suporte pra poder começar a trabalhar?
+
+[Letícia Mariano Costa, 05/07/2024 13:30:47]: Só um momento que vou olhar como esta seu cadastro
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 13:31:15]: Ok
+
+[Letícia Mariano Costa, 05/07/2024 14:19:01]: > COMPROVANTE DE ENDEREÇO ATUAL, PODE SER ( ÁGUA , LUZ , TELEFONE , INTERNET) A PARTIR DE MAIO/2024
+> 2 CONTATOS PARA EMERGÊNCIA ( PARENTES OU AMIGOS)
+
+[Letícia Mariano Costa, 05/07/2024 14:19:11]: Essas são as informações pendentes no seu cadastro
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:20:59]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/76ed1160-6d62-4ae5-8034-471db0c7e4bf.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=bbEyVoI2UbgAeBmb10JPP%2BwLY9c%3D&response-content-disposition=attachment%3B%20filename%3D495650869547618.jpeg - Nome do arquivo: 495650869547618.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:21:07]: Algo mais?
+
+[Letícia Mariano Costa, 05/07/2024 14:25:59]: 2 contatos para emergencia
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:26:41]: undefined
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:26:41]: undefined
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:26:53]: Algo mais?
+
+[Letícia Mariano Costa, 05/07/2024 14:28:46]: Qual o nome do contato J?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:30:25]: O primeiro cntt é da minha esposa Janaína
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:30:41]: O segundo cntt é da minha irmã Priscila
+
+[Letícia Mariano Costa, 05/07/2024 14:30:42]: Ok, vou finalizar seu cadastro e retorno
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 14:30:51]: Mt obgd
+
+[Letícia Mariano Costa, 05/07/2024 15:15:11]: Encaminhei seu cadastro para analise, após aprovado será encaminhado para abertura do MEI, ok?
+
+[Sistema, 05/07/2024 15:15:22]: <Chamado transferido - Atendimento - AJUDANTE (Letícia Mariano Costa) para Atendimento - AJUDANTE (Sabrina De Morais Silva) - 05/07/2024 15:15:22>
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 15:15:24]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 15:15:28]: Mt obgd
+
+[Sistema, 05/07/2024 16:30:51]: <Chamado transferido - Atendimento - AJUDANTE (Sabrina De Morais Silva) para Cadex Etapa 3 - AJUDANTE - 05/07/2024 16:30:51>
+
+[Sistema, 05/07/2024 16:37:14]: <Chamado transferido - Cadex Etapa 3 - AJUDANTE para Cadex Etapa 3 - AJUDANTE (Gislene Paula de Morais Costa) - 05/07/2024 16:37:14>
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:23:30]: Ola Parabéns ! Chegamos na ultima etapa do seu cadastro.  Eu me chamo Gislene e vou te ajudar nessa etapa. Agora SÓ FALTA seu CNPJ MEI, Declaração Ajudante PX assinada e sua chave PIX para receber os pagamentos. 👍
+Vamos seguir com a abertura do seu CNPJ MEI!!! Já sabe como funciona o MEI?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 18:24:15]: Ainda não
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:24:36]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/bf7a8957-311f-4a0a-8900-b2e61b36ff00.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=olGcT2%2Fuvvl8g4Qo1fb5TyVtTdo%3D&response-content-disposition=attachment%3B%20filename%3D2%25C3%2581UDIO-MEI-APRESENTA%25C3%2587%25C3%2583O-AJUDANTE-%282%29.mp3 - Nome do arquivo: 2ÁUDIO-MEI-APRESENTAÇÃO-AJUDANTE-(2).mp3
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:24:36]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/58ac62d0-6d19-4b8b-8903-a15025893b13.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=WvMWKGnRG0laieRZKz%2BWDlKbGCk%3D&response-content-disposition=attachment%3B%20filename%3DMEI.jpeg - Nome do arquivo: MEI.jpeg
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:24:52]: https://www.youtube.com/watch?v=WEG93xI8Ln4
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:25:01]: a abertura do MEI é gratuita, mas ele gera uma *mensalidade de R$ 75* a ser paga pra Receita Federal a partir do *dia 20 do próximo mês*. Essa mensalidade vai ser como sua contribuição ao INSS. Ok?
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 18:30:08]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 18:30:35]: Qual é o próximo vídeo c a explicação da abertura do Mei?
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:33:36]: Vou te ajudar abrir o seu MEI 👇
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:34:49]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/48b50461-409b-497c-884a-0380e28c4bdb.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=U90uvoDwsLmjCz0hirPVE3r9%2BGU%3D&response-content-disposition=attachment%3B%20filename%3D3-%25C2%25BA-%25C3%2581UDIO-EXPLICANDO-COMO-ABRIR-O-MEI---AJUDANTE-%281%29.mp3 - Nome do arquivo: 3-º-ÁUDIO-EXPLICANDO-COMO-ABRIR-O-MEI---AJUDANTE-(1).mp3
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:34:59]: Informações para preencher ao abrir ou ADEQUAR seu MEI. 
+•	REGIME DE TRIBUÇÃO GERAL
+● Capital Social (Obrigatoriamente deve ser MINIMO  10.000,00 reais)
+● Atividades (OCUPAÇÂO PRINCIPAL OU SECUNDARIA) 👉 Carregador (veículos de transportes terrestres) independente
+● Formas de atuação coloque apenas essas:              
+Internet e Porta a porta, postos móveis ou por ambulantes
+
+[Gislene Paula de Morais Costa, 05/07/2024 18:35:01]: 	Qualquer duvida durante o procedimento pode me chamar ok
+
+[Jorge Leandro da Silva(5521983554153), 05/07/2024 18:39:06]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 12:41:10]: Formato de mensagem não suportado.
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 14:25:54]: Sim
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:01:58]: Ola senhor Jorge como vai?
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:02:25]: Bem Graças a DEUS
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:02:28]: E vc?
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:03:06]: ??
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:03:49]: Tudo joia
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:03:56]: eu vi que o senhor ja tem um MEI ativo
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:04:06]: Sim
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:04:15]: vou te ajudar adequar esse MEI para o senhor conseguir usa-lo aqui na PX ok
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:04:25]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:04:35]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4cea9a05-83b3-42ad-b8dd-8e0c23738bd1.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=4rw0D5ZErjLaivTvy0objaT%2BJDI%3D&response-content-disposition=attachment%3B%20filename%3D%25C3%2581UDIO-AJUDANTE-CAPITAL-SOCIAL-E-ATIV.-ECON-%282%29.mp3 - Nome do arquivo: ÁUDIO-AJUDANTE-CAPITAL-SOCIAL-E-ATIV.-ECON-(2).mp3
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:04:49]: Link pra adequação  👉 https://mei.receita.economia.gov.br/alteracao/login
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:05:18]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/da1a08a8-cdf8-43d0-8547-867a9469cb4f.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=j5B8Sm9LdXWVMXrbLwNwZqWnixs%3D&response-content-disposition=attachment%3B%20filename%3DPRINT%2520MEI%2520CAPITAL%2520%2520GERAL%2520CARRE.png - Nome do arquivo: PRINT MEI CAPITAL  GERAL CARRE.png
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:07:46]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:12:29]: Consegui já
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:12:39]: Fiz as mudanças q vc me pediu
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:16:02]: só um momento
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:18:28]: Ta certinho
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:18:46]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:18:48]: Só um momento que vou enviar a declaração de ajudante para assinatura
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:21:07]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4336b299-2908-4636-95c1-fac52df77876.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=IMFWTE3BznVKJwXU5EjanIcRAnw%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O%2520AJUDANTE%2520PX%25202024%2520.pdf - Nome do arquivo: DECLARAÇÃO AJUDANTE PX 2024 .pdf
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:21:23]: https://assinador.iti.br/assinatura/index.xhtml
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:21:26]: Atraves desse link o senhor pode assina-la digitalmente pelo portal do GOV . Se preferir pode imprimir e assinar igual o documento que anexou em seu cadastro.
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:21:38]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/41786ea4-7d24-4ef8-b45b-ca6120f03c5e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=HPSGVPLn6WHOsbXlSGW41p%2B5LPI%3D&response-content-disposition=attachment%3B%20filename%3DPASSO%2520A%2520PASSO%2520ASSINATURA%2520NO%2520GOV.jpg - Nome do arquivo: PASSO A PASSO ASSINATURA NO GOV.jpg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:34:25]: Uma pergunta,  eu tenho que compartilhar este documento com gov.com?
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:44:37]: Compartilhar comigo
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:45:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/45d49537-8573-46d4-ac70-3a1424ae98b7.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=c7OIe%2FGPUe3uxm2cNIdrskD5eVE%3D&response-content-disposition=attachment%3B%20filename%3Dimage.png - Nome do arquivo: image.png
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:48:27]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/42f6b7d2-14cd-4973-b35b-007e35d089c4.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=p2T%2F9qc9R%2F3d73aLalhXjuz3Ceg%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O-AJUDANTE-PX-2024-_c%25C3%25B3pia.pdf - Nome do arquivo: DECLARAÇÃO-AJUDANTE-PX-2024-_cópia.pdf
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:48:33]: ☝🏾☝🏾
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:52:09]: Oi senhor Jorge precisa ser assinado pelo GOV mesmo
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:52:52]: ou o senhor pode imprimir e assinar com caneta azul ou preta igual o documento que anexou no cadastro
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:53:04]: veja se esse audio te ajuda assinar pelo GOV
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:53:26]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/10afb217-fd4e-4893-8cef-83110b021e76.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=%2BgDeiEBRHZSkv8Vc6CTNguvvzJM%3D&response-content-disposition=attachment%3B%20filename%3D%25C3%2581UDIO-ENSINANDO-ASSINATURA-DIGITAL-NO-GOV.mp3 - Nome do arquivo: ÁUDIO-ENSINANDO-ASSINATURA-DIGITAL-NO-GOV.mp3
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:57:41]: 🤦🏾‍♂️muita informação junta
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:58:00]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:58:08]: Vamos por parte
+
+[Gislene Paula de Morais Costa, 08/07/2024 15:58:43]: pode baixar a declaração que enviei por favor e me avisar aqui
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 15:58:58]: Isso eu já fiz
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:01:54]: E depois?
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:02:00]: ??
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:03:41]: https://assinador.iti.br/assinatura/index.xhtml
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:03:46]: Clica nesse link
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:03:57]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:04:12]: abriu pedindo para achar documento?
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:04:22]: Sim
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:04:27]: ok
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:05:06]: E agr?
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:05:24]: clica em escolher arquivo e escolha a declaração de ajudante que te passei
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:07:01]: Cliquei
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:07:12]: Carreguei a declaração
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:07:43]: clica em avançar
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:07:45]: E agr tá perguntando se é 0 carregar outro doc
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:07:54]: Sim
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:08:20]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6ab6c9c5-c565-4db2-8f89-c29721942d93.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=8m0OnRHiJdx5CXl4ZKd9tbPTmuI%3D&response-content-disposition=attachment%3B%20filename%3Dimage.png - Nome do arquivo: image.png
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:08:35]: Arrasta esse quadradinho ate a linha de assinatura
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:10:11]: conseguiu?
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:10:56]: apos colocar esse quadradinho na linha de assinatura só clicar em ASSINAR um botão azul do lado direito
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:11:17]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/25649644-59c4-4ad8-a6e4-1d8b960b02eb.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=oNA8JHKJDy9zALleN%2BlqL3BFVAQ%3D&response-content-disposition=attachment%3B%20filename%3D1513825262864471.jpeg - Nome do arquivo: 1513825262864471.jpeg
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:11:50]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f2489573-4544-4c3d-ba09-2bf6c3278ffd.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=4hHmQHqye%2FupCP1xDiXHqD1maIM%3D&response-content-disposition=attachment%3B%20filename%3Dimage.png - Nome do arquivo: image.png
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:11:54]: N fiz esta ação
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:12:10]: Clica nessa seta de baixar
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:12:27]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:12:41]: e vai baixar o documento assinado ai pode compartilhar comigo o documento assinado
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:13:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/14f799b4-39e5-409b-9850-32c42801186f.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=MQWs0nrHQIWNPb4uJhaJ91W4KXc%3D&response-content-disposition=attachment%3B%20filename%3D348464684954978.jpeg - Nome do arquivo: 348464684954978.jpeg
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:13:47]: Pode clicar em retornar no inicio
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:14:05]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:14:19]: Voltei
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:14:25]: Ao início
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:14:38]: pode escolher o arquivo novamente
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:14:42]: declaração de ajudante
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:14:57]: e assim que aparecer na tela pode clicar em avançar
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:15:25]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b3765a00-8da2-4b64-945d-7360384ce503.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=x0enTsGIF2XU%2FNAQvgFgfLeLxDs%3D&response-content-disposition=attachment%3B%20filename%3D1009386130292935.jpeg - Nome do arquivo: 1009386130292935.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:15:39]: Ok
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:18:34]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c303af4a-d8f0-41d3-b361-3f0d4de75633.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=hquSryLqM7dh7WgydkSvpTZ0m7k%3D&response-content-disposition=attachment%3B%20filename%3D381897424909507.jpeg - Nome do arquivo: 381897424909507.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:18:39]: ☝🏾☝🏾
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:19:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b6c8d852-03c0-4c32-aad8-7ad92c7eb9d1.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=qfrOM6CsWgW5RDyhBn5cnUtqlSA%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:20:20]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6a0afe34-3374-4dd8-aa67-c13ec0bb79e3.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=%2BKUxhcuGCUzRKHmUJCaCixdN%2BqE%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O%2520AJUDANTE%2520PX%25202024%2520%2520%2810%29.pdf - Nome do arquivo: DECLARAÇÃO AJUDANTE PX 2024  (10).pdf
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:20:36]: Ok
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:20:36]: te passei novamente em BRANCO
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:23:40]: o senhor quer que eu te ligue para te ajudar?
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:25:31]: Pode ser
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:32:11]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/cadc59fc-cf13-4af5-a417-43cc46c038f1.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=xVpIZ8o6tCKKhWDEFzX7sHfjM24%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O-AJUDANTE-PX-2024-_c%25C3%25B3pia.pdf - Nome do arquivo: DECLARAÇÃO-AJUDANTE-PX-2024-_cópia.pdf
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:34:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/21b728a7-da3c-4b67-b8c8-0ec000b0916a.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=H2FKx22bRYDpA5IqMe%2FvipcabOc%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O-AJUDANTE-PX-2024-_c%25C3%25B3pia.pdf - Nome do arquivo: DECLARAÇÃO-AJUDANTE-PX-2024-_cópia.pdf
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:38:59]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/33b51689-fc4f-464c-a846-ce9cd6556e2a.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=HQnfWoKZLK1EdVZN66kI2pyrEVk%3D&response-content-disposition=attachment%3B%20filename%3D1179570543495918.jpeg - Nome do arquivo: 1179570543495918.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:41:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/26f2ec31-6ddb-4fcb-af75-b93a77282582.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=E8qNeWzJk3fjzDnK%2BGJ0FwmysBA%3D&response-content-disposition=attachment%3B%20filename%3D709773957918175.jpeg - Nome do arquivo: 709773957918175.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:44:42]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4be8d4fb-4c5f-4dba-8b98-87a42d7e307a.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=ej9xTRy25wfmDYRxeMHlfEhzZfE%3D&response-content-disposition=attachment%3B%20filename%3D967885331798156.jpeg - Nome do arquivo: 967885331798156.jpeg
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:49:40]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3ab1c899-b232-4509-9157-58a7e06dd67e.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795385&Signature=VyIK%2FMnP2oKUEq1gG3zvr8KRf4Y%3D&response-content-disposition=attachment%3B%20filename%3DDeclara%25C3%25A7%25C3%25A3oajudante.pdf - Nome do arquivo: Declaraçãoajudante.pdf
+
+[Gislene Paula de Morais Costa, 08/07/2024 16:52:59]: Me passa sua chave PIX e seu banco por onde vai receber os valores do serviços realizado.
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:53:24]: Chave CPF 077.583.257-00
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 16:53:30]: Banco 99pay
+
+[Gislene Paula de Morais Costa, 08/07/2024 17:02:46]: Ajudante: Seguem as Confirmações 👉 🏼  chave pix enviada cadastrada✅/ Declaração assinada ✅ / CNPJ ou CNPJ MEI cadastrado✅
+
+[Gislene Paula de Morais Costa, 08/07/2024 17:02:54]: BOM SABER 📢📢https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude
+
+[Gislene Paula de Morais Costa, 08/07/2024 17:03:04]: Orientações finais: 
+1- Na sequência você receberá instruções para fazer sua integração e assisitir alguns vídeos para entender como funciona o aplicativo.
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal,  é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os video com o passo a passo no seu APP em MEUS CURSOS
+
+[Gislene Paula de Morais Costa, 08/07/2024 17:03:11]: Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 08/07/2024 17:03:22]: <Chamado transferido - Cadex Etapa 3 - AJUDANTE (Gislene Paula de Morais Costa) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 08/07/2024 17:03:22>
+
+[Jorge Leandro da Silva(5521983554153), 08/07/2024 17:04:34]: Ok
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 12:09:54]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 09/07/2024 12:10:01]: <Fim do chamado - undefined - 09/07/2024 12:10:01>

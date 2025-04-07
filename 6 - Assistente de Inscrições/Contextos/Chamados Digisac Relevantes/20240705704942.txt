@@ -1,0 +1,143 @@
+Nome do contato:  179146- ADEMAR WILLIAN DA COSTA
+Número do contato: 554195939965
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 05/07/2024 11:34:40
+Fechamento: 08/07/2024 15:14:32
+
+Número do protocolo: 20240705704942
+
+[Sistema, 05/07/2024 11:34:38]: <Inicio de chamado - Suporte - MOTORISTA - 05/07/2024 11:34:38>
+
+[Ademar Sidre(554195939965), 05/07/2024 11:34:38]: Ola
+
+[BOT, 05/07/2024 11:34:41]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Ademar Sidre(554195939965), 05/07/2024 11:34:46]: 1
+
+[BOT, 05/07/2024 11:34:49]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Ademar Sidre(554195939965), 05/07/2024 11:34:55]: 2
+
+[BOT, 05/07/2024 11:34:57]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Ademar Sidre(554195939965), 05/07/2024 11:35:05]: 1
+
+[Sistema, 05/07/2024 11:35:07]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 05/07/2024 11:35:07>
+
+[BOT, 05/07/2024 11:35:08]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 05/07/2024 12:02:25]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 05/07/2024 12:02:25>
+
+[Tainara Ferreira Da Silva, 05/07/2024 12:02:25]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Ademar Sidre(554195939965), 05/07/2024 12:02:49]: 085.724.599-60 Paraná
+
+[Ademar Sidre(554195939965), 05/07/2024 13:27:07]: Colombo
+
+[Tainara Ferreira Da Silva, 05/07/2024 13:55:05]: SEGUIR (CURITIBA PR  - FILA)
+
+[Tainara Ferreira Da Silva, 05/07/2024 13:55:40]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 05/07/2024 13:55:50]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 05/07/2024 13:55:50>
+
+[Sistema, 05/07/2024 13:56:00]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 05/07/2024 13:56:00>
+
+[Valeria Deseta Olímpio , 05/07/2024 13:56:01]: oi
+
+[Valeria Deseta Olímpio , 05/07/2024 13:56:08]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Ademar Sidre(554195939965), 05/07/2024 13:56:26]: Estava recebendo esse foi o último mes
+
+[Valeria Deseta Olímpio , 05/07/2024 14:04:20]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Ademar Sidre(554195939965), 05/07/2024 14:05:18]: Posso abir
+
+[Ademar Sidre(554195939965), 05/07/2024 14:05:20]: Abrir
+
+[Valeria Deseta Olímpio , 05/07/2024 14:13:19]: Ajudamos com a MEI no fim da Validação desse cadastro.Tem experiência comprovada de no mínimo 1 ano  como motorista ? (CLT, Nota Fiscal, manifesto, contrato etc de 2017 à 2023)
+
+[Ademar Sidre(554195939965), 05/07/2024 14:14:40]: Tenho na CLT como motorista
+
+[Valeria Deseta Olímpio , 05/07/2024 14:23:12]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Ademar Sidre(554195939965), 05/07/2024 14:24:57]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1bec8ab2-f5f3-494b-8013-27e55d032d96.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=low0xmqzuKoeRj9eIBEjiwyBvQ0%3D&response-content-disposition=attachment%3B%20filename%3D439261059097287.jpeg - Nome do arquivo: 439261059097287.jpeg
+
+[Ademar Sidre(554195939965), 05/07/2024 14:25:26]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/dab7ed69-7f31-447a-b757-d09ee8da22d2.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=TAquIWtX0T5p3orKxj8asAK7%2FQA%3D&response-content-disposition=attachment%3B%20filename%3D1075849170562719.jpeg - Nome do arquivo: 1075849170562719.jpeg
+
+[Ademar Sidre(554195939965), 05/07/2024 14:27:08]: Contato de emergência 41 995794911
+
+[Ademar Sidre(554195939965), 05/07/2024 14:29:49]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a3b9150b-0a28-4a7d-8632-fd459014e8e5.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=X4t4Bwdu7JRU0JyiUNv%2F6qtk85s%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_08572459960_25-04-2024.pdf - Nome do arquivo: CTPSDigital_08572459960_25-04-2024.pdf
+
+[Ademar Sidre(554195939965), 05/07/2024 14:33:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/06512e03-40e4-4ad0-9b6f-51ef91c31501.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=tAkagb8Q9siAEY9QXCZB%2Fv2w%2B5I%3D&response-content-disposition=attachment%3B%20filename%3D1006281157634916.jpeg - Nome do arquivo: 1006281157634916.jpeg
+
+[Valeria Deseta Olímpio , 05/07/2024 15:04:58]: Comprovante de residência aceitamos de Agua,luz ou telefone,pode ser em nome de outra pessoa da casa
+
+[Valeria Deseta Olímpio , 05/07/2024 15:05:05]: Tem que ser atual
+
+[Valeria Deseta Olímpio , 05/07/2024 15:05:12]: pode encaminhar outro?
+
+[Ademar Sidre(554195939965), 05/07/2024 15:05:39]: Entendi
+
+[Ademar Sidre(554195939965), 05/07/2024 15:05:46]: Esse é meu iptu
+
+[Ademar Sidre(554195939965), 05/07/2024 15:05:52]: Mas ok mando de outro
+
+[Ademar Sidre(554195939965), 05/07/2024 15:07:20]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/d06da7cc-3c3e-42db-adad-c9f9d33d1506.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=wgNpRBZcBbSuSivzSX3nNwyL1bE%3D&response-content-disposition=attachment%3B%20filename%3D994888132117819.jpeg - Nome do arquivo: 994888132117819.jpeg
+
+[Valeria Deseta Olímpio , 05/07/2024 15:07:38]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Ademar Sidre(554195939965), 05/07/2024 15:07:41]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8a761721-9001-4a8f-a507-915508bf3834.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795423&Signature=Fy%2FDhh0bMVEW3QVAQrY%2Bf3Et8Cw%3D&response-content-disposition=attachment%3B%20filename%3D917272747081821.jpeg - Nome do arquivo: 917272747081821.jpeg
+
+[Ademar Sidre(554195939965), 05/07/2024 15:07:47]: Ok obrigado
+
+[Sistema, 05/07/2024 18:15:59]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 05/07/2024 18:15:59>
+
+[Sistema, 08/07/2024 14:09:26]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 08/07/2024 14:09:26>
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 14:16:39]: Formato de mensagem não suportado.
+
+[Ademar Sidre(554195939965), 08/07/2024 14:16:59]: Ola
+
+[Ademar Sidre(554195939965), 08/07/2024 14:17:17]: Oxi como assim
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 14:30:15]: Essa não conformidade pode ocorrer devido a problemas de documentação, título de eleitor, declaração de imposto de renda ou até mesmo a processos (julgados, em aberto ou arquivados). Por isso não conseguimos seguir com o seu cadastro.
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 14:30:18]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 08/07/2024 15:14:32]: <Fim do chamado - undefined - 08/07/2024 15:14:32>

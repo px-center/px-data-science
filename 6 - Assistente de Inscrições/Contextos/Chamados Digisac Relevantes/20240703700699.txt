@@ -1,0 +1,171 @@
+Nome do contato: 112949- FLAVIO ROBERTO DE ARAUJO MONTEIRO
+Número do contato: 5511952172179
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Ana Flávia Orosimbo Pinheiro
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 03/07/2024 11:27:24
+Fechamento: 09/07/2024 14:30:59
+
+Número do protocolo: 20240703700699
+
+[Sistema, 03/07/2024 11:27:22]: <Inicio de chamado - Suporte - MOTORISTA - 03/07/2024 11:27:22>
+
+[.(5511952172179), 03/07/2024 11:27:22]: Bom dia
+
+[.(5511952172179), 03/07/2024 11:27:22]: Bom dia
+
+[BOT, 03/07/2024 11:27:25]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[.(5511952172179), 03/07/2024 11:27:25]: Por gentileza
+
+[BOT, 03/07/2024 11:27:28]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[.(5511952172179), 03/07/2024 11:27:31]: 1
+
+[BOT, 03/07/2024 11:27:33]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[.(5511952172179), 03/07/2024 11:27:43]: 2
+
+[BOT, 03/07/2024 11:27:47]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[.(5511952172179), 03/07/2024 11:27:57]: 1
+
+[Sistema, 03/07/2024 11:27:59]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 03/07/2024 11:27:59>
+
+[BOT, 03/07/2024 11:28:01]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[.(5511952172179), 03/07/2024 11:28:15]: Ob
+
+[Sistema, 03/07/2024 11:32:36]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 03/07/2024 11:32:36>
+
+[Sistema, 03/07/2024 11:32:41]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Ana Flávia Orosimbo Pinheiro) - 03/07/2024 11:32:41>
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:32:41]: io
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:32:52]: oi
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:33:04]: Bom dia
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:33:13]: Como posso ajudá-lo?
+
+[.(5511952172179), 03/07/2024 11:44:15]: Eu não estou conseguindo trabalhar com vcs
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:51:06]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f14d5e22-9eea-4437-b765-f59a303182fd.png?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=5TTt09fkETOa4nknALDBXJh1SJc%3D&response-content-disposition=attachment%3B%20filename%3Dimage.png - Nome do arquivo: image.png
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:51:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c083f057-4ea4-49f7-b02a-d76e0ccd5b59.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=j4cvnyPtU30fbzdieqkdl8EFnJM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 11:51:35]: E a mi há habilitação
+
+[.(5511952172179), 03/07/2024 11:51:54]: Eu mando
+
+[.(5511952172179), 03/07/2024 11:52:25]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/142c4b8c-3ba3-438d-82b0-842d744dd6f6.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=TRVCa%2Fn6uICPTDZ%2BphswWQwHjss%3D&response-content-disposition=attachment%3B%20filename%3DFatura-de-junho.pdf - Nome do arquivo: Fatura-de-junho.pdf
+
+[.(5511952172179), 03/07/2024 11:52:37]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/698bffc6-c7f6-4635-9538-00d2ca8b1487.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=1Tz9u31KysYOPSjmX22S%2F4pHbkg%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 11:52:58]: -Estado civil e escolaridade (esses não precisa de documento, só me informar por favor)
+- Fotos ou versão digital da Carteira de Trabalho - Apenas os contratos de Motorista (experiências a partir de 2017)
+- 2 Contatos de Emergência ( Ex: Filho,Esposa, Pai, Mãe, irmão)
+-Me informar cidade e estado que nasceu
+
+[.(5511952172179), 03/07/2024 11:53:40]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c7ea3be2-c0c3-4574-9ed1-f9daf79002d3.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=VhNpTbSI5MViQmEuh1lg%2FlV6P8I%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_29820402808_28-06-2024.pdf - Nome do arquivo: CTPSDigital_29820402808_28-06-2024.pdf
+
+[.(5511952172179), 03/07/2024 11:54:10]: undefined
+
+[.(5511952172179), 03/07/2024 11:54:10]: undefined
+
+[.(5511952172179), 03/07/2024 11:54:10]: undefined
+
+[.(5511952172179), 03/07/2024 11:54:35]: Está ai
+
+[.(5511952172179), 03/07/2024 11:54:46]: Oi
+
+[.(5511952172179), 03/07/2024 11:56:54]: Solteiro
+
+[.(5511952172179), 03/07/2024 11:57:06]: 2 gral conpleto
+
+[.(5511952172179), 03/07/2024 11:58:46]: Oi
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 12:32:31]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6acef446-ea44-4a23-b967-5f539c296abf.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=COiJo4tjpsuXXa%2BVDtN6MC87FNw%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 14:21:09]: Já deram
+
+[.(5511952172179), 03/07/2024 14:21:23]: Só que está mostrando
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 14:21:50]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/abee8421-2190-4f13-86a9-003b67e1c128.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=YEsa2YyxrTmDk%2BwHaHxXAUXpt%2FM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 14:24:50]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/72344f31-7983-4f55-ad81-63dea31bbcb0.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=kaDkMOgVvYhcNeqySTe0XGFjn0A%3D&response-content-disposition=attachment%3B%20filename%3D1003711124738116.mp3 - Nome do arquivo: 1003711124738116.mp3
+
+[.(5511952172179), 03/07/2024 14:27:48]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0945b43f-1fe7-4acc-9e2e-5c551e59a731.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=rrt3D%2FLAK5ELfqi5ydjY80Wx%2BhA%3D&response-content-disposition=attachment%3B%20filename%3D354457337457890.jpeg - Nome do arquivo: 354457337457890.jpeg
+
+[.(5511952172179), 03/07/2024 14:28:24]: Eu tenho esse papel porém aparece ainda no aplicativo
+
+[.(5511952172179), 03/07/2024 14:28:56]: Oi
+
+[.(5511952172179), 03/07/2024 14:31:42]: Oi
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 14:31:55]: Perfeito
+
+[.(5511952172179), 03/07/2024 14:32:06]: Esse serve
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 14:32:13]: -Me informar cidade e estado que nasceu por favor
+
+[.(5511952172179), 03/07/2024 14:32:29]: Itapetininga
+
+[.(5511952172179), 03/07/2024 14:32:34]: São paulo
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 16:20:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e0a3b9cb-00e3-4322-aac7-063bed576bfc.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=9o4WCd8uYJP4aLbKWPs%2B%2BS0muWE%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 16:32:53]: Muito ob
+
+[.(5511952172179), 03/07/2024 16:33:52]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4781543e-882a-4357-935f-6b7b1d917b90.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=FA%2BBVlw90TnKm7uuDT%2FSrk6RKH0%3D&response-content-disposition=attachment%3B%20filename%3D1513921616000967.jpeg - Nome do arquivo: 1513921616000967.jpeg
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 16:43:42]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c673228a-eff6-48a7-8a0f-85cea9d0c15e.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=HRw29fLsqsryUpNa8OnDEzi5fi4%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 16:45:32]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/729dc59b-900c-45c3-bfea-9e2e71085f51.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=bFLz5tcXCRnszY9irrY2TrX4zcA%3D&response-content-disposition=attachment%3B%20filename%3D1211038373588857.mp3 - Nome do arquivo: 1211038373588857.mp3
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 16:50:15]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/995f0943-8df1-4c03-8962-00165cf41f23.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=kKFQ1Daj5Ddjcr%2BZhwHNnoidZPA%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 16:50:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c7c91463-783f-41d0-90dd-191e24db1905.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=dnampnq5oqKnou5PWfq0Pjadod0%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 16:51:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/d5cc1410-6ba9-4bb9-922b-0dedbcd25f35.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=aYUq4vODkCgvbS8xbFzz61qKs3I%3D&response-content-disposition=attachment%3B%20filename%3D851838193489978.mp3 - Nome do arquivo: 851838193489978.mp3
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 17:02:55]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e1bca19f-654c-4169-9fbf-d8c9f9453885.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=pZaKVUO%2BOKE2R15lJQYUbUhjLdY%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[.(5511952172179), 03/07/2024 17:05:30]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/281f1694-5774-4be9-a31e-a820958e874f.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=fmTf3wJzGINHN5gamGwUwScOU3A%3D&response-content-disposition=attachment%3B%20filename%3D391769017253389.mp3 - Nome do arquivo: 391769017253389.mp3
+
+[Ana Flávia Orosimbo Pinheiro, 03/07/2024 17:09:25]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a0d09b2e-dcdd-47c3-999f-cbb2d4c9205d.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795372&Signature=S6Cw6skvo%2BDqbSXXGdkjLFrNenA%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Sistema, 08/07/2024 14:23:22]: <Chamado transferido - Cadex Etapa 1 - LEAD (Ana Flávia Orosimbo Pinheiro) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 08/07/2024 14:23:22>
+
+[Sistema, 08/07/2024 17:35:59]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 08/07/2024 17:35:59>
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 17:40:30]: Formato de mensagem não suportado.
+
+[Sistema, 09/07/2024 14:30:59]: <Fim do chamado - undefined - 09/07/2024 14:30:59>

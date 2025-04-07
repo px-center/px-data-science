@@ -1,0 +1,229 @@
+Nome do contato: 28677 - WELLINGTON BATISTA DO NASCIMENTO
+Número do contato: 5513981500919
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Eliane Severino dos Santos Silva 
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 06/07/2024 16:28:45
+Fechamento: 08/07/2024 17:41:24
+
+Número do protocolo: 20240706707077
+
+[Sistema, 06/07/2024 16:28:43]: <Inicio de chamado - Suporte - MOTORISTA - 06/07/2024 16:28:43>
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:28:43]: Ok
+
+[BOT, 06/07/2024 16:28:46]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:29:00]: 1
+
+[BOT, 06/07/2024 16:29:03]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:29:18]: 2
+
+[BOT, 06/07/2024 16:29:21]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:29:43]: 1
+
+[Sistema, 06/07/2024 16:29:45]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 06/07/2024 16:29:45>
+
+[BOT, 06/07/2024 16:29:46]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:30:05]: undefined
+
+[Sistema, 06/07/2024 16:33:34]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Eliane Severino dos Santos Silva ) - 06/07/2024 16:33:34>
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:33:34]: Sua cidade  São Vicente nesse momento não estamos validando cadastro em sua região, mas conferimos aqui e seu pré cadastro já consta em nosso banco de dados, agora é só aguardar e no momento certo nós da PX entraremos em contato com você para concluirmos a validação do seu cadastro.
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:33:34]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/02e2aabf-175b-4633-90fc-4ff4a49868c4.mp4?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=qjSvBEeOFFfAAiLdyG9IXfEtjbc%3D&response-content-disposition=attachment%3B%20filename%3DAnima%25C3%25A7%25C3%25A3o%2520Rica%2520-%2520vers%25C3%25A3o%2520compacta%252016mb.mp4 - Nome do arquivo: Animação Rica - versão compacta 16mb.mp4
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:33:41]: Estamos a disposição, tenha um bom final de semana
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:34:35]: Desculpe temos demanda em Cubatão
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:34:42]: Cubatão, SP 14km
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:34:49]: Isso
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:35:01]: Me chamo Eliane e vou ajudar com seu cadastro , vi que já colocou algumas informações no aplicativo e falta a validação
+Está trabalhando registrado no momento ?
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:35:30]: Tudo bem
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:35:45]: Não
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:38:05]: Está recebendo  ou vai dar entrada no seguro desemprego?
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:38:58]: Não
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:46:05]: No final do cadastro você será prestador de serviço com CNPJ/ MEI.
+						
+Nós ajudamos a abrir o MEI depois que seu cadastro for aprovado.
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:46:13]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6415ecfc-7617-4865-864f-144220a6c149.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=QGEAQUmRKtvyRGKOHBSO3nNraUM%3D&response-content-disposition=attachment%3B%20filename%3Dmei.mp3 - Nome do arquivo: mei.mp3
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:46:16]: Tudo bem abrir o MEI após a aprovação?
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:48:18]: vi que já anexou no aplicativo
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:48:32]: Você tem mais de 1 ano de experiência comprovada de 2017 a 2024 dirigindo  caminhão, carreta ou ônibus ?
+
+Para comprova pode ser carteira de trabalho, carta de referência, nota fiscal, manifesto, contrato etc de 2017 a 2024
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:50:17]: Sim
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 16:54:06]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a1b28225-782c-45a8-bdf0-d33e16511be6.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=3fQoomZ92TEEwDqF9GPzCbThLa8%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_30108821811_06-07-2024.pdf - Nome do arquivo: CTPSDigital_30108821811_06-07-2024.pdf
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:02:06]: Para terminar o cadastro vou precisa de alguns documentos 
+- Foto do seu RG frente e verso.( se tiver) 
+2 Contatos de Emergência ( Exemplo: Filho,Esposa, Pai, Mãe, irmão)precisa ser de maior
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:02:20]: Preciso atualiza o comprovante de endereço
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:02:32]: O comprovante  de endereço precisa ser conta de água, luz ou tel não precisa está no seu nome mas precisa ser de maio, junho
+ou julho
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:03:12]: A foto da CNH não ficou nitida preciso que mande outra, pode anexa no aplicativo ou mandar por aqui
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:16:07]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e8ccf175-487c-4926-9f21-476097be0caf.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=iNZTP%2FCrRlx%2FI%2BT5VCqwWTIS90w%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:16:17]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8a80be9e-e8b6-4562-a677-46c4cdb0d323.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=Rie8E5EDQ75pNXLNwXq2NT8BSiM%3D&response-content-disposition=attachment%3B%20filename%3Ddocumento.pdf - Nome do arquivo: documento.pdf
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:20:48]: endereço
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:22:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/56f060ea-c988-4575-a44a-792e862e95ee.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=1uvcYKvYo6pIM2Zj%2BNaj%2FjxDOCQ%3D&response-content-disposition=attachment%3B%20filename%3DReportCertidaoProntuarioCNHServlet-%286%29.pdf - Nome do arquivo: ReportCertidaoProntuarioCNHServlet-(6).pdf
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:22:45]: Banco Bradesco
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:22:51]: Ag
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:23:03]: 05371
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:23:08]: Conta
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:23:18]: 252530
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:24:47]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0bad9250-3bc1-4157-8552-f162f622c73e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=mPr4he3ZzkW4V2GouUlc69hSSMM%3D&response-content-disposition=attachment%3B%20filename%3D1851787128565823.jpeg - Nome do arquivo: 1851787128565823.jpeg
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:26:27]: Já mandei todos os documentos
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:27:10]: Quero fazer os cursos px
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:28:01]: falta apenas o comprovante de endereço
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:28:11]: O comprovante  de endereço precisa ser conta de água, luz ou tel não precisa está no seu nome mas precisa ser de maio, junho
+ou julho
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 17:32:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2419cc84-d37b-4493-90e0-20c45a1a5500.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=2%2BY%2F0XciKCTtfekjlp2NHnWYvIA%3D&response-content-disposition=attachment%3B%20filename%3D2000008675520086_240706163106.pdf - Nome do arquivo: 2000008675520086_240706163106.pdf
+
+[Eliane Severino dos Santos Silva , 06/07/2024 17:35:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c9fc2360-267b-4384-bf87-a95758496470.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=71yCTblXfpK8jq5kzTSvV5qZLnA%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 18:26:23]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/57cc36d1-48b6-45b1-91f6-9426e90d472b.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=PuHRSolPRYEjZC5DHlxjXg1TA9k%3D&response-content-disposition=attachment%3B%20filename%3D1140307277048589.mp3 - Nome do arquivo: 1140307277048589.mp3
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:11:51]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/daddae24-c8fa-40c9-9fc5-e198f3538c5e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=PtUl1Q1RFohjXfasEd9q2eKVcbY%3D&response-content-disposition=attachment%3B%20filename%3D1518362868759248.jpeg - Nome do arquivo: 1518362868759248.jpeg
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:19:13]: falta apenas  2 Contatos de Emergência ( Exemplo: Filho,Esposa, Pai, Mãe, irmão)precisa ser de maior
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:22:53]: undefined
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:22:55]: Meu irmão
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:23:22]: undefined
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:23:27]: Irmão
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:23:32]: obrigada
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:23:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2d356010-4692-4915-8518-fb3124f3df72.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=OA577HTUoPnETu8QDzeu0demlKc%3D&response-content-disposition=attachment%3B%20filename%3D437297235797235.mp3 - Nome do arquivo: 437297235797235.mp3
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:23:59]: Terminei seu cadastro e mandei para próxima etapa para aprovação
+Entramos em contato para falar a resposta
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:24:06]: Demora de 1 a 2 dias a contar de segunda-feira
+Estamos a disposição, tenha um bom final de semana
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:25:11]: E os cursos
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:27:17]: pode manda por aqui ou anexa no aplicativo
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:29:55]: Poderia me passar
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:30:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c2d31edb-519a-427d-819a-3133f74ea2d8.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=hh3jhk03feOhsYxe11hyXp8qpUU%3D&response-content-disposition=attachment%3B%20filename%3D991791502586114.jpeg - Nome do arquivo: 991791502586114.jpeg
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:30:56]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a36216e3-8176-4d2c-8cfa-bd5634876049.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=GyrCJ4oB1M%2BuRlVCggviUMYvxd0%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:31:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6751d264-c231-47e0-8809-8850e98c306f.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=mEUd8PbSYuLO6tZ9wTh1yIEsVp0%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:31:22]: undefined
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:31:53]: Ok
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:31:56]: Muito obrigado
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:32:04]: Excelente final de semana
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:39:16]: obrigada
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:39:48]: Mensagens do tipo Sticker não são suportadas atualmente.
+
+[Welington Batistta do nas(5513981500919), 06/07/2024 19:39:59]: Agora só corre atrás do trabalho
+
+[Eliane Severino dos Santos Silva , 06/07/2024 19:45:44]: sim kkk
+
+[Sistema, 07/07/2024 07:38:02]: <Chamado transferido - Atendimento - MOTORISTA (Eliane Severino dos Santos Silva ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 07/07/2024 07:38:02>
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 08:22:40]: Bom dia
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 08:22:51]: Não estou conseguindo me candidatar a varga
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 08:24:53]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/919ddd72-313c-4c02-8977-feb68d3bea8a.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795407&Signature=DJOjN8nFhanHb4PIwxL5%2Fav1fbk%3D&response-content-disposition=attachment%3B%20filename%3D816580510577136.jpeg - Nome do arquivo: 816580510577136.jpeg
+
+[Sabrina De Morais Silva, 08/07/2024 11:25:22]: Bom dia Wellington, tudo bem? Seu cadastro está passando pela etapa de validação, atendemos motoristas de todo o Brasil e estamos com grande demanda, por gentileza aguardar. Em breve entraremos em contato novamente.
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 11:27:30]: Ok
+
+[Sistema, 08/07/2024 15:55:59]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 08/07/2024 15:55:59>
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 16:41:04]: Olá Wellington , Lamentamos mas  para o momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar novamente em contato após um período de 1 ano.
+Estimamos tudo de melhor para você e sua família.
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 16:42:22]: Oque aconteceu
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 16:42:35]: Olá Wellington , Lamentamos mas  para o momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar novamente em contato após um período de 1 ano.
+Estimamos tudo de melhor para você e sua família.
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 16:46:21]: Essa não conformidade pode ocorrer devido a problemas de documentação, título de eleitor, declaração de imposto de renda ou até mesmo a processos (julgados, em aberto ou arquivados). Por isso não conseguimos seguir com o seu cadastro.
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 16:47:34]: Mas oque devo fazer
+
+[Welington Batistta do nas(5513981500919), 08/07/2024 16:47:40]: Eu não tenho nada
+
+[Fernanda de Ávila Feijó Machado Matos, 08/07/2024 17:40:45]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 08/07/2024 17:41:24]: <Fim do chamado - undefined - 08/07/2024 17:41:24>

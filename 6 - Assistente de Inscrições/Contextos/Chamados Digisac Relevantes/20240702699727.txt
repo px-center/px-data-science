@@ -1,0 +1,204 @@
+Nome do contato: 211075 - 	 FLORISVAL Sá BARRETO FILHO
+Número do contato: 557196521726
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Thiago Henrique Seixas Olimpio, José Soares Fragoso Junior , Sabrina De Morais Silva, Michael Franz
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 02/07/2024 17:32:31
+Fechamento: 06/07/2024 10:54:04
+
+Número do protocolo: 20240702699727
+
+[Sistema, 02/07/2024 17:32:29]: <Inicio de chamado - Suporte - MOTORISTA - 02/07/2024 17:32:29>
+
+[valshow250462(557196521726), 02/07/2024 17:32:29]: *Boa tarde estou tentando fazer o meu cadastro e não estou conseguindo*
+
+[BOT, 02/07/2024 17:32:32]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[valshow250462(557196521726), 02/07/2024 17:32:36]: *Boa Tarde*
+
+[BOT, 02/07/2024 17:32:40]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[valshow250462(557196521726), 02/07/2024 17:32:42]: 1
+
+[BOT, 02/07/2024 17:32:46]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[valshow250462(557196521726), 02/07/2024 17:32:56]: 2
+
+[BOT, 02/07/2024 17:32:59]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[valshow250462(557196521726), 02/07/2024 17:33:11]: 1
+
+[Sistema, 02/07/2024 17:33:13]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 02/07/2024 17:33:13>
+
+[BOT, 02/07/2024 17:33:14]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 02/07/2024 17:52:52]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 02/07/2024 17:52:52>
+
+[Sistema, 02/07/2024 17:53:07]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Michael Franz) - 02/07/2024 17:53:07>
+
+[Michael Franz, 02/07/2024 17:53:07]: oi
+
+[Michael Franz, 02/07/2024 17:53:12]: Sou Michael da Motorista PX, e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Qual sua cidade/região?
+
+[valshow250462(557196521726), 02/07/2024 18:04:08]: *Salvador*
+
+[Michael Franz, 02/07/2024 18:07:01]: Legal.... temos demanda de motoristas em sua região.
+
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[valshow250462(557196521726), 03/07/2024 07:56:13]: *estou livre, trabalho para mim autônomo*
+
+[Michael Franz, 03/07/2024 07:58:46]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[valshow250462(557196521726), 03/07/2024 08:33:19]: *Motorista aposentado livre*
+
+[Michael Franz, 03/07/2024 08:34:43]: Fique tranquilo, ajudamos com a MEI no fim da Validação desse cadastro.
+
+[Michael Franz, 03/07/2024 08:34:44]: Você tem experiência comprovada como motorista (CNH C, D ou E) de no mínimo 1 ano (de 2017 à 2024)? (CLT, Nota Fiscal, manifesto, contrato etc)
+
+[valshow250462(557196521726), 03/07/2024 08:47:49]: *Tenho e já enviei esses documentos todos para vcs via Aplicativo*
+*pesquisa aí pelo CPF 26430150534 só falta finalizar o cadastro*
+*Enviei tudo pelo aplicativo PX*
+
+[valshow250462(557196521726), 03/07/2024 08:56:00]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ec1c94cc-eda0-4ede-bee4-44aa4a0a8f4e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=YGEkDzapug34a0hK6AGYk%2B4xRe8%3D&response-content-disposition=attachment%3B%20filename%3D1505129337069648.jpeg - Nome do arquivo: 1505129337069648.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5bca12f0-0042-4135-981d-e38ee4eb1c08.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=f2JfGCTGwPZjXEZqxnChmdoz2iM%3D&response-content-disposition=attachment%3B%20filename%3D810084814432042.jpeg - Nome do arquivo: 810084814432042.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:01]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e69331bc-f1cd-49bb-b8b2-f90ec5e8cc2b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=bEnrJGRGA2uG6Ixqvap%2FBkcwzfQ%3D&response-content-disposition=attachment%3B%20filename%3D1006055744233914.jpeg - Nome do arquivo: 1006055744233914.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/988e2827-daa3-4041-b55d-d438c8369ee2.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=Sv6kC5fegBNTGc0i%2BU3hXH67VrU%3D&response-content-disposition=attachment%3B%20filename%3D1176338540349121.jpeg - Nome do arquivo: 1176338540349121.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/85b77de8-a8ca-42c7-b0db-e57448f75a9f.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=eqCgC8N7%2BwwBJp47NpgrE57Ktd4%3D&response-content-disposition=attachment%3B%20filename%3D1016316002748941.jpeg - Nome do arquivo: 1016316002748941.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8c6ea269-4a61-40d2-9208-07558e583fc9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=XpWDQk83MvEV%2Bsb2%2BkdAvW2HDbY%3D&response-content-disposition=attachment%3B%20filename%3D1460923361224564.jpeg - Nome do arquivo: 1460923361224564.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9bf39f1f-c4a7-4166-a92c-7288055dd83c.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=Gmn5tFza3RL%2FpIkb85GmbG2HnBY%3D&response-content-disposition=attachment%3B%20filename%3D859851026001333.jpeg - Nome do arquivo: 859851026001333.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/656decbb-faf7-4516-a47b-4464898d5dcc.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=kiu4buiG3qqSqKCqYhHrvCGggAU%3D&response-content-disposition=attachment%3B%20filename%3D1956651718123732.jpeg - Nome do arquivo: 1956651718123732.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1792b3eb-c984-4a87-bee7-36a78b2b5d59.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=xhQTAWC4NfqkNas9poq4H73Pn1U%3D&response-content-disposition=attachment%3B%20filename%3D437067182573192.jpeg - Nome do arquivo: 437067182573192.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:03]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b660c12b-5472-4277-b1ae-d6db5958eb10.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=D0dunrUYbJ0cm8XPM%2Fs%2F1sgyhaU%3D&response-content-disposition=attachment%3B%20filename%3D920912356508938.jpeg - Nome do arquivo: 920912356508938.jpeg
+
+[valshow250462(557196521726), 03/07/2024 08:56:49]: *Já fiz o cadastro, pelo aplicativo e me informaram que está tudo correto*
+
+[valshow250462(557196521726), 03/07/2024 08:59:54]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f63d8a5e-bc22-490a-a9e2-b0fd4fa8b008.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=Uw8FFKxxdAaMjJVCaYeT9pZWIDA%3D&response-content-disposition=attachment%3B%20filename%3D1547570605858326.jpeg - Nome do arquivo: 1547570605858326.jpeg
+
+[valshow250462(557196521726), 03/07/2024 09:03:33]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9f8b1bd7-2567-40aa-a5bb-3c53c6557322.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=LrnRjv7ba5w%2BHjfQc8IZzDPVTds%3D&response-content-disposition=attachment%3B%20filename%3D3730628470597868.jpeg - Nome do arquivo: 3730628470597868.jpeg
+
+[valshow250462(557196521726), 03/07/2024 10:09:05]: *por favor me dar resposta aí*
+
+[Michael Franz, 03/07/2024 17:55:01]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Sistema, 03/07/2024 18:28:24]: <Chamado transferido - Cadex Etapa 1 - LEAD (Michael Franz) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 03/07/2024 18:28:24>
+
+[Sistema, 04/07/2024 10:30:06]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) - 04/07/2024 10:30:06>
+
+[José Soares Fragoso Junior , 04/07/2024 11:32:00]: Formato de mensagem não suportado.
+
+[valshow250462(557196521726), 04/07/2024 11:45:50]: *Sim*
+
+[valshow250462(557196521726), 04/07/2024 11:47:14]: *Falta alguma coisa para finalizar o meu cadastro*❓
+
+[José Soares Fragoso Junior , 04/07/2024 11:48:06]: seu cadastro esta passando pela próxima etapa que é entrarmos em contato com as empresas que nos enviou, se puder nos enviar algum contato de RH ou ex encarregados, assim essa etapa vai ser mais rápida para finalizar o cadastro! Sem isso não conseguimos dar sequencia!!!
+
+[José Soares Fragoso Junior , 04/07/2024 11:48:25]: tem o contato de algum encarregado da EMPRESA DE TRANSPORTES COSTA VERDE LTDA
+
+[José Soares Fragoso Junior , 04/07/2024 20:28:39]: conseguimos o contato ?
+
+[valshow250462(557196521726), 04/07/2024 21:01:53]: undefined
+
+[valshow250462(557196521726), 04/07/2024 21:01:53]: undefined
+
+[valshow250462(557196521726), 04/07/2024 21:02:20]: undefined
+
+[Sistema, 05/07/2024 13:19:29]: <Chamado transferido - Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 13:19:29>
+
+[Sistema, 05/07/2024 14:03:24]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Cadex Etapa 3 - SPRINT (Thiago Henrique Seixas Olimpio) - 05/07/2024 14:03:24>
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 14:04:11]: Tudo bem? Meu nome é Thiago, estou aqui para te ajudar na etapa 3 – MEI. Parabéns seu cadastro foi aprovado. Agora eu vou te ajudar na última etapa. Vamos abrir o seu CNPJ MEI?
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 14:04:15]: Agora só falta:
+1) CNPJ MEI
+2) Sua chave PIX e o nome do banco.
+
+[valshow250462(557196521726), 05/07/2024 16:00:49]: 1
+
+[valshow250462(557196521726), 05/07/2024 16:03:26]: *PIX*
+26430150534
+*CPF*
+*FLORISVAL SÁ BARRETO FILHO*
+*ITAÚ UNIBANCO*
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 16:25:08]: Vou enviar o passo a passo, e o link do GOV onde pode fazer isso online e GRATUITAMENTE, ok? Qualquer dúvida pode falar, que vou te ajudando.
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 16:25:15]: https://mei.receita.economia.gov.br/inscricao/login
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 16:25:20]: Informações obrigatórias na abertura do MEI:
+
+MEI precisa seria GERAL, não é MEI caminhoneiro
+
+Capital social - 10.000,00
+
+Forma de atuação - Internet e porta a porta
+
+Ocupação principal - Motorista por aplicativo.
+
+[valshow250462(557196521726), 05/07/2024 17:19:33]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5fac9371-ce49-438c-9049-856759aeae04.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=UPMOKZWv3iyvbxTrki4d%2BSHv4LQ%3D&response-content-disposition=attachment%3B%20filename%3D1474149129910148.jpeg - Nome do arquivo: 1474149129910148.jpeg
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 17:23:16]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/29b1f6c1-76f9-4118-bdfa-711ffde9b2ae.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795471&Signature=vOLpbEfnSiDXJe4v4FcYwL86FiM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[valshow250462(557196521726), 05/07/2024 17:48:43]: *Já criei o MEI*
+
+[valshow250462(557196521726), 05/07/2024 17:49:10]: *Falta mais alguma coisa*
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 17:58:11]: Tudo certo Florisaval
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 17:58:18]: Cadastrei no sistema as informações
+
+[Thiago Henrique Seixas Olimpio, 05/07/2024 17:58:27]: Orientações finais: 
+1- Na sequência você receberá instruções para fazer sua integração e assisitir alguns vídeos para entender como funciona o aplicativo.
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal,  é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os videos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 05/07/2024 17:58:41]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Thiago Henrique Seixas Olimpio) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 17:58:41>
+
+[Fernanda de Ávila Feijó Machado Matos, 06/07/2024 10:53:55]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 06/07/2024 10:54:04]: <Fim do chamado - undefined - 06/07/2024 10:54:04>

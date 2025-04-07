@@ -1,0 +1,148 @@
+Nome do contato: 110982 -  SILAS DORSA ARTIGAS
+Número do contato: 554185084891
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Valeria Deseta Olímpio , Jhenyffer Cristina Baches Nunes
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 08/07/2024 08:37:56
+Fechamento: 09/07/2024 15:22:46
+
+Número do protocolo: 20240708707999
+
+[Sistema, 08/07/2024 08:37:54]: <Inicio de chamado - Suporte - MOTORISTA - 08/07/2024 08:37:54>
+
+[✌🏼(554185084891), 08/07/2024 08:37:54]: Ola
+
+[BOT, 08/07/2024 08:37:58]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[✌🏼(554185084891), 08/07/2024 08:38:07]: 1
+
+[BOT, 08/07/2024 08:38:10]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[✌🏼(554185084891), 08/07/2024 08:38:19]: 2
+
+[BOT, 08/07/2024 08:38:22]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Sistema, 08/07/2024 08:39:25]: <Chamado transferido - Suporte - MOTORISTA para Suporte - MOTORISTA (Jhenyffer Cristina Baches Nunes) - 08/07/2024 08:39:25>
+
+[Jhenyffer Cristina Baches Nunes, 08/07/2024 08:39:26]: Olá, como você está? 😃
+Vou encaminhar seu chamado para a pessoa responsável. Só um momento.
+
+[✌🏼(554185084891), 08/07/2024 08:39:32]: 1
+
+[Sistema, 08/07/2024 08:39:32]: <Chamado transferido - Suporte - MOTORISTA (Jhenyffer Cristina Baches Nunes) para Atendimento - MOTORISTA - 08/07/2024 08:39:32>
+
+[✌🏼(554185084891), 08/07/2024 09:37:52]: Ola
+
+[Sistema, 08/07/2024 09:41:12]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 08/07/2024 09:41:12>
+
+[Sistema, 08/07/2024 09:41:14]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 08/07/2024 09:41:14>
+
+[Valeria Deseta Olímpio , 08/07/2024 09:41:15]: oi
+
+[Valeria Deseta Olímpio , 08/07/2024 09:41:20]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[✌🏼(554185084891), 08/07/2024 09:41:42]: Naao
+
+[✌🏼(554185084891), 08/07/2024 09:41:56]: Desligado da empresa sem seguro
+
+[Valeria Deseta Olímpio , 08/07/2024 10:05:23]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[✌🏼(554185084891), 08/07/2024 10:07:57]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1a06ee5c-7233-44c3-94cf-aeb43c0ebf72.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=umDufc%2Bu6AXQB2q2CwBzJgoldbQ%3D&response-content-disposition=attachment%3B%20filename%3D401487382922333.jpeg - Nome do arquivo: 401487382922333.jpeg
+
+[✌🏼(554185084891), 08/07/2024 10:29:01]: Vô montar um
+
+[✌🏼(554185084891), 08/07/2024 10:42:40]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/dab2a48d-f0b5-49c3-8da0-f8a5d6979aac.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=RgpDmJCE3b5gg9JbhzyiIbfXuIo%3D&response-content-disposition=attachment%3B%20filename%3D446176908341862.jpeg - Nome do arquivo: 446176908341862.jpeg
+
+[✌🏼(554185084891), 08/07/2024 10:43:16]: 55837717
+
+[✌🏼(554185084891), 08/07/2024 10:43:33]: /0001-84
+
+[Valeria Deseta Olímpio , 08/07/2024 12:19:51]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH
+ • Carteira de Trabalho digital (Experiências de 2017 a 2023)
+ • Comprovante de Residencia (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[✌🏼(554185084891), 08/07/2024 12:49:13]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7be44110-d0f8-4904-8532-09192cd0a863.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=WVW6c7OjcN5ABOiJ0CV8CijLfvQ%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[✌🏼(554185084891), 08/07/2024 12:52:37]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/866b3074-72d6-478e-974d-c893fd94b885.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=liCnEJt3eWgkHVmJacaA9nW%2FkiY%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_04466830940_08-07-2024.pdf - Nome do arquivo: CTPSDigital_04466830940_08-07-2024.pdf
+
+[✌🏼(554185084891), 08/07/2024 12:53:14]: undefined
+
+[✌🏼(554185084891), 08/07/2024 12:53:18]: Esposa
+
+[✌🏼(554185084891), 08/07/2024 12:53:27]: undefined
+
+[✌🏼(554185084891), 08/07/2024 13:05:13]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9566a2b4-5563-4841-8b1c-9bc7915d0364.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=7rD7joMZXkQtm5pG5HRkVdRJjEE%3D&response-content-disposition=attachment%3B%20filename%3D1177681413372844.mp3 - Nome do arquivo: 1177681413372844.mp3
+
+[✌🏼(554185084891), 08/07/2024 13:29:00]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c03d508e-f6b2-4aea-9dbb-dae3a551b1dc.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=%2FLHTGOhz19NPAh7elVHGRWPmTmc%3D&response-content-disposition=attachment%3B%20filename%3D3615883642010389.jpeg - Nome do arquivo: 3615883642010389.jpeg
+
+[Valeria Deseta Olímpio , 08/07/2024 13:47:49]: REALMIX CONCRETO LT-Precisamos da comprovação da saída, aceitamos rescisão, exame demissional ou carta de saída
+
+[✌🏼(554185084891), 08/07/2024 13:55:30]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3bfa702c-687a-432d-a0ca-9c7e4f44e952.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=tsGkCX2It8VDWgt7iX43ybMXeZ4%3D&response-content-disposition=attachment%3B%20filename%3DRESCISAO-SILAS-ARTIGAS-%281%29.pdf - Nome do arquivo: RESCISAO-SILAS-ARTIGAS-(1).pdf
+
+[✌🏼(554185084891), 08/07/2024 13:57:41]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/83890c63-ba17-448e-9dd5-b782ecfa2b35.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=uS2U%2F4haS5LRebK571j8xGcCLL0%3D&response-content-disposition=attachment%3B%20filename%3D2822111321274785.jpeg - Nome do arquivo: 2822111321274785.jpeg
+
+[Valeria Deseta Olímpio , 08/07/2024 14:54:24]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Valeria Deseta Olímpio , 08/07/2024 15:06:20]: Oi
+
+[Valeria Deseta Olímpio , 08/07/2024 15:06:25]: falta somente um detalhe
+
+[Valeria Deseta Olímpio , 08/07/2024 15:06:34]: um comprovante de endereço atual
+
+[Valeria Deseta Olímpio , 08/07/2024 15:06:37]: pode encaminhar
+
+[✌🏼(554185084891), 08/07/2024 15:07:09]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4d82627c-ba02-4d4f-9b35-702da581437c.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795364&Signature=BC0NuzG9kGhQtC3WYzMOiQH%2FxXs%3D&response-content-disposition=attachment%3B%20filename%3D460598373580828.jpeg - Nome do arquivo: 460598373580828.jpeg
+
+[Valeria Deseta Olímpio , 08/07/2024 15:10:00]: Obrigada
+
+[Sistema, 08/07/2024 15:23:03]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 08/07/2024 15:23:03>
+
+[✌🏼(554185084891), 08/07/2024 16:27:01]: Olá
+
+[Sistema, 09/07/2024 09:36:14]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 09/07/2024 09:36:14>
+
+[✌🏼(554185084891), 09/07/2024 12:19:22]: Oi
+
+[✌🏼(554185084891), 09/07/2024 12:19:56]: Canditura ainda não permitida
+
+[✌🏼(554185084891), 09/07/2024 13:52:44]: Abri o mei
+
+[✌🏼(554185084891), 09/07/2024 13:52:50]: E nada de conseguir
+
+[✌🏼(554185084891), 09/07/2024 13:53:05]: Candidatar
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 15:01:16]: Olá Silas , Lamentamos, mas no momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar em contato novamente após o período de 1 ano.
+Estimamos tudo de melhor, para você e sua família!
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 15:01:20]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 09/07/2024 15:22:46]: <Fim do chamado - undefined - 09/07/2024 15:22:46>

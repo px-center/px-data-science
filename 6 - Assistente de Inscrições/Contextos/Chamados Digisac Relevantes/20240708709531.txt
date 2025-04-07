@@ -1,0 +1,129 @@
+Nome do contato: 223019 - WELLINGTON DUTRA SOUZA
+Número do contato: 557186561929
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Michael Franz, Tainara Ferreira Da Silva
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 08/07/2024 17:34:10
+Fechamento: 09/07/2024 15:07:48
+
+Número do protocolo: 20240708709531
+
+[Sistema, 08/07/2024 17:34:07]: <Inicio de chamado - Suporte - MOTORISTA - 08/07/2024 17:34:07>
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:34:07]: Boa tarde
+
+[BOT, 08/07/2024 17:34:12]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:34:31]: 1
+
+[BOT, 08/07/2024 17:34:35]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:34:48]: 2
+
+[BOT, 08/07/2024 17:34:51]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:35:11]: 1
+
+[Sistema, 08/07/2024 17:35:13]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 08/07/2024 17:35:13>
+
+[BOT, 08/07/2024 17:35:14]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:35:34]: Ok
+
+[Sistema, 08/07/2024 17:39:42]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 08/07/2024 17:39:42>
+
+[Tainara Ferreira Da Silva, 08/07/2024 17:39:43]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:40:22]: 000.807.835-11
+Lauro de Freitas-BA
+
+[Tainara Ferreira Da Silva, 08/07/2024 17:53:47]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 08/07/2024 17:53:51]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 08/07/2024 17:53:51>
+
+[Sistema, 08/07/2024 17:54:59]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Michael Franz) - 08/07/2024 17:54:59>
+
+[Michael Franz, 08/07/2024 17:55:00]: Sou Michael da Motorista PX, e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Qual sua cidade/região?
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 17:55:33]: Lauro de Freitas-BA
+
+[Michael Franz, 08/07/2024 18:01:45]: Legal.... temos demanda de motoristas em sua região.
+
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:02:07]: Não
+
+[Michael Franz, 08/07/2024 18:07:15]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:08:12]: Não tenho CNPJ
+
+[Michael Franz, 08/07/2024 18:13:26]: Fique tranquilo, ajudamos com a MEI no fim da Validação desse cadastro.
+
+[Michael Franz, 08/07/2024 18:13:27]: Você tem experiência comprovada como motorista (CNH C, D ou E) de no mínimo 1 ano (de 2017 à 2024)? (CLT, Nota Fiscal, manifesto, contrato etc)
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:14:45]: CLT MOTORISTA 2016 à 2022
+
+[Michael Franz, 08/07/2024 18:19:43]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH (Pode ser digital)
+ • Carteira de Trabalho digital (Experiências de 2017 a 2024)
+ • Comprovante de Residencia um dos últimos 3 meses (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:21:21]: Já enviei todos documentos  no aguardo
+
+[Michael Franz, 08/07/2024 18:25:37]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7de4b2ce-b327-47a1-9d09-05541eae042e.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795367&Signature=7hYwq699SoZ1IznBHYC3KwkwtaM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:27:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0c2ce95f-27b3-4d88-9d8c-7f78277a9db4.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795367&Signature=NyGyMWz0vJdVdntgn9p7BqLAwy0%3D&response-content-disposition=attachment%3B%20filename%3D1018657759824621.jpeg - Nome do arquivo: 1018657759824621.jpeg
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:27:23]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/69d93246-edae-4487-a030-579517801b23.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795367&Signature=RJbX1UftnJYXtmnyBHsKcFVbg30%3D&response-content-disposition=attachment%3B%20filename%3D495117476323251.jpeg - Nome do arquivo: 495117476323251.jpeg
+
+[Michael Franz, 08/07/2024 18:28:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1b3b95c1-4c99-402f-a321-3c0c1786a900.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795367&Signature=FN64%2FSJxNTpH3NCiaom5fy3TYeU%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Michael Franz, 08/07/2024 18:30:02]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8c544d5d-5f80-4fb5-9341-1d5cdd9a1234.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795368&Signature=AkFmw00BB0t%2BXer11EuaCkIPhTI%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:30:19]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/53baf486-e015-46da-966e-1a0dd3090ff9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795368&Signature=31rxVgCbyZA03BvbEnLLqnaGLDc%3D&response-content-disposition=attachment%3B%20filename%3D848252417196772.jpeg - Nome do arquivo: 848252417196772.jpeg
+
+[Michael Franz, 08/07/2024 18:42:56]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Wellington Dutra Souza(557186561929), 08/07/2024 18:43:48]: Ok
+
+[Sistema, 08/07/2024 20:06:36]: <Chamado transferido - Cadex Etapa 1 - LEAD (Michael Franz) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 08/07/2024 20:06:36>
+
+[Sistema, 09/07/2024 14:02:59]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 09/07/2024 14:02:59>
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 14:45:13]: Olá Wellington Lamentamos, mas no momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar em contato novamente após o período de 1 ano.
+Estimamos tudo de melhor, para você e sua família!
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 14:45:17]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Sistema, 09/07/2024 15:07:48]: <Fim do chamado - undefined - 09/07/2024 15:07:48>

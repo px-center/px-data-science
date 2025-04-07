@@ -1,0 +1,234 @@
+Nome do contato: 105624- JOãO ROMEU DE MENEZES LUCCA
+Número do contato: 558189502886
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, José Soares Fragoso Junior , Sabrina De Morais Silva, Eliane Severino dos Santos Silva 
+
+Assunto(s): Reprovado na GUEP
+
+Resumo do atendimento: REPROVADO NA GR
+
+Abertura: 06/07/2024 12:46:48
+Fechamento: 09/07/2024 18:21:28
+
+Número do protocolo: 20240706706939
+
+[Sistema, 06/07/2024 12:46:46]: <Inicio de chamado - Suporte - MOTORISTA - 06/07/2024 12:46:46>
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 12:46:46]: Olá boa tarde eu tenho a habilitação ad tenho experiência em carteira mais a última empresa  que trabalheie fechou "faliu" se for possível posso mandar uma foto da minha carteira assinada
+
+[BOT, 06/07/2024 12:46:49]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 12:47:04]: 1
+
+[BOT, 06/07/2024 12:47:07]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 12:47:22]: 2
+
+[BOT, 06/07/2024 12:47:25]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 12:48:56]: O
+
+[BOT, 06/07/2024 12:49:00]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:00:48]: Sim
+
+[BOT, 06/07/2024 13:00:51]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:01:11]: 2
+
+[Sistema, 06/07/2024 13:01:13]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 06/07/2024 13:01:13>
+
+[BOT, 06/07/2024 13:01:15]: Tranquilo! Correria?! Consegue tentar agora e voltar a me chamar quando terminar?
+
+[Sistema, 06/07/2024 13:30:35]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Eliane Severino dos Santos Silva ) - 06/07/2024 13:30:35>
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:30:35]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/b2f2359d-2266-4687-bb55-ecc974d397b1.mp4?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=FLJlyHRD2ONeYTWOvyaF9RtHBf8%3D&response-content-disposition=attachment%3B%20filename%3DAnima%25C3%25A7%25C3%25A3o%2520Rica%2520-%2520vers%25C3%25A3o%2520compacta%252016mb.mp4 - Nome do arquivo: Animação Rica - versão compacta 16mb.mp4
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:30:37]: Sou a Eliane e vou ajudar com seu cadastro, me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:31:17]: 51461234034
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:32:13]: Recife 
+Pernambuco
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:34:11]: localizei 
+JOãO ROMEU DE MENEZES LUCCA
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:34:17]: Vi que já colocou algumas informações no aplicativo e falta a validação
+Está trabalhando registrado no momento?
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:34:34]: Não
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:36:49]: Eu estou fazendo entregas para empresas  usando meu cnpj de mei
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:37:18]: No momento  com moto
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:45:38]: Está recebendo  ou vai dar entrada no seguro desemprego?
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:46:53]: Não
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:49:44]: No final do cadastro você será prestador de serviço com CNPJ/ MEI.
+						
+Nós ajudamos a abrir o MEI depois que seu cadastro for aprovado.
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:49:51]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5e4e125a-d034-48db-8fbb-02a4b6c889c1.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=ly1JaJZvkG8tHM5y2IVxByY%2BZkU%3D&response-content-disposition=attachment%3B%20filename%3Dmei.mp3 - Nome do arquivo: mei.mp3
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:49:54]: Tudo bem abrir o MEI após a aprovação?
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 13:50:46]: Eu já tenho mei
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:51:09]: Beleza manda o número para coloca no cadastro
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:51:25]: Você tem mais de 1 ano de experiência comprovada de 2017 a 2024 dirigindo  caminhão, carreta ou ônibus ?
+
+Para comprova pode ser carteira de trabalho, carta de referência, nota fiscal, manifesto, contrato etc de 2017 a 2024
+
+[Eliane Severino dos Santos Silva , 06/07/2024 13:52:24]: Vi que tem uma declaração no aplicativo mas para ter validade precisa está carimbada com carimbo CNPJ ou assinatura digital
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 15:50:13]: 33.631.282/0001-84
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 15:51:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1944565b-6164-4a55-a496-489acd38f435.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=vJNdffKe3cLwpWce8TpczD0cs8M%3D&response-content-disposition=attachment%3B%20filename%3D1024665505666571.jpeg - Nome do arquivo: 1024665505666571.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 06/07/2024 15:54:22]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7b507b9a-8d1d-4524-b127-2b701a7d4dcf.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=m0DABcZoD5MAZUwez9cI%2Bum%2BtEU%3D&response-content-disposition=attachment%3B%20filename%3D1208259083506301.jpeg - Nome do arquivo: 1208259083506301.jpeg
+
+[Eliane Severino dos Santos Silva , 06/07/2024 16:12:05]: Para comprova com notas e manifestos preciso de mais 5 de meses diferentes para comprova pelo menos 1 ano
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:24:29]: Boa tarde
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:24:31]: Podemos continua o cadastro?
+
+[João Romeu Menezes Lucca(558189502886), 07/07/2024 13:32:32]: Opa boa  tarde  segunda eu envio as outras notas
+
+[João Romeu Menezes Lucca(558189502886), 07/07/2024 13:32:59]: Ou uma declaração  com carimbo da empresa
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:39:47]: Beleza, fico no aguardo
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:39:56]: Estamos a disposição, tenha um bom domingo
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:40:07]: notas ou carta
+
+[João Romeu Menezes Lucca(558189502886), 07/07/2024 13:51:10]: Obrigado p.vc também bom find
+
+[Eliane Severino dos Santos Silva , 07/07/2024 13:54:48]: obrigada
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 14:57:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/116ceaef-f5ed-46f7-a746-1c58a9d4c973.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=5yrnq9e%2BXN393of4NbHwNL3ZlJs%3D&response-content-disposition=attachment%3B%20filename%3D7495569270565126.jpeg - Nome do arquivo: 7495569270565126.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 14:57:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c0b78ff1-ad35-40aa-8c23-26860c3c837e.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=No1mw1NQbQ8WgnDrffom2gzszrE%3D&response-content-disposition=attachment%3B%20filename%3D831692285591178.jpeg - Nome do arquivo: 831692285591178.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 14:57:45]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/24b44f7e-f011-49b9-abf8-6c993bd22f6f.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=y4MErU9UfpHctIZHsn5NL7pc72Q%3D&response-content-disposition=attachment%3B%20filename%3D403159212761396.jpeg - Nome do arquivo: 403159212761396.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 14:57:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9086de34-6525-4d40-b5eb-55d0e3872cd7.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=Pw2YAI06wBXOB4p8AjdcM5UgUG4%3D&response-content-disposition=attachment%3B%20filename%3D390874010674487.jpeg - Nome do arquivo: 390874010674487.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 14:57:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ace6cd92-1cf3-482c-9003-55b49151cb22.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=yilY6BYM3KgiE8x%2B7%2B2SCIpnkPU%3D&response-content-disposition=attachment%3B%20filename%3D817192173466058.jpeg - Nome do arquivo: 817192173466058.jpeg
+
+[Sistema, 08/07/2024 17:54:12]: <Chamado transferido - Atendimento - MOTORISTA (Eliane Severino dos Santos Silva ) para Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) - 08/07/2024 17:54:12>
+
+[Eliane Severino dos Santos Silva , 08/07/2024 17:54:30]: Boa tarde
+
+[Eliane Severino dos Santos Silva , 08/07/2024 17:54:30]: Para terminar o cadastro vou precisa de alguns documentos 
+- Foto do seu RG frente e verso.( se tiver) 
+2 Contatos de Emergência ( Exemplo: Filho,Esposa, Pai, Mãe, irmão)precisa ser de maior
+- Certificados de cursos, caso tenha.
+-  Foto Exame Toxicológico
+
+[Eliane Severino dos Santos Silva , 08/07/2024 17:54:43]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f3efa225-838d-469b-915e-17c4e50efb8e.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=zsXWJv0bmNmGupoR95NTLUbV3Ok%3D&response-content-disposition=attachment%3B%20filename%3Dtoxicol%25C3%25B3gico.mp3 - Nome do arquivo: toxicológico.mp3
+
+[Eliane Severino dos Santos Silva , 08/07/2024 17:55:18]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f46d2af8-84cd-487b-b90c-71b1fe969be5.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=d%2FoKcRFRmIKOa%2F78IueqeOfPZCE%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 17:55:57]: Pode ser na carteira digital
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 17:58:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/460e2ab5-5b49-4438-8057-932715094c1a.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=HFBQ0Sqqn5pNZ2%2BlTtRpW7EJ1Es%3D&response-content-disposition=attachment%3B%20filename%3D1211242553224698.jpeg - Nome do arquivo: 1211242553224698.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 17:58:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c7f23ec7-15c1-4ef6-b0dc-cf19d3b467b9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=Y0LXwefRLTVUnkxOfQZQXJu3r9w%3D&response-content-disposition=attachment%3B%20filename%3D1269336484231255.jpeg - Nome do arquivo: 1269336484231255.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 17:58:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ee587ca8-e4e2-4454-84f3-5576d0de15e7.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=iD1yAWJJUsQyGY4w3hcIAyL2zRA%3D&response-content-disposition=attachment%3B%20filename%3D1428807404513060.jpeg - Nome do arquivo: 1428807404513060.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 17:59:41]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/eb45fd42-82c3-4b40-b8cf-3be6c34bc085.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=38D2iivcnsPh7UuDV4UUfIjc2Ek%3D&response-content-disposition=attachment%3B%20filename%3D1213472589811436.jpeg - Nome do arquivo: 1213472589811436.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 18:00:39]: Fone para contato 
+Esposa (51)981608930
+
+[Eliane Severino dos Santos Silva , 08/07/2024 18:01:52]: qual primeiro nome da esposa?
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 18:02:06]: Maria ines
+
+[Eliane Severino dos Santos Silva , 08/07/2024 18:05:05]: Você nasceu em que cidade?
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 18:05:43]: São Jerônimo Rio Grande do Sul
+
+[Eliane Severino dos Santos Silva , 08/07/2024 18:05:55]: obrigada
+
+[Eliane Severino dos Santos Silva , 08/07/2024 18:06:06]: Terminei seu cadastro e mandei para próxima etapa para aprovação Entramos em contato para falar a resposta, demora de 1 a 2 dias
+
+[Eliane Severino dos Santos Silva , 08/07/2024 18:06:15]: Estamos a disposição, tenha uma boa tarde
+
+[João Romeu Menezes Lucca(558189502886), 08/07/2024 18:06:35]: Ok e obrigado
+
+[Eliane Severino dos Santos Silva , 09/07/2024 06:21:25]: naturalidade
+
+[Eliane Severino dos Santos Silva , 09/07/2024 07:06:07]: Bom dia
+
+[Eliane Severino dos Santos Silva , 09/07/2024 07:06:23]: Falto apenas uma informação, você nasceu em que cidade?
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 08:19:37]: Nesta cidade
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 08:20:07]: Bom dia
+
+[Eliane Severino dos Santos Silva , 09/07/2024 08:21:04]: muito obrigada
+
+[Eliane Severino dos Santos Silva , 09/07/2024 08:21:17]: Estamos a disposição, tenha um bom dia
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 08:21:40]: Obrigado
+
+[Sistema, 09/07/2024 08:22:24]: <Chamado transferido - Cadex Etapa 1 - LEAD (Eliane Severino dos Santos Silva ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 09/07/2024 08:22:24>
+
+[Sistema, 09/07/2024 13:48:38]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) - 09/07/2024 13:48:38>
+
+[José Soares Fragoso Junior , 09/07/2024 14:23:45]: boa tarde seu cadastro esta passando pela próxima etapa que é entrarmos em contato com as empresas que nos enviou, se puder nos enviar algum contato de RH ou ex encarregados, assim essa etapa vai ser mais rápida para finalizar o cadastro! Sem isso não conseguimos dar sequencia!!!
+
+[José Soares Fragoso Junior , 09/07/2024 14:23:58]: tem o contato de algum encarregado da 	
+ECOMED COMERCIO DE PRODUTOS MEDICOS LTDA
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 14:31:52]: (81)998681640
+Luana sparremberger
+Ecomed
+
+[Sistema, 09/07/2024 14:48:20]: <Chamado transferido - Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 09/07/2024 14:48:20>
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 14:56:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/9fb60f0d-804d-4dc2-b889-60845c8c1958.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795346&Signature=EL7hWdsbcTsUmi3mW%2Bky3G52m5c%3D&response-content-disposition=attachment%3B%20filename%3D468302119235698.jpeg - Nome do arquivo: 468302119235698.jpeg
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 14:57:54]: Essas empresas  são  lá  do Rio Grande do sul
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 14:59:29]: Sendo que a empresa banda livre é a hrb transportes faliram a Vitor logística  está na ativa
+
+[João Romeu Menezes Lucca(558189502886), 09/07/2024 15:00:58]: Vitória logística
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 17:20:05]: Olá João , Lamentamos mas  para o momento seu cadastro não reuniu as condições necessárias previstas nos termos de uso da plataforma PX para prosseguir. Se desejar, poderá entrar novamente em contato após um período de 1 ano.
+Estimamos tudo de melhor para você e sua família.
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 17:20:08]: Vamos fechar o seu chamado neste momento! Mas reforçamos que se você precisar de algo é só nos chamar novamente! Até a próxima! (Não precisa responder esta mensagem)
+
+[Fernanda de Ávila Feijó Machado Matos, 09/07/2024 17:20:45]: REPROVADO NA GR
+
+[Sistema, 09/07/2024 18:21:28]: <Fim do chamado - undefined - 09/07/2024 18:21:28>

@@ -1,0 +1,157 @@
+Nome do contato: 87025 - MARCELO SOUZA MATOS
+Número do contato: 557583631506
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Regianne Maysa Costa Almeida Norte, Jakson Antônio Elias, Sabrina De Morais Silva, Michael Franz
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 02/07/2024 11:08:17
+Fechamento: 03/07/2024 16:31:22
+
+Número do protocolo: 20240702698401
+
+[Sistema, 02/07/2024 11:08:17]: <Inicio de chamado - Cadex Etapa 1 - LEAD (Michael Franz) - 02/07/2024 11:08:17>
+
+[Michael Franz, 02/07/2024 11:08:25]: Formato de mensagem não suportado.
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:26:28]: Sim
+
+[Michael Franz, 02/07/2024 11:28:16]: Sou Michael da Motorista PX, e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Qual sua cidade/região?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:28:39]: Feira de Santana
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:28:40]: Bahia
+
+[Michael Franz, 02/07/2024 11:29:17]: Legal.... temos demanda de motoristas em sua região.
+
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:29:30]: Não
+
+[Michael Franz, 02/07/2024 11:29:43]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:30:05]: Não tenho CNPJ
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:30:17]: Tem que ter?
+
+[Michael Franz, 02/07/2024 11:30:21]: Fique tranquilo, ajudamos com a MEI no fim da Validação desse cadastro.
+
+[Michael Franz, 02/07/2024 11:30:23]: Você tem experiência comprovada como motorista (CNH C, D ou E) de no mínimo 1 ano (de 2017 à 2024)? (CLT, Nota Fiscal, manifesto, contrato etc)
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:30:57]: Tenho experiência de quase 11 anos
+
+[Michael Franz, 02/07/2024 11:31:17]: Preciso de alguns documentos para seguir com o seu cadastro:
+ • Foto da CNH (Pode ser digital)
+ • Carteira de Trabalho digital (Experiências de 2017 a 2024)
+ • Comprovante de Residencia um dos últimos 3 meses (Agua,luz ou telefone)
+ • Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe)
+ • Foto Exame Toxicológico
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:32:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/5f373f10-e515-451f-b102-886fafe1c03b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=N43YcEDBBF9MwgDKJLROSlWF99k%3D&response-content-disposition=attachment%3B%20filename%3D1260370151611230.jpeg - Nome do arquivo: 1260370151611230.jpeg
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:32:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c53518a9-31fe-4bf8-9bf1-4b2f20220c35.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=cELY6h8r6FjdeDJL%2FzLqVrIbQa8%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:33:11]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7546c169-060f-4b82-bb56-a617f350d149.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=Nj3ZZ8zHRvfV6S3IHo5bY4Q3Iac%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_03673640500_02-07-2024.pdf - Nome do arquivo: CTPSDigital_03673640500_02-07-2024.pdf
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:33:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/2fa655b6-010c-4505-91e9-d1e602bf01f9.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=H8tJQg%2FSl8RbYHtbw7Kk8pLp71Y%3D&response-content-disposition=attachment%3B%20filename%3DSegunda-via---Fatura.pdf - Nome do arquivo: Segunda-via---Fatura.pdf
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:34:06]: Esposa 75983163379
+
+[Michael Franz, 02/07/2024 11:36:59]: Obrigado pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 11:37:11]: Certo
+
+[Sistema, 02/07/2024 16:36:06]: <Chamado transferido - Cadex Etapa 1 - LEAD (Michael Franz) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 02/07/2024 16:36:06>
+
+[Sistema, 02/07/2024 17:54:20]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (Jakson Antônio Elias) - 02/07/2024 17:54:20>
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 18:23:28]: Oi
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 02/07/2024 18:23:33]: Boa noite
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 06:24:36]: Bom dia
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 06:25:01]: Pq não estou conseguindo me candidatar!?
+
+[Jakson Antônio Elias, 03/07/2024 09:07:34]: Bom dia Marcelo, tudo bem?
+
+[Jakson Antônio Elias, 03/07/2024 09:07:56]: Marcelo, seu cadastro está passando pela ETAPA de REFERÊNCIAS, nessa etapa entrarmos em contato com as empresas que nos enviou, se puder nos passar algum contato do RH ou ex-encarregados, isso ajudará e agilizará essa etapa para sua qualificação!
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 09:08:01]: Bom dia 
+TD sim!
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 09:08:51]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/814d6d64-f3bc-4891-ae34-2446b26a2765.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=2bK4JdqzMUhsfvW4B6tf4K25AD0%3D&response-content-disposition=attachment%3B%20filename%3D1601870493988957.jpeg - Nome do arquivo: 1601870493988957.jpeg
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 09:09:14]: undefined
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 09:09:38]: Indústria São Miguel
+
+[Jakson Antônio Elias, 03/07/2024 11:18:44]: Obrigado Marcelo, seu cadastro será transferido para a próxima e ultima etapa. Em seguida um de nossos atendentes vai conversar com o senhor!
+
+[Sistema, 03/07/2024 11:19:02]: <Chamado transferido - Cadex Etapa 2 - CHECK (Jakson Antônio Elias) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 03/07/2024 11:19:02>
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 11:25:39]: Certo
+Obrigado 🫂
+
+[Sistema, 03/07/2024 11:48:50]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) - 03/07/2024 11:48:50>
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:22:39]: Obrigada por ter aguardado até agora !!! 🙌 Essa é a ultima etapa do seu cadastro, para concluir o mais rápido possível depende só de você. 🚀🚀 Meu é Regianne e vou te ajudar nessa etapa.👍 Pode enviar: O seu CNPJ, e a sua chave Pix. Você já tem um CNPJ no seu nome?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:23:36]: Não tenho CNPJ
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:24:25]: 75983631506 chave Pix
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:24:33]: Vou te orientar como fazer o seu Mei... estou enviando um vídeo de passo a passo de como fazer.👍🏾
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:24:40]: Instruções de como fazer o CNPJ MEI:
+
+1-  Acesse o link que explica o passo a passo 👉 https://youtu.be/kz0CEwIIF0k
+
+2- Informações obrigatórias na abertura do MEI (Que esta no vídeo):
+MEI precisa ser Regime de Tributação: GERAL, não é MEI caminhoneiro
+Capital social - No mínimo deve ser 10.000,00
+Forma de atuação - Internet 
+Ocupação principal - Motorista por aplicativo.
+
+3- Acesse o link para fazer a abertura do seu CNPJ MEI (Lembrando que a abertura é gratuita) 👉 https://mei.receita.economia.gov.br/inscricao/login
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:24:55]: Mas para concluir o cadastro é necessário fazer o CNPJ MEI... Ok?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:25:06]: Ok
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:43:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a1dbd392-71bb-4011-a63a-8a655d3e0011.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795584&Signature=ZhoSOpGLivqcj4mTlbqPDEcjStw%3D&response-content-disposition=attachment%3B%20filename%3DCCMEI-55785321000130.pdf - Nome do arquivo: CCMEI-55785321000130.pdf
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:43:32]: Pronto
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:43:34]: Já fiz
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:44:28]: Sua chave pix é de qual banco?
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:44:40]: Caixa econômica
+
+[Regianne Maysa Costa Almeida Norte, 03/07/2024 14:50:33]: Tudo certo!!🙌  Obrigada pela sua cooperação. Pedimos para aguardar o contato final.
+
+Orientações finais:
+
+1- Na sequência você receberá instruções para fazer sua integração e assistir alguns vídeos para entender como funciona o aplicativo. (É obrigatório👍)
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal, é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os vídeos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 03/07/2024 14:50:50]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Regianne Maysa Costa Almeida Norte) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 03/07/2024 14:50:50>
+
+[87025 - MARCELO SOUZA MATOS(557583631506), 03/07/2024 14:56:23]: Certo
+
+[Fernanda de Ávila Feijó Machado Matos, 03/07/2024 16:31:15]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 03/07/2024 16:31:22]: <Fim do chamado - undefined - 03/07/2024 16:31:22>

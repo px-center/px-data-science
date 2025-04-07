@@ -1,0 +1,63 @@
+Nome do contato: 217763 - JOSé CARLOS MOURA LIMA
+Número do contato: 557391171583
+
+Nome do arquivo Ana Flávia Orosimbo Pinheiro, Vanessa Furtado
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:12:55
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712453
+
+[Sistema, 10/07/2024 09:12:52]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:12:52>
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 09:12:52]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3ca7d3d2-005c-4a2d-baa0-666d9ae55fd4.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795230&Signature=6zexbDN7DGdm6uHfcVFjXJlTVbc%3D&response-content-disposition=attachment%3B%20filename%3DJOSE-CARLOS-MOURA-LIMA.pdf - Nome do arquivo: JOSE-CARLOS-MOURA-LIMA.pdf
+
+[BOT, 10/07/2024 09:12:57]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Sistema, 10/07/2024 09:15:32]: <Chamado transferido - Suporte - MOTORISTA para Suporte - MOTORISTA (Vanessa Furtado) - 10/07/2024 09:15:32>
+
+[Vanessa Furtado, 10/07/2024 09:15:32]: Bom dia!
+Sou a Vanessa e vou dar continuidade no atendimento. Como posso ajudar?  😊
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 09:17:48]: vcs estão precisando de motorista
+
+[Vanessa Furtado, 10/07/2024 09:58:31]: Certo, vou encaminhar seu chamado para a pessoa responsável. Só um momento.
+
+[Sistema, 10/07/2024 09:58:36]: <Chamado transferido - Suporte - MOTORISTA (Vanessa Furtado) para Atendimento - MOTORISTA - 10/07/2024 09:58:36>
+
+[Sistema, 10/07/2024 10:16:46]: <Chamado transferido - Atendimento - MOTORISTA para Cadex Etapa 1 - LEAD - 10/07/2024 10:16:46>
+
+[Sistema, 10/07/2024 10:16:51]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Ana Flávia Orosimbo Pinheiro) - 10/07/2024 10:16:51>
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 10:16:51]: oi
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 10:17:03]: Bom dia! Me chamo Ana Flávia e vou te auxiliar no cadastro.
+Para concluir, eu preciso confirmar algumas informações. Aliás, qualquer dúvida, pode me perguntar! Vamos lá?
+Primeiro: Está trabalhando CLT ou recebendo seguro?
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 10:19:53]: Não trabalhando
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 10:25:36]: não estou trabalhando e nem recebendo seguro estou precisando muito de uma oportunidade de trabalho se vcs me dê essa oportunidade vou ficar muito grato
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 10:29:56]: Tem  1 ano ou mais de experiência com caminhão ou ônibus de 2017 pra frente?
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 10:35:11]: Tenho experiência em carreteiro e caminhão desde dois mil e nove
+
+[ JOSé CARLOS MOURA LIMA(557391171583), 10/07/2024 10:35:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/317566df-52c9-41ad-92bc-7b4f907cd2c8.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795230&Signature=9uWAO1%2FjicRTbN7pbIcksdyVsao%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 12:07:58]: A exper
+
+[Ana Flávia Orosimbo Pinheiro, 10/07/2024 12:08:17]: a experiência do senhor está em carteira registrada?

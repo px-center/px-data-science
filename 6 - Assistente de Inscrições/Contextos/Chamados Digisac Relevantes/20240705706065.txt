@@ -1,0 +1,165 @@
+Nome do contato: 223495 - BENJAMIM GARCIA COELHO
+Número do contato: 5527996214102
+
+Nome do arquivo José Soares Fragoso Junior , Fernanda de Ávila Feijó Machado Matos, Sabrina De Morais Silva, Renata Peres Silva dos Santos
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 05/07/2024 19:21:08
+Fechamento:  ----- 
+
+Número do protocolo: 20240705706065
+
+[Sistema, 05/07/2024 19:21:06]: <Inicio de chamado - Suporte - MOTORISTA - 05/07/2024 19:21:06>
+
+[Benjamim(5527996214102), 05/07/2024 19:21:06]: Gostaria de entrar em Contato para Dúvidas referente a Motorista PX.
+
+[BOT, 05/07/2024 19:21:09]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Benjamim(5527996214102), 05/07/2024 19:21:24]: 1
+
+[BOT, 05/07/2024 19:21:28]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Benjamim(5527996214102), 05/07/2024 19:21:36]: 2
+
+[BOT, 05/07/2024 19:21:38]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Benjamim(5527996214102), 05/07/2024 19:21:52]: 1
+
+[Sistema, 05/07/2024 19:21:54]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 05/07/2024 19:21:54>
+
+[BOT, 05/07/2024 19:21:55]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Sistema, 05/07/2024 19:55:49]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Renata Peres Silva dos Santos) - 05/07/2024 19:55:49>
+
+[Renata Peres Silva dos Santos, 05/07/2024 19:55:49]: Me informe  sua cidade/Estado por gentileza!
+
+[Benjamim(5527996214102), 05/07/2024 19:57:06]: Serra/ Espírito Santo
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:00:29]: 20 km - Vitoria
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:00:38]: Sou do cadastro da Motorista PX .Vou te ajudar a rodar o mais rápido possível. Só Preciso de algumas informações para validar o seu cadastro. 
+Está trabalhando registrado Ou recebendo seguro desemprego ou beneficio do governo?
+
+[Benjamim(5527996214102), 05/07/2024 20:01:10]: Não. Estou sem trabalhar e não recebo nenhum benefício do governo
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:03:53]: Motorista PX recebe pelos serviços através do MEI.
+
+Caso o senhor nao tenha CNPJ MEI , vamos ajudar a abrir depois que seu cadastro for aprovado , ok?
+
+[Benjamim(5527996214102), 05/07/2024 20:04:06]: Ok
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:04:50]: Tem experiência COMPROVADA de no mínimo 6 meses como motorista de caminhao , onibus ou furgao?  (a partir de 2017 – 2024)
+ Aceitamos :
+*Carteira de Trabalho digital ou Física OU
+*Notas (Nota Fiscal, , manifesto,OU contrato , OU ROMANEIO ,OU CTES , DANFE )OU Carta de referencia .
+
+ Pode enviar a experiencia  ,por favor ?
+
+[Benjamim(5527996214102), 05/07/2024 20:06:17]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a531ecdd-c27c-4c49-9c4e-d8161f9aebab.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=UEYZ%2B7x8GVVuyuOCeBW4JllU2MY%3D&response-content-disposition=attachment%3B%20filename%3D2747136362134402.jpeg - Nome do arquivo: 2747136362134402.jpeg
+
+[Benjamim(5527996214102), 05/07/2024 20:06:17]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/30388d89-4543-45aa-ae19-c2b31d418ce9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=H7oOoV0hbA2%2F2QxCgeu8an8z8Ls%3D&response-content-disposition=attachment%3B%20filename%3D453149724270572.jpeg - Nome do arquivo: 453149724270572.jpeg
+
+[Benjamim(5527996214102), 05/07/2024 20:06:18]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/fd532eb3-22d4-4ade-8175-447dcaf0a358.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=5CqascDXMdDFhVSRzNZawebAF%2Fw%3D&response-content-disposition=attachment%3B%20filename%3D829292135817772.jpeg - Nome do arquivo: 829292135817772.jpeg
+
+[Benjamim(5527996214102), 05/07/2024 20:06:18]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/573b2114-d508-47fd-9a76-7da48d530a5b.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=E1Pzx5S1SOXaBaK3cyrsOFWgM90%3D&response-content-disposition=attachment%3B%20filename%3D1346746189618700.jpeg - Nome do arquivo: 1346746189618700.jpeg
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:08:00]: Qual a data de saida desse contrato ?
+
+[Benjamim(5527996214102), 05/07/2024 20:08:22]: O último foi em 2021
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:08:55]: pode tirar a foto saindo a data da saida , por favor ?
+
+[Benjamim(5527996214102), 05/07/2024 20:10:53]: Vou enviar a CTPS digital pra vc com todas as informações
+
+[Renata Peres Silva dos Santos, 05/07/2024 20:11:33]: ok
+
+[Benjamim(5527996214102), 05/07/2024 20:21:00]: Não estou conseguindo acessar a ctps digital
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:25:45]: Bom dia
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:25:56]: estamos no aguardo
+
+[Benjamim(5527996214102), 06/07/2024 07:27:54]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/96527c15-bbf3-4161-a146-a82e645c1c19.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=wP2yXPnkvrcJav8Rmd7TvR3WPhI%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_11156559731_06-07-2024.pdf - Nome do arquivo: CTPSDigital_11156559731_06-07-2024.pdf
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:42:50]: Preciso dos seguintes documentos para validar seu cadastro:
+
+• Comprovante de Residencia Válido: (Agua,luz ou telefone)A partir de MAIO
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:42:56]: •Exame toxicológico(Caso tenha)
+
+
+Informe por favor : Contato de Emergência ( Ex: Esposa, filho, Pai, Mãe ,irmao ,tio,amigo) 
+
+
+Informe tambem , seu Estado civil e Escolaridade, Qual sua Naturalidade  (Cidade e estado em que nasceu?) Por favor( Nao precisa foto , somente informar)
+
+[Benjamim(5527996214102), 06/07/2024 07:44:15]: Exame toxicológico vou fazer final do mês periódico da CNH
+
+[Benjamim(5527996214102), 06/07/2024 07:45:15]: Zilma(irmã): 27988335516
+
+[Benjamim(5527996214102), 06/07/2024 07:45:58]: Divorciado 
+Ensino médio completo 
+Sou natural de Vitória/ ES
+
+[Benjamim(5527996214102), 06/07/2024 07:46:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/8fbce102-6763-4650-a8b4-722080e6f0e2.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795475&Signature=AOLYYF6DXOg%2FIniNbtk8A3TBSrg%3D&response-content-disposition=attachment%3B%20filename%3D963152408892079.jpeg - Nome do arquivo: 963152408892079.jpeg
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:50:59]: Sobre o toxicologico , precisamos do papel que o laboratorio envia . Caso não tenha pode solicitar ao laboratoria a segunda via e anexar depois no aplicativo ou enviar por aqui. Algumas transportadoras solicitam , para não perder o risco de perder a viagem seria importante providenciar!
+------------------------------------------------------------------------
+
+[Renata Peres Silva dos Santos, 06/07/2024 07:51:07]: Obrigada!  irei  encaminhar seu cadastro para validação .Por favor ,  aguarde que em breve terá mais informações. Seu cadastro vai passar por um analise. Solicitamos em média 2 dias.  Voltaremos a te chamar por aqui mesmo!
+
+[Sistema, 10/07/2024 10:10:38]: <Chamado transferido - Atendimento - MOTORISTA (Renata Peres Silva dos Santos) para Cadex Etapa 1 - LEAD (Renata Peres Silva dos Santos) - 10/07/2024 10:10:38>
+
+[Sistema, 10/07/2024 10:12:51]: <Chamado transferido - Cadex Etapa 1 - LEAD (Renata Peres Silva dos Santos) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 10/07/2024 10:12:51>
+
+[Sistema, 11/07/2024 10:07:52]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) - 11/07/2024 10:07:52>
+
+[José Soares Fragoso Junior , 11/07/2024 10:09:28]: Formato de mensagem não suportado.
+
+[Benjamim(5527996214102), 11/07/2024 10:09:51]: Olá
+
+[Benjamim(5527996214102), 11/07/2024 10:09:56]: Estou bem graças a Deus
+
+[Benjamim(5527996214102), 11/07/2024 10:09:59]: Podemos sim
+
+[José Soares Fragoso Junior , 11/07/2024 10:10:37]: seu cadastro esta passando pela próxima etapa que é entrarmos em contato com as empresas que nos enviou, se puder nos enviar algum contato de RH ou ex encarregados, assim essa etapa vai ser mais rápida para finalizar o cadastro! Sem isso não conseguimos dar sequencia!!!
+
+[José Soares Fragoso Junior , 11/07/2024 10:10:51]: tem o contato de algum encarregado da DIACO DISTRIBUIDORA DE ACO S/A
+
+[Benjamim(5527996214102), 11/07/2024 10:11:11]: undefined
+
+[Benjamim(5527996214102), 11/07/2024 10:11:22]: Esse é o último número que eu tenho dele
+
+[Benjamim(5527996214102), 11/07/2024 10:11:32]: Não sei se ainda é esse
+
+[Benjamim(5527996214102), 11/07/2024 10:11:45]: Tem o geral da empresa também
+
+[Benjamim(5527996214102), 11/07/2024 10:12:07]: 2104-5500
+
+[Sistema, 11/07/2024 10:19:41]: <Chamado transferido - Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 11/07/2024 10:19:41>

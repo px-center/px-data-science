@@ -1,0 +1,210 @@
+Nome do contato:  216408 -  SIDNEI MARQUES DE SOUZA
+Número do contato: 5511954891631
+
+Nome do arquivo Fernanda de Ávila Feijó Machado Matos, Aline Domingues, Sabrina De Morais Silva, Gisele de Souza Franz
+
+Assunto(s): Qualificado
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 02/07/2024 10:18:14
+Fechamento: 04/07/2024 13:56:47
+
+Número do protocolo: 20240702698269
+
+[Sistema, 02/07/2024 10:18:13]: <Inicio de chamado - Suporte - MOTORISTA - 02/07/2024 10:18:13>
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:18:13]: Bom dia
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:18:15]: Tudo bem
+
+[BOT, 02/07/2024 10:18:15]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[BOT, 02/07/2024 10:18:17]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:18:28]: 2
+
+[BOT, 02/07/2024 10:18:31]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App!
+3 - Já sou Ajudante PX QUALIFICADO
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:18:45]: 2
+
+[BOT, 02/07/2024 10:18:49]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo serviços, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo.
+
+0 - Voltar ao Menu principal.
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:19:33]: 1
+
+[Sistema, 02/07/2024 10:19:34]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - AJUDANTE - 02/07/2024 10:19:34>
+
+[BOT, 02/07/2024 10:19:36]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:20:16]: Eu fiz o cadastro como motorista , mas quero fazer como ajudante
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:20:37]: Como eu faço pra mudar o cargo
+
+[Sistema, 02/07/2024 10:25:47]: <Chamado transferido - Atendimento - AJUDANTE para Atendimento - AJUDANTE (Gisele de Souza Franz) - 02/07/2024 10:25:47>
+
+[Gisele de Souza Franz, 02/07/2024 10:25:48]: Seja bem-vindo ao atendimento Motorista PX. Me chamo Gisele!
+Por gentileza, me informe sua cidade!
+
+[Gisele de Souza Franz, 02/07/2024 10:25:59]: Cajamar 18 km
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:28:16]: 42
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:28:31]: Franco da Rocha
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:28:43]: Kkk
+
+[Gisele de Souza Franz, 02/07/2024 10:33:43]: hehe
+
+[Gisele de Souza Franz, 02/07/2024 10:33:56]: eu altero aqui para ajudante
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:34:06]: Ok
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:34:13]: Qual o próximo passo
+
+[Gisele de Souza Franz, 02/07/2024 10:34:26]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/d9617e31-8be6-4dc4-b59f-9769f87d802d.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=RoRUzhyjEXxWYtc8ExFCzmdSfzE%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Gisele de Souza Franz, 02/07/2024 10:34:38]: Está trabalhando registrado ou recebendo seguro desemprego?
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:34:47]: Não
+
+[Gisele de Souza Franz, 02/07/2024 10:36:10]: certo
+
+[Gisele de Souza Franz, 02/07/2024 10:36:30]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:36:50]: Posso abrir
+
+[Gisele de Souza Franz, 02/07/2024 10:38:16]: ótimo
+
+[Gisele de Souza Franz, 02/07/2024 10:38:25]: Depois que seu cadastro for validado a própria PX entra em contato com você para te ajudar na abertura do MEI
+
+[Gisele de Souza Franz, 02/07/2024 10:38:42]: Para seguir com a validação do cadastro preciso destes documentos:
+> RG OU CNH ( frente e verso)
+> COMPROVANTE DE ENDEREÇO ATUAL  ( JUNHO / JULHO 2024). PODE SER ÁGUA, LUZ, TELEFONE, INTERNET) 
+> 2 CONTATOS PARA EMERGÊNCIA
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:39:39]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e4b26d04-5b96-4a53-b1aa-874031d31a58.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=dQ0AL3FnUNiej8U%2BSIxqxPaefuY%3D&response-content-disposition=attachment%3B%20filename%3DDigitalizado_20230220-1505.pdf - Nome do arquivo: Digitalizado_20230220-1505.pdf
+
+[Gisele de Souza Franz, 02/07/2024 10:40:55]: certo
+
+[Gisele de Souza Franz, 02/07/2024 10:41:02]: aguardo comprovante de residência
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:41:33]: Não tenho em meu nome , pode ser no nome da minha esposa
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:42:46]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7004b4b0-307c-4679-ba7e-15887a45a253.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=VnKELVhz7P5mGtanT9SbPbLmYsI%3D&response-content-disposition=attachment%3B%20filename%3DDesktop_Boleto_240700575934.pdf - Nome do arquivo: Desktop_Boleto_240700575934.pdf
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:44:24]: Esposa 11930622486 ou Ludmila filha 11975864688
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 10:44:49]: Esposa Jaqueline
+
+[Gisele de Souza Franz, 02/07/2024 12:54:56]: ótimo Sidnei
+
+[Gisele de Souza Franz, 02/07/2024 12:58:28]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 12:58:39]: Ok
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 02/07/2024 12:58:51]: Obg🙏🏽
+
+[Sistema, 03/07/2024 06:36:59]: <Chamado transferido - Atendimento - AJUDANTE (Gisele de Souza Franz) para Atendimento - AJUDANTE (Sabrina De Morais Silva) - 03/07/2024 06:36:59>
+
+[Sistema, 03/07/2024 09:43:12]: <Chamado transferido - Atendimento - AJUDANTE (Sabrina De Morais Silva) para Cadex Etapa 3 - AJUDANTE - 03/07/2024 09:43:12>
+
+[Sistema, 03/07/2024 09:43:27]: <Chamado transferido - Cadex Etapa 3 - AJUDANTE para Cadex Etapa 3 - AJUDANTE (Aline Domingues) - 03/07/2024 09:43:27>
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 12:27:25]: Boa tarde
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 12:27:29]: Tudo bem
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 14:15:51]: Preciso de ajuda para fazer meu MEI
+
+[Aline Domingues, 03/07/2024 21:08:15]: Parabéns👏🏼🎉                                                   ÚLTIMA etapa do seu cadastro. Agora SÓ FALTA:                                  👉🏼 CNPJ MEI                                    👉🏼 CHAVE PIX (receberá os pagamentos por ela)                                  👉🏼 DECLARAÇÃO AJUDANTE PX (assinada)                                            Se tiver Mei, só me avisar. Se ainda NÃO tiver, assista o vídeo a seguir 👉🏼https://www.youtube.com/watch?v=WEG93xI8Ln4
+
+[Aline Domingues, 03/07/2024 21:08:18]: Obs: O INSS do Mei citado no vídeo pra 2024 é de aprox. 75,60 mensais👍🏻
+
+[Aline Domingues, 03/07/2024 21:08:21]: Para ABRIR seu MEI, segue o passo a passo  👉🏼 https://youtu.be/kz0CEwIIF0k    /  Link pra abertura 👉 https://mei.receita.economia.gov.br/inscricao/login
+
+[Aline Domingues, 03/07/2024 21:08:24]: Informações para preencher ao abrir seu MEI. TRIBUÇÃO selecionar GERAL
+● Capital Social (Obrigatoriamente deve ser MÍNIMO de 10.000,00 reais)
+● Atividade (Ocupação Principal ou Secundária) 👉 Carregador (veículos de transportes terrestres)independente
+● Formas de atuação coloque apenas essas: Internet
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 21:37:55]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/17141a26-80a1-4299-9f99-5f585296d979.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=lYGd8vDVAr3lFt%2FNjJaoT%2BOJn3w%3D&response-content-disposition=attachment%3B%20filename%3D844188723833992.jpeg - Nome do arquivo: 844188723833992.jpeg
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 21:46:35]: Chave Pix 30395197864
+
+[Aline Domingues, 03/07/2024 22:11:24]: 👍
+
+[Aline Domingues, 03/07/2024 22:11:29]: Vou te mandar a Declaração PX pra assinatura. Se desejar assinar digitalmente pelo GOV, seguem as instruções. Se quiser imprimir, a assinatura deve ser com caneta azul ou preta igual ao documento que anexou no seu cadastro aqui na PX. Qualquer dúvida, só chamar 👍
+
+[Aline Domingues, 03/07/2024 22:11:38]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/e6888994-c39c-44be-84f1-15708c10c803.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=CIUT9%2B6kQrPBc6MSX5j5d2%2FphvM%3D&response-content-disposition=attachment%3B%20filename%3DDECLARA%25C3%2587%25C3%2583O%2520AJUDANTE%2520PX%25202024%2520EDITAVEL.pdf - Nome do arquivo: DECLARAÇÃO AJUDANTE PX 2024 EDITAVEL.pdf
+
+[Aline Domingues, 03/07/2024 22:11:42]: https://assinador.iti.br/assinatura/index.xhtml
+
+[Aline Domingues, 03/07/2024 22:11:59]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1e1bd326-77a0-4fc2-bb1c-cad816959b55.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=nm6E5GWOM%2BmUo0RkJ8kh84ogNJw%3D&response-content-disposition=attachment%3B%20filename%3D%25C3%2581UDIO-ENSINANDO-ASSINATURA-DIGITAL-NO-GOV.mp3 - Nome do arquivo: ÁUDIO-ENSINANDO-ASSINATURA-DIGITAL-NO-GOV.mp3
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 03/07/2024 22:33:19]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7111b8af-49c4-4353-b25f-d9e8240ce3af.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=HnVMpAS%2FCTdJawni%2FBDhcGyCOXk%3D&response-content-disposition=attachment%3B%20filename%3DDECLARACAO_AJUDANTE_PX_2024_EDITAVEL_assinado-%283%29.pdf - Nome do arquivo: DECLARACAO_AJUDANTE_PX_2024_EDITAVEL_assinado-(3).pdf
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 04/07/2024 10:01:49]: Bom dia
+
+[Aline Domingues, 04/07/2024 11:55:20]: 👉Seguem as Confirmações: Chave PIX enviada cadastrada ✔ / CNPJ MEI cadastrado ✔ / Declaração PX assinada.
+
+[Aline Domingues, 04/07/2024 11:55:23]: BOM SABER 📢📢https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude
+
+[Aline Domingues, 04/07/2024 11:55:26]: Orientações finais: 
+1- Na sequência você receberá instruções para fazer sua integração e assisitir alguns vídeos para entender como funciona o aplicativo.
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal,  é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os videos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Aline Domingues, 04/07/2024 11:55:35]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/98a4bb2f-f699-4024-a6dc-e8fb4e090582.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795547&Signature=%2Fn9r4W4l4RYMYFf0llz29HJoMFg%3D&response-content-disposition=attachment%3B%20filename%3DFINAL-AJUDANTE.mp3 - Nome do arquivo: FINAL-AJUDANTE.mp3
+
+[Sistema, 04/07/2024 11:55:46]: <Chamado transferido - Cadex Etapa 3 - AJUDANTE (Aline Domingues) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 04/07/2024 11:55:46>
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 04/07/2024 12:08:59]: Só uma dúvida
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 04/07/2024 12:09:26]: Fiz o MEI e veio um email pra pagar hoje 94,00
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 04/07/2024 12:09:35]: Está correto?
+
+[Fernanda de Ávila Feijó Machado Matos, 04/07/2024 13:30:25]: Boa tarde Sidnei
+
+[Fernanda de Ávila Feijó Machado Matos, 04/07/2024 13:30:30]: é gol
+
+[Fernanda de Ávila Feijó Machado Matos, 04/07/2024 13:30:33]: golpe
+
+[Fernanda de Ávila Feijó Machado Matos, 04/07/2024 13:30:40]: não precisa pagar esse valor para abertura
+
+[ 216408 -  SIDNEI MARQUES DE SOUZA(5511954891631), 04/07/2024 13:30:41]: Blz
+
+[Fernanda de Ávila Feijó Machado Matos, 04/07/2024 13:56:40]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Sistema, 04/07/2024 13:56:47]: <Fim do chamado - undefined - 04/07/2024 13:56:47>

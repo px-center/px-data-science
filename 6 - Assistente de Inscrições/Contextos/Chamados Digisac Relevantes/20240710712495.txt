@@ -1,0 +1,100 @@
+Nome do contato: 228785 - FREDY JORGE PEREIRA DA SILVA
+Número do contato: 5511954074853
+
+Nome do arquivo Valeria Deseta Olímpio , Tainara Ferreira Da Silva
+
+Assunto(s): 
+
+Resumo do atendimento: 
+
+Abertura: 10/07/2024 09:34:27
+Fechamento:  ----- 
+
+Número do protocolo: 20240710712495
+
+[Sistema, 10/07/2024 09:34:25]: <Inicio de chamado - Suporte - MOTORISTA - 10/07/2024 09:34:25>
+
+[Fredy Jorge(5511954074853), 10/07/2024 09:34:25]: Gostaria de entrar em Contato para Dúvidas referente a Motorista PX.
+
+[BOT, 10/07/2024 09:34:29]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Fredy Jorge(5511954074853), 10/07/2024 09:34:42]: 1
+
+[BOT, 10/07/2024 09:34:46]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Fredy Jorge(5511954074853), 10/07/2024 09:35:02]: 2
+
+[BOT, 10/07/2024 09:35:05]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Fredy Jorge(5511954074853), 10/07/2024 09:35:33]: 2
+
+[Sistema, 10/07/2024 09:35:35]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 10/07/2024 09:35:35>
+
+[BOT, 10/07/2024 09:35:36]: Tranquilo! Correria?! Consegue tentar agora e voltar a me chamar quando terminar?
+
+[Fredy Jorge(5511954074853), 10/07/2024 10:29:29]: Não tô conseguindo
+
+[Fredy Jorge(5511954074853), 10/07/2024 10:37:38]: 3
+
+[Sistema, 10/07/2024 11:08:24]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 10/07/2024 11:08:24>
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:08:24]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:28:06]: 30566467828
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:28:10]: SP
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:28:17]: ZL
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:47:12]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/eea6ac63-02ab-4dfe-ab1f-f4bdaf6436d6.mp4?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795308&Signature=v6wTnZLJ4StjKbw6DJZKdvAM8v4%3D&response-content-disposition=attachment%3B%20filename%3DV%25C3%25ADdeo%2520como%2520funciona%2520a%2520PX%2520-%2520MOTORISTA.mp4 - Nome do arquivo: Vídeo como funciona a PX - MOTORISTA.mp4
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:47:25]: Clique no link para baixar nosso aplicativo e fazer o pré-cadastro, depois é só aguardar que nossa equipe entrará em contato https://play.google.com/store/apps/details?id=com.br_com_motoristapx_app
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:52:01]: Já fiz isso
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:52:46]: Só que quando é pra colocar a senha não entrou
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:52:52]: Não encontramos seu CPF
+
+[Tainara Ferreira Da Silva, 10/07/2024 11:53:12]: Me passe seu ID que fica lá no seu perfil do aplicativo em baixo da sua foto de perfil
+
+[Fredy Jorge(5511954074853), 10/07/2024 11:57:13]: Coloquei esqueceu minha senha
+
+[Tainara Ferreira Da Silva, 10/07/2024 12:00:01]: O senhor tem que ir em CRIAR UMA CONTA
+
+[Fredy Jorge(5511954074853), 10/07/2024 12:13:55]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/d0617b84-de8e-4e9b-aea2-84987b6b8ad9.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795308&Signature=js6kyLZNGf2N6qdIQST1zwnMEWI%3D&response-content-disposition=attachment%3B%20filename%3D1617745865742608.jpeg - Nome do arquivo: 1617745865742608.jpeg
+
+[Fredy Jorge(5511954074853), 10/07/2024 12:14:07]: Agora não to conseguindo
+
+[Fredy Jorge(5511954074853), 10/07/2024 12:14:18]: Tirar a foto
+
+[Sistema, 10/07/2024 13:40:33]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 10/07/2024 13:40:33>
+
+[Sistema, 10/07/2024 13:40:40]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 10/07/2024 13:40:40>
+
+[Valeria Deseta Olímpio , 10/07/2024 13:40:40]: oi
+
+[Valeria Deseta Olímpio , 10/07/2024 13:40:45]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?

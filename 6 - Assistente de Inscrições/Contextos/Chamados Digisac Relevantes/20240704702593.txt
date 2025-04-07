@@ -1,0 +1,286 @@
+Nome do contato: 221166-JESSE MESQUITA DOS SANTOS 
+Número do contato: 559888504061
+
+Nome do arquivo Tainara Ferreira Da Silva, Fernanda de Ávila Feijó Machado Matos, Debora Cristina Linzmeyer Elias, José Soares Fragoso Junior , Sabrina De Morais Silva, Valeria Deseta Olímpio 
+
+Assunto(s): Outros
+
+Resumo do atendimento: TREINAMENTO
+
+Abertura: 04/07/2024 09:41:13
+Fechamento: 05/07/2024 17:43:39
+
+Número do protocolo: 20240704702593
+
+[Sistema, 04/07/2024 09:41:11]: <Inicio de chamado - Suporte - MOTORISTA - 04/07/2024 09:41:11>
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:41:11]: Bom dia
+
+[BOT, 04/07/2024 09:41:14]: Bem vindo ao *AUTO-ATENDIMENTO PX!*
+
+Digite um dos números abaixo:
+
+1 - Motorista
+2 - Ajudante
+3 - É Transportadora ou Empresa (Setor comercial)?
+
+*HORÁRIO DE ATENDIMENTO:*
+De Segunda a Segunda, das *08h00 às 18h00.*
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:41:21]: Como faço pra trabalhar com vcs
+
+[BOT, 04/07/2024 09:41:24]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:41:36]: Pra trabalhar de motorista
+
+[BOT, 04/07/2024 09:41:38]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:41:57]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/7a100109-139d-4c6b-86ee-7b2188389650.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=1pUG8e1zQ6l2b%2F8rWQV6azEgWb0%3D&response-content-disposition=attachment%3B%20filename%3DJESSE-MESQUITA-DOS-SANTOS.pdf - Nome do arquivo: JESSE-MESQUITA-DOS-SANTOS.pdf
+
+[BOT, 04/07/2024 09:42:02]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:42:06]: Motorista
+
+[BOT, 04/07/2024 09:42:09]: Desculpe, não entendi. Por favor, digite uma das opções acima!
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:42:44]: 1
+
+[BOT, 04/07/2024 09:42:46]: Digite um dos números abaixo:
+
+1 - Quero me cadastrar!
+2 - Já iniciei meu cadastro no App e quero ajuda.
+3 - Já sou motorista PX QUALIFICADO!
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:43:22]: 02
+
+[BOT, 04/07/2024 09:43:25]: Opa, show! Parabéns pela agilidade! Vc é dos meus!
+
+Vamos seguir então! Me diz, você já esta logado no APP da PX?
+
+ 1 - Sim e já vejo viagens, mas não consigo me candidatar!
+ 2 - Não tentei ainda logar.
+ 3 - Tentei, mas não consigo acessar.
+
+0 - Voltar ao Menu principal.
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:43:48]: 01
+
+[Sistema, 04/07/2024 09:43:49]: <Chamado transferido - Suporte - MOTORISTA para Atendimento - MOTORISTA - 04/07/2024 09:43:49>
+
+[BOT, 04/07/2024 09:43:50]: Ótima notícia!
+
+Provável que falte a validação do seu cadastro, ou alguma documentação necessária. Aguarde uns instantes que em breve verificaremos e entraremos em contato com você.
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:44:10]: Faltou colocar a experiência lá não consegui 😅
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:44:30]: Bora
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:48:01]: E ai
+
+[Jessé Mesquita(559888504061), 04/07/2024 09:48:16]: Conseguiu a validação do meu cadastro
+
+[Sistema, 04/07/2024 10:31:46]: <Chamado transferido - Atendimento - MOTORISTA para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 04/07/2024 10:31:46>
+
+[Tainara Ferreira Da Silva, 04/07/2024 10:31:46]: Olá, tudo bem?
+Me informe seu CPF e sua cidade/Estado por gentileza, para que eu possa lhe encontrar no sistema
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:33:01]: CPF:041 072 483 13  Jesse mesquita dos santos
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:34:26]: Cidade:Raposa Estado:Maranhão
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:34:37]: Bom dia
+
+[Tainara Ferreira Da Silva, 04/07/2024 10:48:52]: MOTORISTAS - SÃO LUÍS MA (TRUCK)
+
+[Tainara Ferreira Da Silva, 04/07/2024 10:48:58]: OK, vou transferir para o setor responsável, só aguardar
+
+[Sistema, 04/07/2024 10:49:01]: <Chamado transferido - Atendimento - MOTORISTA (Tainara Ferreira Da Silva) para Cadex Etapa 1 - LEAD - 04/07/2024 10:49:01>
+
+[Sistema, 04/07/2024 10:49:06]: <Chamado transferido - Cadex Etapa 1 - LEAD para Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) - 04/07/2024 10:49:06>
+
+[Valeria Deseta Olímpio , 04/07/2024 10:49:06]: oi
+
+[Valeria Deseta Olímpio , 04/07/2024 10:49:09]: Sou do cadastro da Motorista PX e meu objetivo é te ajudar a rodar o mais rápido possível. Só preciso de algumas informações para validar o seu cadastro:
+Está trabalhando registrado ou recebendo seguro desemprego?
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:49:11]: Oi
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:49:59]: Vou começar receber o seguro esse mês
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:50:40]: Pode falar também quero começar logo a trabalhar
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:51:44]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/0ff9fe9c-c741-4db6-9956-3b05e40c2a17.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=leEV3lxd54K1bVl1XxIO6lU0Bsg%3D&response-content-disposition=attachment%3B%20filename%3DCTPSDigital_04107248313_04-07-2024.pdf - Nome do arquivo: CTPSDigital_04107248313_04-07-2024.pdf
+
+[Jessé Mesquita(559888504061), 04/07/2024 10:52:13]: Esse é meu registro da última empresa que estava trabalhando de motorista profissional
+
+[Valeria Deseta Olímpio , 04/07/2024 12:29:53]: Tem CNPJ MEI ou pode abrir um CNPJ MEI?
+
+[Jessé Mesquita(559888504061), 04/07/2024 12:54:54]: Não tenho
+
+[Valeria Deseta Olímpio , 04/07/2024 13:37:11]: Ajudamos com a MEI no fim da Validação desse cadastro.
+
+[Valeria Deseta Olímpio , 04/07/2024 13:37:17]: encaminha a CNH
+
+[Valeria Deseta Olímpio , 04/07/2024 13:37:23]: E um comprovante de endereço atual
+
+[Jessé Mesquita(559888504061), 04/07/2024 14:10:50]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/1cf2cb5a-a1ca-4ac8-976f-aa7e2f4edcbc.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=A15c8EKATCyRSb9FtvVTJs2Fpcc%3D&response-content-disposition=attachment%3B%20filename%3DCNH-e.pdf.pdf - Nome do arquivo: CNH-e.pdf.pdf
+
+[Jessé Mesquita(559888504061), 04/07/2024 14:16:53]: Daí já enviei os dois beleza
+
+[Jessé Mesquita(559888504061), 04/07/2024 14:17:47]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/3515d957-2108-4fad-9da8-adecd1d91427.pdf?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=f8Yaa5DtNAniz4EFptPDd0OkHU0%3D&response-content-disposition=attachment%3B%20filename%3D06%2F2024 - Nome do arquivo: 06/2024
+
+[Jessé Mesquita(559888504061), 04/07/2024 14:17:56]: Já enviei os dois ok
+
+[Valeria Deseta Olímpio , 04/07/2024 14:38:23]: Obrigada pelos documentos, seu cadastro passará por uma breve análise e logo chamaremos para a próxima etapa!
+
+[Jessé Mesquita(559888504061), 04/07/2024 15:13:05]: Ok eu que agradeço
+
+[Sistema, 04/07/2024 20:26:12]: <Chamado transferido - Cadex Etapa 1 - LEAD (Valeria Deseta Olímpio ) para Atendimento - MOTORISTA (Sabrina De Morais Silva) - 04/07/2024 20:26:12>
+
+[Jessé Mesquita(559888504061), 05/07/2024 08:31:12]: Bom dia estou no aguardo ok
+
+[Sistema, 05/07/2024 14:05:28]: <Chamado transferido - Atendimento - MOTORISTA (Sabrina De Morais Silva) para Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) - 05/07/2024 14:05:28>
+
+[José Soares Fragoso Junior , 05/07/2024 14:06:40]: boa tarde seu cadastro esta passando pela próxima etapa que é entrarmos em contato com as empresas que nos enviou, se puder nos enviar algum contato de RH ou ex encarregados, assim essa etapa vai ser mais rápida para finalizar o cadastro! Sem isso não conseguimos dar sequencia!!!
+
+[José Soares Fragoso Junior , 05/07/2024 14:06:56]: tem o contato de algum encarregado da 	
+VIX LOGISTICA S/A
+
+[José Soares Fragoso Junior , 05/07/2024 14:07:05]: e 	
+RIO ANIL TRANSPORTE E LOGISTICA LTDA
+
+[Jessé Mesquita(559888504061), 05/07/2024 14:07:26]: Só dá Vix mano
+
+[José Soares Fragoso Junior , 05/07/2024 14:07:35]: pode mandar
+
+[Jessé Mesquita(559888504061), 05/07/2024 14:07:45]: undefined
+
+[José Soares Fragoso Junior , 05/07/2024 14:30:17]: o senhor consegue algum encarregado da Rio Anil ?
+
+[Jessé Mesquita(559888504061), 05/07/2024 15:44:41]: Vou ver aqui
+
+[Jessé Mesquita(559888504061), 05/07/2024 15:54:24]: undefined
+
+[Jessé Mesquita(559888504061), 05/07/2024 15:54:24]: undefined
+
+[Jessé Mesquita(559888504061), 05/07/2024 15:54:42]: Boa tarde taí 👆
+
+[Sistema, 05/07/2024 16:02:30]: <Chamado transferido - Cadex Etapa 2 - CHECK (José Soares Fragoso Junior ) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 16:02:30>
+
+[Sistema, 05/07/2024 16:11:10]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Cadex Etapa 3 - SPRINT (Debora Cristina Linzmeyer Elias) - 05/07/2024 16:11:10>
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:11:24]: Boa tarde
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:11:33]: Obrigada por ter aguardado até agora !!! 🙌
+Essa é a ultima etapa do seu cadastro, para concluir o mais rápido possível depende só de você. 🚀🚀
+Meu é Débora e vou te ajudar nessa etapa.👍
+Pode enviar: O seu CNPJ, sua chave Pix e o nome do banco.
+Você já tem um CNPJ no seu nome?
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:11:36]: Boa tarde
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:12:01]: Cnpj ainda não
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:12:08]: Ok
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:12:17]: Só faz se tiver
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:12:20]: Vou te passar o passo a passo para fazer seu MEI
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:12:23]: O CNPJ
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:12:30]: Instruções de como fazer o CNPJ MEI:
+
+1-  Acesse o link que explica o passo a passo 👉 https://youtu.be/kz0CEwIIF0k
+
+2- Informações obrigatórias na abertura do MEI (Que esta no vídeo):
+MEI precisa ser Regime de Tributação: GERAL, não é MEI caminhoneiro
+Capital social - No mínimo deve ser 10.000,00
+Forma de atuação - Internet 
+Ocupação principal - Motorista por aplicativo.
+
+3- Acesse o link para fazer a abertura do seu CNPJ MEI (Lembrando que a abertura é gratuita) 👉 https://mei.receita.economia.gov.br/inscricao/login
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:12:32]: Pode passar
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:12:42]: Sim o MEI é obrigatorio
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:13:20]: Depois vou ficar pagando alguma coisa
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:14:17]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/6567dece-c2cf-4302-b467-377c720bbdc1.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=LNpv1SawZfz0PFAMXD%2B3IP%2Bu%2BLM%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:18:59]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/f1494ff0-8c27-401e-aa06-f0244e213af0.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=5hjn6%2B5SK7%2BnoTkhBPrFXou3UU4%3D&response-content-disposition=attachment%3B%20filename%3D1200774257725904.mp3 - Nome do arquivo: 1200774257725904.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:19:09]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/4756e1c3-7d96-4091-82c2-1759a8970aa3.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=68gKuH4SpGcMga8C6aVmlu19H74%3D&response-content-disposition=attachment%3B%20filename%3D454420677380914.mp3 - Nome do arquivo: 454420677380914.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:20:10]: Esse acesso aqui do meu já é direto no site federal isso
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:21:12]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c8ad12f5-bfe0-42ab-8500-76e9a835da9a.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=w%2BXvbKExgvdRikGGMwhQ7XIQIYU%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:21:55]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/372774e5-dc04-402f-abc8-e5a2c6f487c0.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=ejs77cwTuf42K2O5kU9pP%2Fxiz4U%3D&response-content-disposition=attachment%3B%20filename%3D2137632679970993.mp3 - Nome do arquivo: 2137632679970993.mp3
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:26:14]: Isso mesmo
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 16:27:11]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/41d1bd49-3026-4e73-9c95-3d6ff46fe5cd.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=rX8Zu2reD%2BlS3%2BtyZLnGcfXu3hk%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 16:28:33]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/ba1cc417-b7fc-4c21-aac6-7b6ca6f49064.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=2tkKHUsWOrY1VJmRhokatLDVjhs%3D&response-content-disposition=attachment%3B%20filename%3D404092065982018.mp3 - Nome do arquivo: 404092065982018.mp3
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:01:02]: Ok
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:01:07]: No aguardo
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:03]: Confira já fiz
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:04]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a5c9c8c6-0e57-4efa-b3ce-824b28259607.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=zur%2FYSpn9ULDcgn0iLN3irCL5G4%3D&response-content-disposition=attachment%3B%20filename%3D1854088731774649.jpeg - Nome do arquivo: 1854088731774649.jpeg
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:04]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/19cd6932-3b96-4cea-ad5f-3d809b3710cb.jpeg?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=RIuNFy%2BBuo5HKb2RHMw5lR99wkg%3D&response-content-disposition=attachment%3B%20filename%3D827945652594028.jpeg - Nome do arquivo: 827945652594028.jpeg
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:12]: São 17:25
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:26:20]: Ok
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:26:24]: Já vou dar continuidade
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:26]: Tá tudo certo?
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:26:55]: Ok
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:27:29]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/c687dc57-6ee9-4cde-b297-922c526448dc.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=%2BSmqoSTxfoljqeLcmqqiEiwINug%3D&response-content-disposition=attachment%3B%20filename%3D7890538714335407.mp3 - Nome do arquivo: 7890538714335407.mp3
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:27:57]: Qual sua chave PIX?
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:28:24]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/a47b01f2-7c8e-43f9-bab1-404dc7ea470c.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=qkaGhKBfitlUiTJ%2FBCg0JQj%2Fwkw%3D&response-content-disposition=attachment%3B%20filename%3Drecording.mp3 - Nome do arquivo: recording.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:28:24]: CPF 041 072 483 13
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:28:34]: Qual banco?
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:29:08]: https://mandeumzap-storage.s3.amazonaws.com/ed08803c-b74a-4ff0-978b-c381cf96deb0/55220e5b-bfe8-4308-8548-4778fdc11408.mp3?AWSAccessKeyId=AKIARYNLF2Q6NTLJPUUB&Expires=1720795479&Signature=lAB4f4BwO%2FoZKdc%2FolJsUTXN35M%3D&response-content-disposition=attachment%3B%20filename%3D987656586242704.mp3 - Nome do arquivo: 987656586242704.mp3
+
+[Jessé Mesquita(559888504061), 05/07/2024 17:29:25]: Santander
+
+[Debora Cristina Linzmeyer Elias, 05/07/2024 17:32:21]: Tudo certo!!🙌  Obrigada pela sua cooperação. Pedimos para aguardar o contato final.
+
+Orientações finais:
+
+1- Na sequência você receberá instruções para fazer sua integração e assistir alguns vídeos para entender como funciona o aplicativo. (É obrigatório👍)
+
+2- Toda vez que finalizar um contrato você precisa emitir a Nota fiscal, é bem simples de fazer é só acessar o Emissor Nacional com seu CPF e senha do GOV.
+E no momento de fazer a nota você pode ver os vídeos com o passo a passo no seu APP em MEUS CURSOS
+Emissor da NF : https://www.nfse.gov.br/EmissorNacional/Login
+
+[Sistema, 05/07/2024 17:37:38]: <Chamado transferido - Cadex Etapa 3 - SPRINT (Debora Cristina Linzmeyer Elias) para Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) - 05/07/2024 17:37:38>
+
+[Sistema, 05/07/2024 17:39:18]: <Chamado transferido - Atendimento - MOTORISTA (Fernanda de Ávila Feijó Machado Matos) para Atendimento - MOTORISTA (Tainara Ferreira Da Silva) - 05/07/2024 17:39:18>
+
+[Tainara Ferreira Da Silva, 05/07/2024 17:43:13]: A última etapa é você assistir aos conteúdos de integração da PX, para entender como funciona o nosso aplicativo e estar preparado para realizar os contratos através da nossa plataforma. Leva pouco mais de 40 minutos!
+
+Para assistir esses conteúdos, basta você acessar o link a seguir: https://app.motoristapx.com.br/deep-link/academy-course/0
+
+Você também pode acessar através do aplicativo, clicando em PERFIL e depois em ACADEMIA PX.
+
+Ao acessar o link, você vai clicar no curso e fazer a INTEGRAÇÃO PX e assistir todos os vídeos. Após finalizar todos os vídeos da integração, você receberá uma notificação no aplicativo avisando que você está QUALIFICADO e pronto: você estará apto a se candidatar nos contratos!
+
+[Tainara Ferreira Da Silva, 05/07/2024 17:43:30]: O aplicativo será liberado para se candidatar após assistir a integração, também podes assistir vídeo sobre notas fiscais, qualquer dúvida é só chamar
+
+[Sistema, 05/07/2024 17:43:39]: <Fim do chamado - undefined - 05/07/2024 17:43:39>
