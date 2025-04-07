@@ -1,5 +1,7 @@
 # Ignora todos os arquivos e pastas ocultos
 .*
+**/data/
+**/*.json
 
 # Exceto o próprio .gitignore
 !.gitignore
