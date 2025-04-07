@@ -1,0 +1,3 @@
+virtualenv analise_adiantamentos_venv
+source analise_adiantamentos_venv/bin/activate
+analise_adiantamentos_venv/bin/pip install -r requirements.txt
