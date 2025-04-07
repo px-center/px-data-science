@@ -1,0 +1,16 @@
+pandas
+numpy
+google-cloud-bigquery
+google-auth
+functions-framework
+db-dtypes
+psycopg2-binary
+python-dotenv
+statsmodels
+openpyxl
+unidecode
+matplotlib
+holidays
+scikit-learn
+tensorflow
+
