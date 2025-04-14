@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chat de Questionário com Áudio</title>
+  <link rel="stylesheet" href="https://ds-drivers-interviews-data-acquisition-336884965866.us-east1.run.app/style.css" />
+  <!-- Font Awesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <div id="answeredQuestions" style="padding-bottom: 50%;">
+      <!-- Todas as mensagens (perguntas e respostas) serão inseridas aqui -->
+    </div>
+  </div>
+  
+  <div id="inputContainer">
+    <!-- Input de texto (perguntas de texto) -->
+    <div class="chat-input" id="textInputWrapper" style="display: none;">
+      <input
+        type="text"
+        id="textAnswerInput"
+        placeholder="Digite sua resposta aqui..."
+      />
+      <button id="sendTextButton">
+        <i class="fas fa-paper-plane"></i>
+      </button>
+    </div>
+    
+    <!-- Botão de gravação de áudio (perguntas de áudio) -->
+    <button id="recordButton" style="display: none;">
+      <i class="fas fa-microphone"></i>
+    </button>
+    
+    <!-- Timer e barra de progresso (áudio) -->
+    <span id="timer" style="display: none;">0:00</span>
+    <div class="progress-container" id="progressContainer" style="display: none;">
+      <div id="progressBar"></div>
+    </div>
+  </div>
+  
+  <script src="https://ds-drivers-interviews-data-acquisition-336884965866.us-east1.run.app/script.js"></script>
+</body>
+</html>

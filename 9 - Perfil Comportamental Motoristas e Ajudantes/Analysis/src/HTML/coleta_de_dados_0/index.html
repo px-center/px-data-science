@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat de Questionário com Áudio</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <div class="chat-container">
+    <div id="answeredQuestions">
+      <!-- As mensagens serão adicionadas dinamicamente aqui -->
+    </div>
+    <!-- Container para perguntas de texto -->
+    <div id="textQuestionContainer">
+      <div id="textQuestion" class="question-bubble"></div>
+      <div class="controls-container">
+        <input type="text" id="textAnswerInput" placeholder="Digite sua resposta aqui...">
+        <button id="sendTextButton">Enviar</button>
+      </div>
+    </div>
+    <!-- Container para perguntas de áudio (inicialmente oculto) -->
+    <div id="audioQuestionContainer" style="display: none;">
+      <div id="audioQuestion" class="question-bubble"></div>
+      <div class="controls-container">
+        <button id="recordButton">
+          <i class="fas fa-microphone"></i>
+        </button>
+        <span id="timer">0:00</span>
+      </div>
+      <div class="progress-container">
+        <div id="progressBar"></div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Responda as Perguntas com Áudio</title>
+</head>
+<body>
+  <h1>Responda as Perguntas com Áudio</h1>
+  <form id="uploadForm">
+    <label for="fullName">Nome Completo:</label>
+    <input type="text" id="fullName" name="fullName" required><br><br>
+    
+    <label for="cpf">CPF:</label>
+    <input type="text" id="cpf" name="cpf" required><br><br>
+  </form>
+  
+  <div id="questionsContainer"></div>
+  <div id="overallStatus" style="margin-top:20px;"></div>
+
+  <script>
+    const questions = [
+      "Lembre-se de algum episódio passado: aconteceu alguma emergência e você teve que tomar uma decisão rápida. Como você agiu e quais foram os resultados?",
+      "Agora vamos pensar no seu trabalho. Nos conte sobre alguma situação em que você já precisou lidar com algum imprevisto...como você resolveu o problema?",
+      "E sobre o seu estilo de trabalho: você se considera mais detalhista/racional ou mais espontâneo/intuitivo? Pode nos dar um exemplo prático disso?",
+      "Parceiro, quais são os seus valores pessoais? Pode nos contar aqueles que você considera fundamentais na sua vida!",
+      "Sabemos que trabalhar em equipe pode gerar muitos conflitos. Como você lida com eles?",
+      "E em situações de pressão e estresse, como você se comunica com as pessoas nessas horas?",
+      "Boa, parceiro! Já estamos na metade da nossa jornada. Agora queremos saber: o que te motiva a buscar a excelência no seu trabalho?",
+      "Como você equilibra suas necessidades pessoais com as demandas profissionais?",
+      "Agora nos conte uma situação em que você teve que lidar com um grande risco no trabalho. Como você lidou com isso?",
+      "Diga pra gente: você se sente confortável em ambientes com pouca previsibilidade? Isso é, com poucas certezas e constância. Pode nos dizer o porquê?",
+      "Você prefere analisar detalhadamente todas as informações antes de tomar uma decisão, ou confia mais na sua intuição/instinto?",
+      "Pra gente terminar: como você lida com problemas difíceis, que exigem uma visão geral da situação versus um pensamento detalhista? Como você equilibra essas coisas?"
+    ];
+
+    const questionsContainer = document.getElementById('questionsContainer');
+
+    questions.forEach((question, index) => {
+      // Cria o container para cada pergunta
+      const questionDiv = document.createElement('div');
+      questionDiv.style.marginBottom = '20px';
+      questionDiv.style.border = '1px solid #ccc';
+      questionDiv.style.padding = '10px';
+
+      // Exibe a pergunta
+      const qText = document.createElement('p');
+      qText.textContent = `Pergunta ${index + 1}: ${question}`;
+      questionDiv.appendChild(qText);
+
+      // Botão para gravar a resposta
+      const recordBtn = document.createElement('button');
+      recordBtn.textContent = 'Gravar Resposta (10s)';
+      recordBtn.id = 'recordButton_' + index;
+      questionDiv.appendChild(recordBtn);
+
+      // Parágrafo para status da gravação
+      const statusPara = document.createElement('p');
+      statusPara.id = 'status_' + index;
+      questionDiv.appendChild(statusPara);
+
+      // Div para exibir o resultado da API
+      const resultDiv = document.createElement('div');
+      resultDiv.id = 'result_' + index;
+      questionDiv.appendChild(resultDiv);
+
+      questionsContainer.appendChild(questionDiv);
+
+      // Adiciona o listener para o botão
+      recordBtn.addEventListener('click', async () => {
+        const fullName = document.getElementById('fullName').value;
+        const cpf = document.getElementById('cpf').value;
+        
+        if (!fullName || !cpf) {
+          alert('Por favor, preencha Nome Completo e CPF.');
+          return;
+        }
+        
+        try {
+          // Solicita acesso ao microfone
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          const mediaRecorder = new MediaRecorder(stream);
+          let chunks = [];
+          const statusField = document.getElementById('status_' + index);
+          
+          mediaRecorder.ondataavailable = event => {
+            if (event.data.size > 0) {
+              chunks.push(event.data);
+            }
+          };
+          
+          mediaRecorder.onstart = () => {
+            // Inicia a contagem regressiva de 10 segundos
+            let countdown = 10;
+            statusField.textContent = `Gravação iniciada... Tempo restante: ${countdown}s`;
+            const intervalId = setInterval(() => {
+              countdown--;
+              if (countdown > 0) {
+                statusField.textContent = `Gravação em andamento... Tempo restante: ${countdown}s`;
+              } else {
+                clearInterval(intervalId);
+              }
+            }, 1000);
+            recordBtn.disabled = true;
+          };
+          
+          mediaRecorder.onstop = () => {
+            statusField.textContent = 'Gravação finalizada.';
+            const audioBlob = new Blob(chunks, { type: 'audio/webm' });
+            chunks = [];
+            
+            // Prepara os dados a serem enviados
+            const formData = new FormData();
+            formData.append('file', audioBlob, `audio_resposta_${index + 1}.webm`);
+            formData.append('fullName', fullName);
+            formData.append('cpf', cpf);
+            formData.append('question', question);
+            formData.append('questionIndex', index + 1);
+            
+            // Envia a resposta para a API
+            fetch('https://ds-drivers-interviews-data-acquisition-336884965866.us-east1.run.app', {
+              method: 'POST',
+              body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+              document.getElementById('result_' + index).innerHTML = `<pre>${data}</pre>`;
+            })
+            .catch(error => {
+              document.getElementById('result_' + index).textContent = 'Erro: ' + error;
+            })
+            .finally(() => {
+              recordBtn.disabled = false;
+            });
+          };
+          
+          // Inicia a gravação e para após 10 segundos (10000ms)
+          mediaRecorder.start();
+          setTimeout(() => {
+            mediaRecorder.stop();
+          }, 10000);
+          
+        } catch (error) {
+          document.getElementById('status_' + index).textContent = 'Erro ao acessar o microfone: ' + error;
+        }
+      });
+    });
+  </script>
+</body>
+</html>

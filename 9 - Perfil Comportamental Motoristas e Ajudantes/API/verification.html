@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Verificação</title>
+  <style>
+    /* Estilo básico para centralizar e estilizar o formulário */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f2f2f2;
+      font-family: Arial, sans-serif;
+      padding: 0 10px;
+    }
+    .verification-container {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 90%;
+      max-width: 400px;
+      text-align: center;
+    }
+    .verification-container h2 {
+      margin-bottom: 10px;
+      font-size: 1.8em;
+    }
+    .verification-container p {
+      margin-bottom: 20px;
+      font-size: 1em;
+      color: #333;
+    }
+    .digit-inputs {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 15px;
+    }
+    .digit-inputs input {
+      /* Distribui o espaço igualmente levando em conta o gap */
+      width: calc((100% - 30px) / 4);
+      padding: 15px;
+      font-size: 2em;
+      text-align: center;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      transition: border-color 0.3s;
+    }
+    .digit-inputs input:focus {
+      outline: none;
+      border-color: #007bff;
+    }
+    .verification-container button {
+      width: 100%;
+      padding: 10px;
+      font-size: 1.2em;
+      border: none;
+      background-color: #007bff;
+      color: #fff;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    /* Ajustes responsivos para telas menores */
+    @media (max-width: 320px) {
+      .digit-inputs input {
+        padding: 10px;
+        font-size: 1.8em;
+      }
+      .verification-container h2 {
+        font-size: 1.5em;
+      }
+      .verification-container button {
+        font-size: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="verification-container">
+    <h2>Código de verificação</h2>
+    <p>Digite nos campos abaixo o código de verificação informado.</p>
+    <form id="verificationForm" method="POST" action="/">
+      <div class="digit-inputs">
+        <input type="text" id="digit1" maxlength="1" pattern="[0-9]" required>
+        <input type="text" id="digit2" maxlength="1" pattern="[0-9]" required>
+        <input type="text" id="digit3" maxlength="1" pattern="[0-9]" required>
+        <input type="text" id="digit4" maxlength="1" pattern="[0-9]" required>
+      </div>
+      <!-- Campo oculto para armazenar a senha completa -->
+      <input type="hidden" name="verificationCode" id="verificationCode">
+      <button type="submit">Iniciar</button>
+    </form>
+  </div>
+  <script>
+    // Auto avançar para o próximo campo assim que o usuário digitar um dígito
+    const inputs = document.querySelectorAll('.digit-inputs input');
+    inputs.forEach((input, index) => {
+      input.addEventListener('input', () => {
+        if (input.value.length === input.maxLength && index < inputs.length - 1) {
+          inputs[index + 1].focus();
+        }
+      });
+    });
+
+    // Ao submeter o formulário, junta os dígitos dos inputs, salva no localStorage e envia o formulário.
+    document.getElementById("verificationForm").addEventListener("submit", function(event) {
+      // Pega os valores de cada input
+      var d1 = document.getElementById("digit1").value;
+      var d2 = document.getElementById("digit2").value;
+      var d3 = document.getElementById("digit3").value;
+      var d4 = document.getElementById("digit4").value;
+      
+      // Se algum campo não estiver preenchido, impede o envio
+      if (!d1 || !d2 || !d3 || !d4) {
+        event.preventDefault();
+        alert("Preencha todos os dígitos.");
+        return;
+      }
+      
+      // Junta os dígitos
+      var code = d1 + d2 + d3 + d4;
+      // Salva o código no localStorage do navegador
+      localStorage.setItem("verificationCode", code);
+      // Define o valor do campo oculto para que seja enviado no formulário
+      document.getElementById("verificationCode").value = code;
+    });
+  </script>
+</body>
+</html>

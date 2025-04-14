@@ -1,0 +1,214 @@
+:root {
+    --primary-color: #007bff;
+    --recording-color: #dc3545;
+    --paused-color: #ffc107;
+    --user-bubble: #007bff;  /* Azul para respostas */
+    --bot-bubble: #e0e0e0;   /* Cinza para perguntas */
+    --text-light: #ffffff;
+    --bubble-shadow: rgba(0, 0, 0, 0.1);
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f9fa;
+    height: 100vh;
+    font-size: 18px;
+  }
+  
+  .chat-container {
+    width: 100%;
+    max-width: 800px;
+    height: 95vh;
+    margin: 0 auto;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  }
+  
+  #answeredQuestions {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background: #f5f5f5;
+  }
+  
+  /* Container fixo no rodapé para entrada */
+  #inputContainer {
+    padding: 15px;
+    background: #fff;
+    border-top: 1px solid #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Estilo para o wrapper do input de texto + botão de envio */
+  .chat-input {
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Campo de texto */
+  #textAnswerInput {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+  }
+  
+  /* Botão de envio (ícone) */
+  #sendTextButton {
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #sendTextButton i {
+    font-size: 18px;
+  }
+  
+  /* Botão de gravação de áudio */
+  #recordButton {
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 50%;
+    background: var(--primary-color);
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 10px;
+  }
+  
+  #recordButton.recording {
+    background: var(--recording-color);
+    transform: scale(1.1);
+    animation: pulse 1.5s infinite;
+  }
+  
+  #timer {
+    font-size: 1.1em;
+    color: #666;
+    font-weight: 500;
+    margin-top: 8px;
+  }
+  
+  .progress-container {
+    width: 80%;
+    height: 6px;
+    background: #e0e0e0;
+    border-radius: 5px;
+    margin: 15px auto;
+    overflow: hidden;
+  }
+  
+  #progressBar {
+    height: 100%;
+    width: 0%;
+    background: var(--primary-color);
+    transition: width 0.1s linear;
+  }
+  
+  /* Estilo base para os balões */
+  .chat-bubble {
+    max-width: 70%;
+    padding: 15px 20px;
+    border-radius: 20px;
+    word-break: break-word;
+    white-space: normal;
+    animation: fadeIn 0.3s ease-in;
+    margin: 10px 0;
+    font-size: 1.1em;
+    line-height: 1.4;
+    box-shadow: 0 2px 4px var(--bubble-shadow);
+  }
+  
+  /* Balão de pergunta (sistema) - Alinhado à esquerda */
+  .question-bubble {
+    background: var(--bot-bubble);
+    color: #333;
+    align-self: flex-start;
+    border-top-left-radius: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  
+  /* Balão de resposta (usuário) - Alinhado à direita */
+  .answer-bubble {
+    background: var(--user-bubble);
+    color: var(--text-light);
+    align-self: flex-end;
+    border-top-right-radius: 0;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  /* Animações */
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.15); }
+    100% { transform: scale(1); }
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  /* Responsivo */
+  @media (max-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+    
+    .chat-container {
+      height: 100vh;
+      max-width: 100%;
+    }
+    
+    .chat-bubble {
+      max-width: 95%;
+      word-break: break-word;
+      white-space: normal;
+    }
+    
+    #inputContainer {
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: white;
+      box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+    }
+    
+    #textAnswerInput {
+      font-size: 15px;
+    }
+  }
+  
