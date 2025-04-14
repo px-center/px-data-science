@@ -1,0 +1,832 @@
+Unnamed: 4,"Código
+da
+variável"
+Unidade da Federação,V0001
+Estrato,V0024
+UPA,UPA_PNS
+Número de ordem do domicílio na PNS,V0006_PNS
+Tipo da entrevista,V0015
+Ano de referência,V0020
+Total de moradores,V0022
+Tipo de situação censitária,V0026
+Tipo de área,V0031
+Seleção do morador de 15 anos ou mais para responder o questionário individual,V0025A
+Seleção do morador de 15 anos ou mais para ter medida antropométrica aferida,V0025B
+Tipo do domicílio,A001
+Qual é o material que predomina na construção das paredes externas deste domicílio?,A002010
+Material predominante na cobertura (telhado) do domicílio,A003010
+Qual é o material que predomina no piso deste domicílio,A004010
+ Quantos cômodos têm este domicílio,A01001
+Quantos cômodos estão servindo permanentemente de dormitório para os moradores deste domicílio,A011
+Qual é a principal forma de abastecimento de água deste domicílio,A005010
+Este domicílio está ligado à rede geral de distribuição de água? ,A005012
+ A água utilizada neste domicílio chega,A00601
+ A água utilizada para beber neste domicílio é,A009010
+"Quantos banheiros (com chuveiro ou banheira e vaso sanitário ou privada) de uso exclusivo dos moradores existem neste domicílio, inclusive os localizados no terreno ou propriedade",A01401
+"Quantos banheiros (com chuveiro ou banheira e vaso sanitário ou privada) de uso comum a mais de um domicilio, existem neste terreno ou propriedade",A01402
+"Utiliza sanitário ou buraco para dejeções, inclusive os localizados no terreno ou na propriedade (cercado por paredes de qualquer material",A01403
+Para onde vai o esgoto do banheiro? Ou Para onde vai o esgoto do sanitário ou do buraco para dejeções?,A01501
+Qual o (principal) destino dado ao lixo,A016010
+Neste domicílio existe televisão em cores ,A018011
+Quantos?,A018012
+Neste domicílio existe geladeira ,A018013
+Quantos?,A018014
+Neste domicílio existe máquina de lavar roupa ,A018015
+Quantos?,A018016
+Neste domicílio existe telefone fixo convencional,A018017
+Quantos?,A018018
+Neste domicílio existe telefone móvel celular ,A018019
+Quantos?,A018020
+Neste domicílio existe forno micro-ondas,A018021
+Quantos?,A018022
+"Neste domicílio existe computador (considere inclusive os portáteis, tais como: laptop, notebook ou netbook)?  ",A018023
+Quantos?,A018024
+Neste domicílio existe motocicleta,A018025
+Quantos?,A018026
+Neste domicílio existe automóvel,A018027
+Quantos?,A018028
+"Algum morador tem acesso à Internet no domicílio por meio de computador, tablet, telefone móvel celular, televisão ou outro equipamento?",A01901
+"No seu domicílio, há trabalhador (as) doméstico(as) que trabalham em seu domicílio três vezes ou mais por semana (empregada doméstica, babá, cuidador etc.)",A02101
+Quantos?,A02102
+" Em seu domicílio, há algum animal de estimação",A02201
+Quantos destes animais são gatos,A02305
+Quantos destes animais são cachorros,A02306
+Quantos destes animais são aves,A02307
+Quantos destes animais são peixes,A02308
+"Nos últimos 12 meses, quantos gatos foram vacinados contra raiva?",A02401
+"Nos últimos 12 meses , quantos cachorros foram vacinados contra raiva?",A02402
+O seu domicílio está cadastrado na unidade de saúde da família ,B001
+. Quando o seu domicílio foi cadastrado,B002
+"Nos últimos doze meses, com que frequência o seu domicílio recebeu uma visita de algum Agente Comunitário ou algum membro da Equipe de Saúde da Família? ",B003
+"Nos últimos doze meses, com que frequência o seu domicílio recebeu uma visita de algum agente de endemias (como a dengue, por exemplo)",B004
+Número de pessoas no domicílio,C001
+Número de ordem do morador,C00301
+Condição no domicílio,C004
+Sexo,C006
+Dia de nascimento,C00701
+Mês de nascimento,C00702
+Ano de nascimento,C00703
+Idade do morador na data de referência,C008
+Cor ou raça,C009
+Cônjuge ou companheiro(a) mora em nesse domicílio.,C01001
+Número de ordem do cônjuge ou companheiro(a),C010010
+Cônjuge ou companheiro(a) mora em outro domicílio.,C013
+Qual é a natureza dessa união? ,C014
+Esta união é registrada em cartório? ,C015
+Foi realizada cerimônia religiosa para esta união? ,C016
+___já viveu com cônjuge ou companheiro (a) antes? ,C017
+Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?  ,C018
+Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?   ,C01801
+Qual é o estado civil de ___? ,C011
+Informante do Módulo C,C012
+Sabe ler e escrever,D001
+Frequenta escola ou creche,D00201
+A escola que frequenta é da,D00202
+Qual é o curso que frequenta,D00301
+ Esse curso que ___ frequenta é dividido em,D00501
+Qual é o ano/semestre/série que ___frequenta?,D006
+Qual é a etapa do ensino fundamental que ___ frequenta,D00601 
+ ___já concluiu algum outro curso superior de graduação,D007
+Anteriormente ___frequentou escola ou creche,D008
+Qual foi o curso mais elevado que ___frequentou ,D00901
+A duração deste curso que ___frequentou anteriormente era de,D010
+Este curso que ___ frequentou anteriormente era dividido em,D01101
+"concluiu, com aprovação, pelo menos o primeiro ano/semestre/série deste curso que frequentou ",D01201
+"Qual foi o último ano/semestre/série que ___ concluiu, com aprovação, neste curso que frequentou ",D01301
+Qual foi a etapa de ensino fundamental que ___frequentou,D01302
+___concluiu os anos iniciais deste curso que frequentou ,D01303
+___concluiu este curso que frequentou ,D014
+Informante do Módulo D,D015
+"Na semana de___ a___ (semana de referência), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em dinheiro",E001
+"Na semana de ___a___ (semana de referência), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em produtos, mercadorias, moradia, alimentação, treinamento ou aprendizado etc",E002
+"Na semana de ___ a ___ (semana de referência), ___ fez algum bico ou trabalhou em alguma atividade ocasional remunerada durante pelo menos 1 hora",E003
+"Na semana de ___ a ___ (semana de referência), ___ ajudou durante pelo menos 1 hora, sem receber pagamento, no trabalho remunerado de algum morador do domicílio ou de parente",E004
+"Na semana de ___ a ___ (semana de referência), ___ tinha algum trabalho remunerado do qual estava temporariamente afastado",E005
+"Na semana de ___ a ___ (semana de referência), por que motivo ___ estava afastado desse trabalho",E006011
+A doença ou acidente foi relacionado ao trabalho?,E008
+" Em ___ /___ /___ (último dia da semana de referência), fazia quanto tempo que ___ estava afastado desse trabalho",E010010
+Tempo que estava afastado (De 1 mês a menos de 1 ano),E010011
+Tempo que estava afastado (De 1 ano a menos de 2 anos) ,E010012
+Tempo que estava afastado (De 2 anos a 98 anos),E010013
+Quantos trabalhos ___tinha na semana de ___ a ___ ,E011
+Qual era a ocupação (cargo ou função) que ___ tinha nesse trabalho,E01201
+"Nesse trabalho, ___ era",E01401
+Trabalhador não remunerado em ajuda a membro do domicílio ou parente ,E014011
+"Nesse trabalho, ___era servidor público estatutário (federal, estadual ou municipal)",E01402
+"Nesse trabalho, ___tinha carteira de trabalho assinada",E01403
+Qual era a principal atividade desse negócio/empresa,E01501
+...recebia/fazia normalmente nesse trabalho rendimento/retirada em dinheiro?,E01601
+Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse trabalho?(valor em dinheiro),E01602
+...recebia/fazia normalmente nesse trabalho rendimento/retirada em produtos ou mercadorias?,E01603
+Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse trabalho?(valor estimado em produtos ou mercadorias),E01604
+...recebia/fazia normalmente nesse trabalho rendimento/retirada somente em benefícios ?,E01605
+"Quantas horas ___ trabalhava normalmente, por semana, nesse trabalho?",E017
+...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada em dinheiro?,E01801
+Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse(s) outro(s) trabalho(s)?(valor em dinheiro),E01802
+...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada em produtos ou mercadorias?,E01803
+Qual era o rendimento bruto mensal ou retirada que ___ fazia normalmente nesse(s) outro(s) trabalho(s)?(valor estimado em produtos ou mercadorias),E01804
+...recebia/fazia normalmente nesse(s) outro(s) trabalho(s) rendimento/retirada somente em benefícios ?,E01805
+"Quantas horas ___ trabalhava normalmente, por semana, nesses outros trabalhos? ",E019
+"No período de ___ a ___ (período de referência de 30 dias), ___ tomou alguma providência para conseguir trabalho, seja um emprego ou um negócio próprio? ",E022
+"No período de ___ a ___ (período de referência de 30 dias), qual foi a principal providência que ___ tomou para conseguir trabalho? ",E023011
+Qual foi o principal motivo de ___ não ter tomado providência para conseguir trabalho no período de ___ a ___ (período de referência de 30 dias)?,E024011
+Quanto tempo depois de __/__/__ (último dia da semana de referência) ___ irá começar esse trabalho que conseguiu?,E02402
+Número de meses para começar o trabalho que conseguiu.,E024021
+"Até o dia ___ (último dia da semana de referência), fazia quanto tempo que___ estava sem qualquer trabalho e tentando conseguir trabalho?",E025
+fazia quanto tempo que vinha procurando trabalho (de 1 mês a menos de 1 ano),E02501
+fazia quanto tempo que vinha procurando trabalho (de 1 ano a menos de 2 anos),E02502
+fazia quanto tempo vinha procurando trabalho (2 anos ou mais),E02503
+Se tivesse conseguido um trabalho ___ poderia ter começado a trabalhar na semana de___ a ___ (semana de referência),E026
+"No período de ___ a ___ (período de referência de 358 dias), ___ trabalhou, por pelo menos 1 hora?",E02601
+"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Auxiliar nos cuidados pessoais (alimentar, vestir, pentear, dar remédio, dar banho, colocar para dormir)",E02801
+"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Auxiliar em atividades educacionais",E02802
+"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Ler, jogar ou brincar",E02803
+"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Monitorar ou fazer companhia dentro do domicílio",E02804
+"Na semana de ___a___ (semana de referência), ___ realizou tarefas de cuidados de moradores deste domicílio que eram crianças, idosos, enfermos ou pessoas com necessidades especiais, tais como: Transportar ou acompanhar para escola, médico, exames, parque, praça, atividades sociais, culturais, esportivas ou religiosas",E02805
+Outras tarefas de cuidados de moradores do domicílio,E02806
+"Na semana de ___ a ___ (semana de referência), ___ cuidou de parentes que não moravam neste domicílio e que precisavam de cuidados (crianças, idosos, enfermos ou pessoas com necessidades especiais)? ",E030
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: preparar ou servir alimentos, arrumar a mesa ou lavar as louças?",E03101
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: cuidar da limpeza ou manutenção de roupas e sapatos/",E03102
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: fazer pequenos reparos ou manutenção do domicílio, do automóvel, de eletrodomésticos ou outros equipamentos? ",E03103
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Limpar ou arrumar o domicílio, a garagem, o quintal ou o jardim? ",E03104
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Cuidar da organização do domicílio (pagar contas, contratar serviços, orientar empregados etc.)? ",E03105
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Fazer compras ou pesquisar preços de bens para o domicílio? ",E03106
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Cuidar dos animais domésticos? ",E03107
+"Na semana de___a___ (semana de referência), ___fez tarefas domésticas para o próprio domicílio, tais como: Outras tarefas domésticas?",E03108
+". Na semana de___a___ (semana de referência), ___fez alguma tarefa doméstica em domicílio de parente? ",E032
+". Na semana de___a___ (semana de referência), ___ qual foi o total de horas que dedicou às atividades de cuidados de pessoas e/ou afazeres domésticos? ",E033
+Informante do Módulo E,E027
+"Em (mês da pesquisa) ___ recebia normalmente rendimento de aposentadoria ou pensão de instituto de previdência federal (INSS), estadual, municipal, ou do governo federal, estadual, municipal?",F001011
+Valor habitualmente recebido,F001021
+"Em (mês da pesquisa), ___ recebia normalmente rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio?",F007011
+Valor habitualmente recebido,F007021
+"Em (mês da pesquisa), ___ recebia normalmente rendimento de aluguel ou arrendamento?",F008011
+Valor habitualmente recebido,F008021
+"Em (mês da pesquisa), _______ recebia normalmente algum juro de caderneta de poupança e de outras aplicações financeiras, dividendos, programas sociais, seguro-desemprego, seguro defeso ou outros rendimentos? ",VDF001
+Valor recebido em reais (VDF001),VDF00102
+Informante do Módulo F,F016
+"tem algum plano odontológico particular, de empresa ou órgão público?",I00101
+"tem algum plano de saúde médico particular, de empresa ou órgão público?",I00102
+Quantos?,I001021
+Quem é o titular do plano de saúde médico (único ou principal)?,I00103
+Nº de ordem do titular ,I001031
+Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)? ,I005
+ ___ considera este plano de saúde: ,I006
+"O plano de saúde médico (único ou principal) que _____ possui é de instituição de assistência de servidor público (municipal, estadual ou militar)? ",I004
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,I00401
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a exames,I00402
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,I00403
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,I00404
+Quem paga a mensalidade deste plano de saúde?,I010010
+Informante do Módulo I,I012
+"De um modo geral, como é o estado de saúde de________",J001
+"Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como é o estado de saúde de _____________? ",J00101
+" Nas duas últimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos etc.) por motivo da própria saúde",J002
+"Nas duas últimas semanas, quantos dias _____ deixou de realizar suas atividades habituais, por motivo da própria saúde",J003
+ Qual foi o principal motivo de saúde que impediu ___ de realizar suas atividades habituais nas duas últimas semanas ,J00402
+Este motivo de saúde estava relacionado ao trabalho,J00404
+Nas duas últimas semanas___ esteve acamado (a),J005
+"Nas duas últimas semanas, quantos dias _____ esteve acamado (a)",J006
+"Algum médico já deu o diagnóstico de alguma doença crônica, física ou mental, ou doença de longa duração (de mais de 6 meses de duração) a ___",J007
+"Alguma dessas doenças limita de alguma forma suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos, etc.)",J00801
+" ___ costuma procurar o mesmo lugar, mesmo médico ou mesmo serviço de saúde quando precisa de atendimento de saúde",J009
+Quando está doente ou precisando de atendimento de saúde___ costuma procurar,J01002
+Quando ____ consultou um médico pela última vez,J01101
+Quantas vezes ___ consultou um médico nos últimos 12 meses,J012
+Quando ___ consultou um dentista pela última vez,J01301
+"Nas duas últimas semanas, ___ procurou algum lugar, serviço ou profissional de saúde para atendimento relacionado à própria saúde",J014
+Qual foi o motivo principal pelo qual ___ procurou atendimento relacionado à própria saúde nas duas últimas semanas,J01502
+Onde ___ procurou o primeiro atendimento de saúde por este motivo nas duas últimas semanas,J01602
+"Nessa primeira vez que procurou atendimento de saúde por este motivo, nas duas últimas semanas",J01701
+Por que motivo ___ não foi atendido(a) na primeira vez que procurou atendimento de saúde nas duas últimas semanas,J01802
+"Nas duas últimas semanas, quantas vezes ___ voltou a procurar atendimento de saúde por este mesmo motivo",J019
+Onde ___ procurou o último atendimento de saúde por este motivo nas duas últimas semanas,J02002
+" Nessa última vez que procurou atendimento de saúde por este motivo, nas duas últimas semanas, ___ foi atendido (a)",J021
+Por que motivo ___ não foi atendido (a) nessa última vez que procurou atendimento de saúde nas duas últimas semanas,J022010
+ Este serviço de saúde onde___ foi atendido era:,J023
+ Este atendimento de saúde de ___ foi coberto por algum plano de saúde,J024
+ ___ pagou algum valor por este atendimento de saúde recebido nas duas últimas semanas ,J025
+O atendimento de ___ foi feito pelo SUS,J026
+Qual foi o principal atendimento de saúde que ___ recebeu?,J02702
+" Neste atendimento de ___, foi receitado algum medicamento",J02901
+ __conseguiu obter os medicamentos receitados? (Leia as opções de resposta),J03001
+Qual o principal motivo de ___ não ter conseguido obter todos os medicamentos receitados,J03102
+Algum dos medicamentos foi coberto por plano de saúde,J032
+Algum dos medicamentos foi obtido no programa Aqui Tem Farmácia Popular,J03301
+Algum dos medicamentos foi obtido em serviço público de saúde,J034
+ ___ pagou algum valor pelos medicamentos,J035
+"Nas duas últimas semanas, por que motivo ___ não procurou serviço de saúde",J03602
+"Nos últimos 12 meses, ___ ficou internado(a) em hospital por 24 horas ou mais",J037
+"Nos últimos 12 meses, quantas vezes ___ esteve internado(a)",J038
+Qual foi o principal atendimento de saúde que ___recebeu quando esteve internado(a) (pela última vez) nos doze últimos meses,J039
+Quanto tempo em meses o morador ficou internado,J04001
+Quanto tempo em dias o morador ficou internado,J04002
+O estabelecimento de saúde em que ___ esteve internado(a) pela última vez nos últimos 12 meses era,J041
+A última internação de ___ nos últimos 12 meses foi coberta por algum plano de saúde,J042
+" ___ pagou algum valor por esta última internação? (Entrevistador: se o(a) entrevistado(a) responder que pagou, mas teve reembolso total, marque a opção 2) ",J043
+Esta última internação de ___ foi feita através do Sistema Único de Saúde (SUS),J044
+"Nos últimos 12 meses, ___ teve atendimento de urgência ou emergência no domicílio",J046
+Este atendimento foi coberto por algum plano de saúde,J047
+"___pagou algum valor por este atendimento? (Entrevistador: se o(a) entrevistado(a) responder que pagou, mas teve reembolso total, marque a opção 2) ",J048
+Este atendimento foi feito através do Sistema Único de Saúde (SUS),J049
+"Neste atendimento, ___ foi transportado por ambulância para um serviço de saúde",J051
+O transporte foi feito por,J052
+"Nos últimos doze meses, ___ utilizou tratamento como acupuntura, homeopatia, plantas medicinais e fitoterapia, meditação, yoga, tai chi chuan, lian gong ou outra prática integrativa e complementar a saúde?",J05301
+Qual tratamento _________ fez uso Acupuntura,J05402
+Qual tratamento _________ fez uso Homeopatia,J05403
+Qual tratamento _________ fez uso plantas medicinais e fitoterapia,J05404
+Qual tratamento _________ fez uso auriculoterapia,J05405
+Qual tratamento _________ fez uso meditação,J05406
+Qual tratamento _________ fez uso Yoga,J05407
+"Qual tratamento _________ fez uso Tai chi chuan, Lian gong, Qi gong",J05408
+Qual tratamento _________ fez uso Terapia comunitária integrativa,J05409
+Qual tratamento _________ fez uso Outro,J054010
+___ pagou algum valor por este(s) tratamento(s) ,J056
+Este(s) tratamento(s) foi (foram) feito(s) através do Sistema Único de Saúde (SUS):,J057
+Informante do Módulo J,J060
+Entrevista do adulto selecionado,M001
+Identificação da mãe do morador selecionado,M002
+ Morador selecionado está apto para responder? ,M00203
+O informante desta parte é:,M00302
+"Normalmente, quantos dias na semana o(a) Sr(a) se desloca(va) de casa para o(s) trabalho(s)",M00303
+"Quanto tempo em horas o(a) Sr(a) gasta(va), normalmente, por dia, no deslocamento para o(s) seu(s) trabalho(s), considerando ida e volta",M00401
+"Quanto tempo em minutos o(a) Sr(a) gasta, normalmente, por dia, no deslocamento para o(s) seu(s) trabalho(s), considerando ida e volta",M00402
+"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",M005010
+"Quantas horas trabalha(va) por dia, habitualmente, no período de 8 horas da noite e 5 horas da manhã",M005011
+"Com que frequência, habitualmente, o(a) Sr(a) trabalha(va) no horário entre 8 horas da noite e 5 horas da manhã em algum dos seus trabalhos",M00601
+" Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas",M007
+ Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,M008
+O(a) Sr(a) normalmente trabalha(va) em ambientes,M009
+"Nos últimos 30 dias, alguém fumou no mesmo ambiente fechado onde o(a) Sr(a) trabalhava (todos os trabalhos)",M01001
+" No(s) seu(s) trabalho(s), o(a) Sr(a) está(estava) exposto(a) a algum destes fatores que podem afetar a sua saúde. Manuseio de substâncias químicas (agrotóxicos, gasolina, diesel, formol, chumbo, mercúrio, cromo, quimioterápicos etc.)",M011011
+"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição a ruído (barulho intenso) ",M011021
+" No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição longa ao sol",M011031
+" No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x)",M011041
+"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Manuseio de resíduos urbanos (lixo) ",M011051
+"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição a material biológico (sangue, agulhas, secreções)",M011061
+"No(s) seu(s) trabalho(s), o(a) Sr(a) está exposto(a) a algum destes fatores que podem afetar a sua saúde Exposição à poeira mineral (pó de mármore, de areia, de brita, de vidro (sílica), de amianto (asbesto), de ferro ou aço)",M011071
+Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,M01401
+ Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,M01501
+"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",M01601
+"Nos últimos doze meses, com que frequência o(a) Sr(a) participou de reuniões de grupos como associações de moradores ou funcionários, movimentos sociais/comunitários, centros acadêmicos ou similares",M01701
+"Nos últimos 12 meses, com que frequência o(a) Sr(a) fez trabalho voluntário não remunerado",M01801
+"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",M01901
+"Em geral, como o(a) Sr(a) avalia a sua saúde",N001
+"Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como você avalia o seu estado de saúde? ",N00101
+"Quando o(a) Sr(a) sobe uma ladeira, um lance de escadas ou caminha rápido no plano, sente dor ou desconforto no peito",N004
+"Quando o(a) Sr(a) caminha em lugar plano, em velocidade normal, sente dor ou desconforto no peito",N005
+ O que o(a) Sr(a) faz se sente dor ou desconforto no peito,N006
+"Quando o(a) Sr(a) para, o que acontece com a dor ou desconforto no peito",N00701
+O(A) Sr(a) pode me mostrar onde geralmente sente essa dor/desconforto no peito,N008
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",N010
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",N011
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",N012
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",N013
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",N014
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",N015
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",N016
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",N017
+"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",N018
+" Atualmente, o(a) Sr(a) dirige automóvel (inclusive táxi, aplicativos de transporte e similares)",O00101
+"Com que frequência o(a) Sr(a) usa cinto de segurança quando dirige automóvel (inclusive táxi, aplicativos de transporte e similares)?",O00401
+"Com que frequência o(a) Sr(a) usa cinto de segurança quando anda no banco da frente como passageiro de automóvel (inclusive táxi, aplicativos de transporte e similares)?",O00402
+" Com que frequência o(a) Sr(a) usa cinto de segurança quando anda no banco de trás de automóvel (inclusive táxi, aplicativos de transporte e similares)?",O00501
+"Atualmente, o(a) Sr(a) dirige motocicleta",O00201
+Com que frequência o(a) Sr(a) usa capacete quando dirige motocicleta,O00701
+Com que frequência o(a) Sr(a) usa capacete quando anda como passageiro de motocicleta,O00801
+" Com que frequência o (a) senhor (a) manuseia o celular durante a condução de moto ou automóvel (inclusive táxi, aplicativos de transporte e similares)?",O00802
+"Com que frequência o (a) senhor (a) conduz moto ou automóvel (inclusive táxi, aplicativos de transporte e similares) acima da velocidade da via?",O00803
+" Nos últimos doze meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)",O009
+Quantos,O00901
+"Algum desses acidentes de trânsito ocorreu quando o(a) Sr(a) estava trabalhando, indo ou voltando do trabalho",O010
+"Durante o acidente de trânsito ocorrido nos últimos 12 meses, o(a) Sr(a) era: (Se houver mais de um, considere o mais grave)",O01102
+"Por causa deste acidente de trânsito o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)? ",O01401
+"Para este acidente de trânsito, o(a) Sr(a) recebeu algum tipo de atendimento de saúde?
+",O01501
+Onde o(a) Sr(a) recebeu o primeiro atendimento de saúde,O01602
+Quem lhe prestou atendimento no local do acidente,O01702
+"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais? (Se houver mais de um, considere o mais grave)",O019
+" O Sr(a) tem alguma sequela física permanente decorrente deste acidente de trânsito? (Se houver mais de um, considere o mais grave)",O02001
+Nos últimos doze meses o(a) Sr(a) se envolveu em algum acidente de trabalho? (Sem considerar os acidentes de trânsito e/ou de deslocamento para o trabalho),O021
+Quantos,O02101
+" Como consequência desse acidente de trabalho, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)? ",O02201
+"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais? (Se houver mais de um, considere o mais grave)",O023
+ O(A) Sr(a) tem alguma sequela física permanente decorrente desse acidente de trabalho,O02401
+O(A) Sr(a) sabe seu peso? ,P00102
+"Peso - Informado (em kg)
+(3 inteiros e 1 casa decimal)",P00103
+"Peso - Final (em kg)
+(3 inteiros e 1 casa decimal)",P00104
+Quanto tempo faz que o(a) Sr(a) se pesou da última vez? ,P00201
+O(A) Sr(a) sabe sua altura? (mesmo que seja valor aproximado) ,P00402
+"Altura - Informada (em cm)
+(3 inteiros)",P00403
+"Altura - Final (em cm)
+(3 inteiros)",P00404
+Marca de imputação para altura e/ou peso referido,P00405
+A Sra está grávida no momento?,P005
+"Ontem o(a) Sr(a) comeu arroz, macarrão, polenta, cuscuz ou milho verde. ",P00601
+"Batata comum, mandioca/aipim/macaxeira, cará ou inhame.",P00602
+"Feijão, ervilha, lentilha ou grão de bico.",P00603
+"Carne de boi, porco, frango, peixe",P00604
+"Ovo (frito, cozido ou mexido ). ",P00605
+"Alface, couve, brócolis, agrião ou espinfre.",P00607
+"Abóbora, cenoura, batata doce ou quiabo/caruru. ",P00608
+"Tomate, pepino, abobrinha, berinjela, chuchu ou beterraba. ",P00609
+"Mamão, manga, melão amarelo ou pequi. ",P00610
+"Laranja, banana, maçã, abacaxi. ",P00611
+Leite,P00612
+"Amendoim, castanha de caju ou castanha do Brasil/Pará ",P00613
+ONTEM o(a) Sr(a) tomou ou comeu:Refrigerante,P00614
+Suco de fruta em caixinha ou lata ou refresco em pó. ,P00615
+ Bebida achocolatada ou iogurte com sabor. ,P00616
+Salgadinho de pacote ou biscoito/bolacha salgado.,P00617
+Biscoito/bolacha doce ou recheado ou bolo de pacote. ,P00618
+"Sorvete, chocolate, gelatina, flan ou outra sobremesa industrializada.",P00619
+"Salsicha, linguiça, mortadela ou presunto. ",P00620
+"Pão de forma, de cachorro-quente ou de hambúrguer.",P00621
+"Margarina, maionese, ketchup ou outros molhos industrializados. ",P00622
+"Macarrão instantâneo, sopa de pacote, lasanha congelada ou outro prato congelado comprado pronto industrilizado.",P00623
+Em quantos dias da semana o(a) Sr(a) costuma comer feijão? ,P006
+"Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? ",P00901
+"Em geral, o(a) Sr(a) costuma comer esse tipo de verdura ou legume: ",P01001
+"Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? ",P01101
+Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? ,P013
+Em quantos dias da semana o(a) Sr(a) costuma comer peixe? ,P015
+Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó ? ,P02001
+Que tipo de suco de caixinha/lata ou refresco em pó o(a) Sr(a) costuma tomar? (Ler as opções de resposta) ,P02101
+Em quantos dias da semana o(a) Sr(a) costuma tomar suco de fruta natural (incluída a polpa de fruta congelada)? ,P01601
+Em quantos dias da semana o(a) Sr(a) costuma comer frutas? ,P018
+"Em geral, quantas vezes por dia o(a) Sr(a) come frutas? ",P019
+Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? ,P02002
+Que tipo de refrigerante o(a) Sr(a) costuma tomar? ,P02102
+"Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (de origem animal: vaca, cabra, búfala etc.) ",P023
+Que tipo de leite o(a) Sr(a) costuma tomar? ,P02401
+"Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?",P02501
+"Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc? ",P02602
+"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:",P02601
+Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,P027
+Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica? ,P02801
+"Em geral, no dia que o(a) Sr(a) bebe, quantas doses de bebida alcoólica o(a) Sr(a) consome? ",P029
+"Nos últimos trinta dias, o(a) Sr(a) chegou a consumir cinco ou mais doses de bebida alcoólica em uma única ocasião? ",P03201
+"Quando isso ocorreu, qual foi o número máximo de doses consumido em uma única ocasião?",P03202
+"Nos últimos doze meses, quando consumiu bebida alcoólica, o(a) Sr(a) dirigiu logo depois de beber? ",P03001
+"Nos últimos doze meses, quantas vezes o(a) Sr(a) deixou de trabalhar, realizar afazeres domésticos, ir à escola, curso ou faculdade, fazer compras, etc. porque bebeu demais? ",P03301
+"Nos últimos doze meses, quantas vezes, depois/após ter bebido, o(a) Sr(a) não conseguiu lembrar o que aconteceu? ",P03302
+"Nos últimos doze meses, algum parente, amigo ou profissional de saúde disse que você estava bebendo demais ou para você parar de beber? ",P03303
+"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? ",P034
+Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,P035
+"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quanto tempo em horas dura essa atividade? Horas ",P03701
+"Em geral, no dia que o(a) Sr(a) pratica (praticava) exercício ou esporte, quanto tempo em minutos dura essa atividade?Minutos ",P03702
+Qual o exercício físico ou esporte que o(a) Sr(a) pratica (praticava) com mais frequência? (Anotar apenas o primeiro citado) ,P036
+"No seu trabalho, o(a) Sr(a) anda bastante a pé? ",P038
+"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? ",P039
+"Em uma semana normal, em quantos dias, o(a) Sr(a) anda bastante a pé ou faz essas atividades pesadas ou que requerem esforço físico no seu trabalho?",P03904
+"Em um dia normal, quanto tempo o(a) Sr(a) passa andando bastante a pé ou realizando essas atividades pesadas ou que requerem esforço físico no seu trabalho?Horas ",P03905
+"Em um dia normal, quanto tempo o(a) Sr(a) passa andando bastante a pé ou realizando atividades essas atividades pesadas ou que requerem esforço físico no seu trabalho? Minutos",P03906
+"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta? ",P040
+Quantos dias por semana o(a) Sr(a) faz algum trajeto a pé ou bicicleta? ,P04001
+"Quanto tempo o(a) Sr(a) gasta, por dia, para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?Horas ",P04101
+"Quanto tempo o(a) Sr(a) gasta, por dia, para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?Minutos",P04102
+"Nas suas atividades habituais (tais como ir a algum curso, escola ou clube ou levar alguém a algum curso, escola ou clube), quantos dias por semana o(a) Sr(a) faz alguma atividade que envolva deslocamento a pé ou bicicleta? (Exceto o trabalho)",P042
+"No dia em que o(a) Sr(a) faz essa(s) atividade(s), quanto tempo o(a) Sr(a) gasta no deslocamento a pé ou de bicicleta, considerando Ida e Volta?Horas",P04301
+"No dia em que o(a) Sr(a) faz essa(s) atividade(s), quanto tempo o(a) Sr(a) gasta no deslocamento a pé ou de bicicleta, considerando Ida e Volta?Minutos",P04302
+"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada) ",P044
+"Em uma semana normal, nas suas atividades domésticas, em quantos dias o(a) Sr(a) faz faxina pesada ou realiza atividades que requerem esforço físico intenso? (não considerar atividade doméstica remunerada)",P04401
+"Quanto tempo gasta, por dia, realizando essas atividades domésticas pesadas ou que requerem esforço físico intenso? (não considerar atividade doméstica remunerada) Horas ",P04405
+"Quanto tempo gasta, por dia, realizando essas atividades domésticas pesadas ou que requerem esforço físico intenso? ",P04406
+"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão? ",P04501
+"Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notícias, vídeos, jogar etc? ",P04502
+"Perto do seu domicílio, existe algum lugar público (praça, parque, rua fechada, praia) para fazer caminhada, realizar exercício ou praticar esporte? ",P046
+O(A) Sr(a) conhece algum programa público de estímulo à prática de atividade física no seu município? ,P04701
+O(A) Sr(a) participa desse programa público de estímulo à prática de atividade física no seu município? ,P04801
+Qual o principal motivo de não participar? ,P04902
+"Atualmente, o(a) Sr(a) fuma algum produto do tabaco? ",P050
+"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente? ",P051
+"E no passado, o(a) Sr(a) fumou algum produto do tabaco? ",P052
+Que idade o(a) Sr(a) tinha quando começou a fumar cigarro diariamente? ,P053
+"Em média, quanto fuma por dia ou por semana Cigarros industrializados",P05401
+Quantos por dia,P05402
+Quantos por semana,P05403
+"Em média, quanto fuma por dia ou por semana Cigarros de palha ou enrolados a mão? ",P05404
+Quantos por dia,P05405
+Quantos por semana,P05406
+"Em média, quanto fuma por dia ou por semana Cigarros de cravo ou de Bali? ",P05407
+Quantos por dia,P05408
+Quantos por semana,P05409
+"Em média, quanto fuma por dia ou por semana Cachimbos (considere cachimbos cheios)? ",P05410
+Quantos por dia,P05411
+Quantos por semana,P05412
+"Em média, quanto fuma por dia ou por semana Charutos ou cigarrilhas? ",P05413
+Quantos por dia,P05414
+Quantos por semana,P05415
+"Em média, quanto fuma por dia ou por semana Narguilé (sessões)? ",P05416
+Quantos por dia,P05417
+Quantos por semana,P05418
+"Em média, quanto fuma por dia ou por semana Outro",P05419
+Quantos por dia,P05421
+Quantos por semana,P05422
+Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez? ,P055
+"Em média, quantos cigarros industrializados o(a) Sr(a) fumava por dia ou por semana?",P058
+Quantos por dia,P05801
+Quantos por semana,P05802
+Número de anos que parou de fumar,P05901
+Número de meses que parou de fumar,P05902
+Número de semanas que parou de fumar,P05903
+Número de dias que parou de fumar,P05904
+"Nos últimos doze meses, durante algum atendimento, por médico ou outro profissional de saúde, foi perguntado se o(a) Sr(a) fumava? ",P05905
+"Nos últimos doze meses, durante algum desses atendimentos o(a) Sr(a) foi aconselhado a parar de fumar? ",P05906
+"Durante os últimos doze meses, o(a) Sr(a) tentou parar de fumar? ",P060
+"Durante os últimos doze meses, quando o(a) Sr(a) tentou parar de fumar, usou aconselhamento por profissional de saúde incluindo unidades de saúde que oferecem tratamento para parar de fumar?  ",P06101
+O(A) Sr(a) pagou algum valor por esse aconselhamento?  ,P06102
+Esse aconselhamento foi feito pelo SUS? ,P06103
+"Durante os últimos 12 meses, quando o Sr(a) tentou parar de fumar, usou medicamento(s) que auxilia( m) as pessoas no processo de deixar de fumar, tais como adesivo, pastilha, spray, inalador, goma de mascar, bupropiona, champix/vareniclina, nortriptilina, Clonidina, etc? ",P06104
+O(A) Sr(a) pagou algum valor por esse(s) medicamento(s)?  ,P06105
+Algum desses medicamentos foi obtido em serviço público de saúde?,P06106
+"Durante os últimos 12 meses, por que o(a) Sr(a) não usou nem aconselhamento nem medicamento para tentar parar de fumar? ",P06302
+"ATUALMENTE, o (a) Sr (a) masca fumo, usa rapé ou algum outro produto do tabaco que não faz fumaça?",P067
+"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)? ",P06701
+Com que frequência alguém fuma dentro do seu domicílio? ,P068
+"Nos últimos trinta dias, o(a) Sr(a) viu alguma propaganda ou anúncio de cigarros nos pontos de venda de cigarros? ",P069
+"Nos últimos 30 dias, o(a) Sr(a) viu alguma propaganda ou anúncio de cigarros na internet, incluindo redes sociais (Facebook, Instagram, Twitter, WhatsApp, YouTube, Snapchat etc)? ",P06901
+Viu ou ouviu informações nos jornais ou revistas?,P07004
+Viu ou ouviu informações na televisão?,P07005
+Viu ou ouviu informações no rádio?,P07006
+"Viu ou ouviu informações na internet, incluindo redes sociais?",P07007
+"Nos últimos trinta dias, viu alguma foto ou advertência sobre os riscos de fumar nos maços de cigarros? ",P07101
+"NOS ÚLTIMOS 30 DIAS, as advertências nos maços de cigarro que o(a) Sr(a) viu o levaram a pensar em parar de fumar? ",P07201
+Quando foi a última vez que o (a) Sr(a) teve sua pressão arterial medida?,Q00101
+Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)? ,Q00201
+Essa hipertensão arterial (pressão alta) ocorreu apenas durante algum período de gravidez? ,Q00202
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de hipertensão arterial (pressão alta)? ,Q003
+O(A) Sr(a) vai ao médico/serviço de saúde regularmente para acompanhamento da hipertensão arterial (pressão alta) ? ,Q00401
+Qual o principal motivo do(a) Sr (a) não visitar o médico/serviço de saúde regularmente para acompanhamento da hipertensão arterial (pressão alta)? ,Q00502
+Algum médico já lhe receitou algum medicamento para a hipertensão arterial (pressão alta)? ,Q00503
+"Nas duas últimas semanas, o(a) Sr(a) tomou os medicamentos para controlar a hipertensão arterial (pressão alta)? ",Q00601
+Qual o principal motivo para o(a) Sr(a) não ter tomado os medicamentos receitados para a hipertensão arterial (pressão alta)? ,Q00602
+Algum dos medicamentos para hipertensão arterial foi obtido no “Aqui tem farmácia popular”? ,Q00801
+Algum dos medicamentos para hipertensão arterial foi obtido em serviço público de saúde? ,Q009
+O(A) Sr(a) pagou algum valor pelos medicamentos? ,Q010
+Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da hipertensão arterial? ,Q01101
+"Na última vez que recebeu atendimento médico para hipertensão arterial, onde o(a) Sr(a) foi atendido? ",Q01202
+"O(A) Sr(a) pagou algum valor por este atendimento? (Entrevistador: Se o(a) entrevistado(a) responder que pagou mas teve reembolso total, marque a opção 2) ",Q014
+Esse atendimento foi feito pelo SUS? ,Q015
+"Na última consulta, o médico que o(a) atendeu era o mesmo das consultas anteriores? ",Q016
+"Na última consulta, o médico viu os exames das consultas passadas? ",Q017
+Orientações para manter uma alimentação saudável,Q018010
+Manter o peso adequado,Q018011
+Ingerir menos sal,Q018012
+Praticar atividade física regular,Q018013
+Não fumar,Q018014
+Não beber em excesso,Q018015
+Fazer o acompanhamento regular com profissional de saúde,Q018016
+"Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar",Q018017
+Foi pedido exame de sangue?,Q01910
+Realizou o exame de sangue?,Q019101
+Foi pedido exame de urina?,Q01911
+Realizou o exame de urina?,Q019111
+Foi pedido eletrocardiograma?,Q01912
+Realizou o eletrocardiograma?,Q019121
+Foi pedido teste de esforço?,Q01913
+Realizou o teste de esforço?,Q019131
+"Em algum dos atendimentos para hipertensão arterial, houve encaminhamento para alguma consulta com médico especialista, tais como cardiologista ou nefrologista? ",Q022
+O(A) Sr(a) foi às consultas com o médico especialista? ,Q02301
+Alguma vez o(a) Sr(a) se internou por causa da hipertensão ou de alguma complicação? ,Q026
+Há quanto tempo foi a última internação por causa da hipertensão ou de alguma complicação?,Q02701
+"Em geral, em que grau a hipertensão ou alguma complicação da hipertensão limita as suas atividades habituais (como trabalhar, estudar, realizar afazeres domésticos etc.)? ",Q028
+"Quando foi a última vez que o(a) Sr(a) fez exame de sangue para medir a glicemia, isto é, o açúcar no sangue? ",Q02901
+Algum médico já lhe deu o diagnóstico de diabetes? ,Q03001
+Esse diabetes ocorreu apenas durante algum período de gravidez? ,Q03002
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico do diabetes? ,Q031
+O(A) Sr(a) vai ao médico/serviço de saúde regularmente para acompanhamento do diabetes? ,Q03201
+Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente para acompanhamento do diabetes? ,Q03302
+Algum médico já lhe receitou algum medicamento oral para o diabetes? ,Q03303
+"Nas duas últimas semanas, por causa do diabetes, o(a) Sr(a) tomou os medicamentos orais para baixar o açúcar ?",Q03403
+Qual o principal motivo de ___ não ter tomado todos os medicamentos orais receitados para controlar o diabetes? ,Q03404
+Algum dos medicamentos orais para diabetes foi obtido no “Aqui tem Farmácia Popular”? ,Q03601
+Algum dos medicamentos orais para diabetes foi obtido em serviço público de saúde? ,Q03701
+O(A) Sr(a) pagou algum valor pelos medicamentos orais para diabetes? ,Q03801
+Algum médico já lhe receitou insulina para controlar o Diabetes? ,Q03802
+Usou a insulina receitada na última prescrição? ,Q03803
+Qual o principal motivo de ___não ter usado a insulina para controlar o diabetes? ,Q03804
+A insulina foi obtida no Aqui tem Farmácia Popular (PFP)? ,Q03805
+A insulina foi obtida em serviço público de saúde? ,Q03806
+O(A) Sr(a) pagou pela insulina para controlar o diabetes? ,Q03807
+Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa do diabetes? ,Q03901
+"Na última vez que recebeu atendimento médico para diabetes, onde o(a) Sr(a) foi atendido? ",Q04002
+O(A) Sr(a) pagou algum valor por esse atendimento?,Q042
+Esse atendimento foi feito pelo SUS? ,Q043
+"Na última consulta, o médico que o(a) atendeu era o mesmo das consultas anteriores? ",Q044
+"Na última consulta, o médico viu os exames das consultas passadas? ",Q045
+Orientações para manter uma alimentação saudável,Q046011
+Manter o peso adequado,Q046012
+Praticar atividade física regular,Q046013
+Não fumar,Q046014
+Não beber em excesso,Q046015
+Diminuir o consumo de massas e pães,Q046016
+"Evitar o consumo de açúcar, bebidas açucaradas e doces",Q046017
+Medir a glicemia em casa,Q046018
+Examinar os pés regularmente,Q046019
+"Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar",Q046020
+Fazer acompanhamento regular com profissional de saúde,Q046021
+Foi pedido Glicemia (açúcar no sangue) ?,Q04707
+Realizou o exame?,Q047071
+Foi pedido Hemoglobina glicada?,Q04708
+Realizou o exame?,Q047081
+Foi pedido curva glicêmica?,Q04709
+Realizou o exame?,Q047091
+Foi pedido exame de urina?,Q04710
+Realizou o exame?,Q047101
+Foi pedido colesterol e/ou triglicerídeos?,Q04711
+Realizou o exame?,Q047111
+"Em algum dos atendimentos para diabetes, houve encaminhamento para alguma consulta com médico especialista, tal como cardiologista, endocrinologista, nefrologista ou oftalmologista? ",Q050
+O(A) Sr(a) foi às consultas com médico especialista? ,Q05101
+Quando foi a última vez que realizaram um exame de vista ou fundo de olho em que dilataram sua pupila? ,Q05301
+Quando foi a última vez que um médico ou profissional de saúde examinou seus pés para verificar sensibilidade ou presença de feridas ou irritações? ,Q05401
+Problemas na vista ,Q055011
+Infarto ou AVC (Acidente Vascular cerebral) /derrame ou outro problema circulatório ,Q055012
+Problema nos rins ,Q055013
+"Úlcera/ferida nos pés ou amputação de membros (pés, pernas, mãos ou braços) ",Q055014
+Coma diabético ,Q055015
+Outro (Especifique),Q055016
+Alguma vez o(a) Sr(a) se internou por causa do diabetes ou de alguma complicação? ,Q056
+Há quanto tempo foi a última internação por causa do diabetes ou de alguma complicação?,Q05701
+"Em geral, em que grau o diabetes ou alguma complicação do diabetes limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q058
+Quando foi a última vez que o(a) Sr(a) fez exame de sangue para medir o colesterol e triglicerídeos? ,Q05901
+Algum médico já lhe deu o diagnóstico de colesterol alto? ,Q060
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de colesterol alto? ,Q061
+Recomendação para manter uma alimentação saudável,Q06207
+Recomendação para manter o peso adequado,Q06208
+Recomendação para praticar atividade física regular,Q06209
+Recomendação para tomar medicamentos,Q06210
+Recomendação para não fumar,Q06211
+Recomendação para fazer acompanhamento regular com profissional de saúde,Q06212
+"Algum médico já lhe deu o diagnóstico de uma doença do coração, tal como infarto, angina, insuficiência cardíaca ou outra?",Q06306
+Infarto,Q06307
+ Angina ,Q06308
+Insuficiência cardíaca ,Q06309
+Arritmia ,Q06310
+Outra,Q06311
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico da doença do coração? ,Q064
+Faz atualmente por causa da doença do coração: Dieta?,Q06506
+Faz atualmente por causa da doença do coração: prática de atividade física regular?,Q06507
+Faz atualmente por causa da doença do coração: toma medicamentos regularmente?,Q06508
+Faz atualmente por causa da doença do coração acompanhamento regular?,Q06509
+O(A) Sr(a) já fez alguma cirurgia de ponte de safena ou cateterismo com colocação de stent ou angioplastia?,Q06601
+"Em geral, em que grau a doença do coração limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)?",Q067
+Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?,Q068
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico do derrame (ou AVC)? ,Q070
+Faz atualmente por causa do derrame (ou AVC) Dieta?,Q07208
+Faz atualmente por causa do derrame (ou AVC) Fisioterapia?,Q07209
+Faz atualmente por causa do derrame (ou AVC) Outras terapias de reabilitação?,Q07210
+Faz atualmente por causa do derrame (ou AVC) Toma aspirina regularmente?,Q07211
+Faz atualmente por causa do derrame (ou AVC) Toma outros medicamentos? ,Q07212
+Faz acompanhamento regular com profissional de saúde?,Q07213
+"Em geral, em que grau o derrame (ou AVC) limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q073
+Algum médico já lhe deu o diagnóstico de asma (ou bronquite asmática)? ,Q074
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de asma? ,Q075
+"Nos últimos doze meses, o(a) Sr(a) teve alguma crise de asma? ",Q076
+Algum médico já lhe receitou algum medicamento para asma (ou bronquite asmática)? ,Q07601
+. Nas duas últimas semanas o(a) Sr(a) usou os medicamentos orais por causa da asma (ou bronquite asmática) ?,Q07704
+Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? ,Q07705
+Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido em serviço público de saúde? ,Q07706
+O(A) Sr(a) pagou algum valor pelos medicamentos orais para asma? ,Q07707
+Nas duas últimas semanas o(a) Sr(a) usou aerossóis (bombinha) por causa da asma (ou bronquite asmática) ,Q07708
+Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? ,Q07709
+Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido em serviço público de saúde?,Q07710
+O(A) Sr(a) pagou algum valor pelos aerossóis (bombinha) para asma? ,Q07711
+"Em geral, em que grau a asma limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? ",Q078
+Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? ,Q079
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de artrite ou reumatismo?,Q080
+Recomendação para praticar atividade física regularmente ,Q08107
+Recomendação para Fazer fisioterapia ,Q08108
+Recomendação para Usar medicamentos ou injeções ,Q08109
+"Recomendação para Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar",Q08110
+Recomendação para Fazer acompanhamento regular com profissional de saúde ,Q08111
+O(A) Sr(a) já fez alguma cirurgia por causa da artrite ou reumatismo? ,Q082
+"Em geral, em que grau a artrite ou reumatismo limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? ",Q083
+"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? ",Q084
+Que idade o(a) Sr(a) tinha quando começou o problema na coluna? ,Q085
+Pratica exercício regularmente por causa do problema na coluna,Q08607
+Faz fisioterapia por causa do problema na coluna ,Q08608
+Usa medicamentos ou injeções ,Q08609
+"Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar por causa do problema na coluna",Q08610
+Faz acompanhamento regular com profissional de saúde por causa do problema na coluna,Q08611
+"Em geral, em que grau o problema na coluna limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? ",Q087
+Algum médico já lhe deu o diagnóstico de DORT? ,Q088
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de DORT?,Q08901
+Recomendado para DORT Praticar exercício regularmente,Q09007
+Recomendado para DORT Fazer fisioterapia ,Q09008
+Recomendado para DORT Usar medicamentos ou injeções ,Q09009
+"Recomendado para DORT Fazer uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar",Q09010
+Recomendado para DORT Fazer acompanhamento regular com profissional de saúde ,Q09011
+"Em geral, em que grau o DORT limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q091
+Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,Q092
+Algum médico já lhe receitou algum medicamento para depressão?,Q09201
+Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,Q09202
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão? ,Q09301
+O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,Q094
+Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão? ,Q09502
+Por causa da depressão Faz psicoterapia ,Q09605
+Por causa da depressão Toma medicamentos,Q09606
+"Por causa da depressão Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar ",Q09607
+Algum dos medicamentos para depressão foi obtido em serviço público de saúde? ,Q098
+O(A) Sr(a) pagou algum valor pelos medicamentos? ,Q100
+Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão? ,Q10101
+"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido? ",Q10202
+O(A) Sr(a) pagou algum valor por esse atendimento?,Q104
+Esse atendimento foi feito pelo SUS? ,Q105
+"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo? ",Q106
+O(A) Sr(a) conseguiu ir às consultas com profissional especialista de saúde mental? ,Q10701
+"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? ",Q109
+"Algum médico ou profissional de saúde (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? ",Q11006
+Diagnóstico de Esquizofrenia ,Q11007
+Diagnóstico de Transtorno bipolar ,Q11008
+Diagnóstico de TOC (Transtorno obsessivo compulsivo) ,Q11009
+Outro diagnóstico,Q11010
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? ,Q111
+O(A) Sr(a) visita o médico/serviço de saúde regularmente por causa dessa doença mental ou só quando tem algum problema?,Q11201
+Por causa da doença mental faz psicoterapia ,Q11405
+Por causa da doença mental usa medicamentos ou injeções ,Q11406
+"Por causa da doença mental Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan ou alguma outra prática integrativa e complementar ",Q11407
+Por causa da doença mental Faz acompanhamento regular com profissional de saúde,Q11408
+"Em geral, em que grau essa doença mental limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q115
+"Algum médico já lhe deu o diagnóstico de alguma outra doença crônica no pulmão, tais como enfisema pulmonar, bronquite crônica ou DPOC (Doença Pulmonar Obstrutiva Crônica)?",Q11604
+Diagnóstico de enfisema pulmonar,Q11605
+Diagnóstico de bronquite crônica ,Q11606
+Diagnóstico de outro ,Q11607
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico dessa(s) doença(s) no pulmão? ,Q11701
+"Por causa da doença no pulmão Usa medicamentos (inaladores, aerossol ou comprimidos) ",Q11806
+Por causa da doença no pulmão Usa oxigênio ,Q11807
+Por causa da doença no pulmão Fisioterapia respiratória ,Q11808
+Por causa da doença no pulmão Faz acompanhamento regular com profissional de saúde,Q11809
+"Em geral, em que grau a doença do pulmão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q119
+Algum médico já lhe deu diagnóstico de câncer? ,Q120
+Foi um diagnóstico de câncer de pele? ,Q12102
+O câncer de pele diagnosticado foi do tipo melanoma?,Q12103
+Diagnóstico de outro câncer? Pulmão,Q12104
+Diagnóstico de outro câncer? Cólon e reto (intestino) ,Q12105
+Diagnóstico de outro câncer? Estômago,Q12106
+Diagnóstico de outro câncer? Mama (só para mulheres) ,Q12107
+Diagnóstico de outro câncer? Colo de útero (só para mulheres) ,Q12108
+Diagnóstico de outro câncer? Próstata (só para homens) ,Q12109
+"Diagnóstico de outro câncer? Boca, Orofaringe ou Laringe ",Q121010
+Diagnóstico de outro câncer? Bexiga,Q121011
+Diagnóstico de outro câncer? Linfoma ou leucemia ,Q121012
+Diagnóstico de outro câncer? Cérebro,Q121013
+Diagnóstico de outro câncer? Ovário (só para mulheres) ,Q121014
+Diagnóstico de outro câncer? Tireoide,Q121015
+Diagnóstico de outro câncer?,Q121016
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? ,Q12201
+"Em geral, seu tratamento, ou algum problema provocado pelo câncer, limita as suas atividades profissionais ou habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? ",Q12301
+Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? ,Q124
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de insuficiência renal crônica? ,Q125
+"O Sr(a) fez transplante de rim, por causa da insuficiência renal crônica? ",Q12501
+Toma medicamentos por causa da insuficiência renal crônica?,Q12607
+Hemodiálise por causa da insuficiência renal crônica?,Q12608
+Diálise peritoneal por causa da insuficiência renal crônica?,Q12609
+Faz acompanhamento regular com profissional de saúde?,Q12610
+"Em geral, em que grau a insuficiência renal crônica limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? ",Q127
+Algum médico já lhe deu algum diagnóstico de outra doença crônica (física ou mental) ou doença de longa duração (de mais de 6 meses de duração)? ,Q128
+"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? ",Q132
+"Nas últimas duas semanas, por quantos dias usou o medicamento para dormir? ",Q133
+O medicamento que o(a) Sr(a) usa (usou) para dormir foi receitado por médico?,Q134
+ O que o(a) Sr(a) usa para fazer a limpeza de sua boca Escova de dente,U00204
+ O que o(a) Sr(a) usa para fazer a limpeza de sua boca Pasta de dente,U00205
+O que o(a) Sr(a) usa para fazer a limpeza de sua boca Fio dental,U00206
+"O que o(a) Sr(a) usa para fazer a limpeza de sua boca Enxaguatório bucal (como plax, colgate, cepacol)",U00207
+O que o(a) Sr(a) usa para fazer a limpeza de sua boca Outros,U00208
+Com que frequência o(a) Sr(a) usa escova de dentes para a higiene bucal,U00101
+ Com que frequência o(a) Sr(a) troca a sua escova de dente por uma nova,U00401
+"Em geral, como o(a) Sr(a) avalia sua saúde bucal (dentes e gengivas)",U005
+Que grau de dificuldade o(a) Sr(s) tem para se alimentar por causa de problemas com seus dentes ou dentadura?,U006
+Qual o principal motivo que o(a) fez consultar o dentista na última vez,U00902
+Onde foi a última consulta odontológica,U01002
+Como o(s) Sr(a) conseguiu a consulta odontológica:,U014
+"O (A) Sr (a) pagou algum valor por esta consulta odontológica (Entrevistador: Se o(a) entrevistado (a) responder que pagou, mas teve reembolso total, marque a opção 2)",U02001
+ Esta consulta odontológica foi feita pelo SUS,U02101
+" Lembrando-se dos seus dentes permanentes de cima, o(a) Sr(a) perdeu algum",U02302
+Quantos dentes permanentes de cima perdeu?,U02303
+"Lembrando-se dos seus dentes permanentes de baixo, o(a) Sr(a) perdeu algum",U02402
+Quantos dentes permanentes de baixo perdeu?,U02403
+"O(A) Sr(a) usa algum tipo de prótese dentária (dente artificial, implante, dentadura, chapa)",U02501
+Foi assegurada a privacidade para aplicação desse módulo,V001
+O questionário foi preenchido por:,V00101
+"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",V00201
+"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",V00202
+"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento? ",V00203
+"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",V00204
+"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",V00205
+"Nos últimos doze meses, quantas vezes isso aconteceu com você?",V003
+"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",V006
+Onde isso ocorreu?,V007
+"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",V01401
+"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",V01402
+"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",V01403
+"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",V01404
+"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",V01405
+"Nos últimos doze meses, quantas vezes isso aconteceu?",V015
+Quem fez isso com você,V018
+Onde isso ocorreu?,V019
+"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",V02701
+"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",V02702
+" E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",V02801
+"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",V02802
+"Nos últimos doze meses, quantas vezes isso aconteceu?",V029
+Quem fez isso com você,V032
+ Onde isso ocorreu?,V033
+"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",V034
+"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos? ",V03501
+"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas? ",V03502
+"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",V03503
+"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",V036
+"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",V037
+Onde foi realizado este atendimento de saúde,V038
+"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",V039
+O (a) Sr. (a) está com tosse há três semanas ou mais? ,T001
+O (a) Sr (a) tem mancha com dormência ou parte da pele com dormência?,T002
+Algum médico já lhe deu o diagnóstico de doença de Chagas? ,T003
+"Nos últimos 12 meses, algum médico lhe deu diagnóstico de doença/infecção sexualmente transmissível?",T004
+"Nesse diagnóstico (se houver mais de um, considere o último) de doença/infecção sexualmente transmissível, o(a) Sr(a) fez algum tipo de tratamento com prescrição médica? ",T005
+Nesse diagnóstico recebeu orientações? Usar regularmente preservativo ,T00601
+Nesse diagnóstico recebeu orientações? Informar aos (às) parceiros (as) da infecção ,T00602
+Nesse diagnóstico recebeu orientações? Fazer o teste de HIV ,T00603
+Nesse diagnóstico recebeu orientações? Fazer o teste de sífilis ,T00604
+Nesse diagnóstico recebeu orientações? Fazer os testes para as hepatites B e C ,T00605
+Nesse diagnóstico recebeu orientações? Tomar vacina para hepatite B ,T00606
+Que idade tinha quando teve relações sexuais pela primeira vez? ,Y001
+Idade do morador quando teve relações sexuais pela primeira vez,Y00101
+Nos últimos doze meses teve relações sexuais? ,Y002
+"Nos últimos doze meses nas relações sexuais que teve, com que frequência usou camisinha:",Y003
+"Nos últimos doze meses na última relação sexual que teve, foi usada camisinha masculina ou feminina? ",Y004
+Qual o principal motivo por não ter usado camisinha?,Y005
+"Nos últimos doze meses, alguma vez procurou algum serviço público (posto, centro de saúde, hospital público, hospital conveniado do SUS, agente comunitário de saúde) para obter camisinha masculina ou feminina? ",Y006
+Por que não procurou algum serviço público saúde para obter camisinha masculina ou feminina? ,Y007
+Quando foi a última vez que o(a) sr(a) consultou com um(a) médico(a)?,H001
+Essa consulta foi o seu primeiro atendimento com esse(a) médico(a)?,H002
+Por qual motivo o(a) sr(a) precisou consultar com um(a) médico(a),H003
+Onde procurou o atendimento médico por este motivo?,H004
+"Você geralmente procura “esse(a) médico(a)"" quando adoece ou precisa de conselhos sobre a sua saúde?",H005
+"“Esse(a)"" é o(a) médico(a) que melhor conhece você como pessoa?",H006
+"“Esse(a)"" é o(a) médico(a) mais responsável por seu atendimento de saúde?",H007
+"Quando você tem um novo problema de saúde, você vai à “esse(a) médico(a)"" antes de ir a outro serviço de saúde?",H008
+"Quando o(a) “serviço de saúde” está aberto(a), você consegue aconselhamento rápido pelo telefone se precisar?",H009
+"É difícil para você conseguir atendimento médico no(a) ""serviço de saúde” quando pensa que é necessário?",H010
+"Quando você vai ao(à) ""serviço de saúde"", é o(a) mesmo(a) médico(a) que atende você todas as vezes? ",H011
+Você se sente à vontade contando as suas preocupações ou problemas à “esse(a) médico(a)”?,H012
+“Esse(a) médico(a)” sabe quais problemas são mais importantes para você?,H013
+"Se fosse muito fácil, você mudaria do(a) “serviço de saúde” para outro serviço de saúde?",H014
+"Você foi consultar qualquer tipo de especialista ou serviço especializado no período em que você está em acompanhamento com “esse(a) médico(a)""?",H015
+"“Esse(a) médico(a)"" sugeriu (indicou, encaminhou) que você fosse consultar com esse(a) especialista ou serviço especializado? ",H016
+“Esse(a) médico(a)” escreveu alguma informação para o(a) especialista sobre o motivo dessa consulta?,H017
+“Esse(a) médico(a)” sabe quais foram os resultados dessa consulta?,H018
+“Esse(a) médico(a)” pareceu interessado(a) na qualidade do cuidado que você recebeu no(a) especialista ou serviço especializado (perguntou se você foi bem ou mal atendido(a))? ,H019
+"Se quisesse, você poderia ler (consultar) o seu prontuário médico no(a) ""serviço de saúde""?",H020
+"Aconselhamento para problemas de saúde mental (ex.: ansiedade, depressão)",H021
+Aconselhamento sobre como parar de fumar,H022
+"Aconselhamento sobre as mudanças que acontecem com o envelhecimento (ex.: diminuição da memória, risco de cair)",H023
+"Orientações sobre alimentação saudável, boa higiene e sono adequado (dormir suficientemente)",H024
+Orientações sobre exercícios físicos apropriados para você,H025
+Verificar e discutir os medicamentos que você está usando,H026
+Como prevenir quedas,H027
+“Esse(a) médico(a)” pergunta as suas ideias e opiniões (o que você pensa) ao planejar o tratamento e cuidado para você ou para um membro da sua família? ,H028
+“Esse(a) médico(a)” se reuniria com membros de sua família se você achasse necessário?,H029
+No seu seviço de saúde são realizadas pesquisas com os pacientes para ver se os serviços estão satisfazendo (atendendo) as necessidades das pessoas,H030
+Antropometria aferida do morador selecionado,W001
+"Peso - 1ª pesagem (em kg)
+(3 inteiros e 1 casa decimal)",W00101
+"Peso - 2ª pesagem (em kg)
+(3 inteiros e 1 casa decimal)",W00102
+"Peso - Final (em kg)
+(3 inteiros e 1 casa decimal)",W00103
+"Altura - 1ª medição (em cm)
+(3 inteiros e 1 casa decimal)",W00201
+"Altura - 2ª medição (em cm)
+(3 inteiros e 1 casa decimal)",W00202
+"Altura - Final (em cm)
+(3 inteiros e 1 casa decimal)",W00203
+Peso do domicílio e dos moradores sem calibração,V0028
+Peso do morador selecionado sem calibração,V0029
+Peso do morador selecionado para antropometria sem calibração,V0030
+Peso do domicílio e dos moradores com calibração,V00281
+Peso do morador selecionado com calibração,V00291
+Peso do morador selecionado para antropometria com calibração,V00301
+Projeção da população,V00282
+Projeção da população para moradores selecionados,V00292
+Projeção da população para moradores selecionados para antropometria,V00302
+Domínio de projeção para domicílio e moradores,V00283
+Domínio de projeção para morador selecionado,V00293
+Domínio de projeção para morador selecionado para antropometria,V00303
+"Número de componentes do domicílio (exclusive as pessoas cuja condição na família era pensionista, empregado doméstico ou parente do empregado doméstico) ",VDC001
+Total de moradores com 15 anos ou mais,VDC003
+Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) padronizado para o Ensino Fundamental -  SISTEMA DE 9 ANOS,VDD004A
+Condição em relação à força de trabalho na semana de referência para pessoas de 14 anos ou mais de idade,VDE001
+Condição de ocupação na semana de referência para pessoas de 14 anos ou mais de idade,VDE002
+"Rendimento domiciliar 
+(exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)",VDF002
+"Rendimento domiciliar per capita
+(exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)",VDF003
+"Faixa de rendimento domiciliar per capita (exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)",VDF004
+Faixa de tempo gasto por dia no deslocamento casa-trabalho pelas pessoas ocupadas que se deslocavam para o trabalho,VDM001
+Tipo de cigarro industrializado comprado,VDP001
+"Data de geração do arquivo de microdados. Data ordenada na forma: ano (4 algarismos), mês (2) e dia (2) -  AAAAMMDD",VDDATA
