@@ -2,6 +2,8 @@ SELECT
     f.created_at,
     fh.freight_id,
     f.driver_id,
+    f.company_id,
+    f.contract_days as contract_days_final,
     freights_type(f.type) AS tipo,
     EXTRACT(EPOCH FROM (fh.old_value::timestamp - fh.new_value::timestamp)) / 86400 AS dias_reducao,
     driver_scores_group(ds."group") AS nivel_px
@@ -16,4 +18,5 @@ WHERE fh."key" = 'end_at'
   AND fh.old_value > fh.new_value
   AND f.status = '300'
   AND fh.created_at > fh.new_value::timestamp
+  and f."type" <> '2'
 ORDER BY fh.freight_id DESC;
