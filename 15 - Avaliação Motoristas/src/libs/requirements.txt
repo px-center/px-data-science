@@ -1,0 +1,11 @@
+pandas
+numpy
+google-cloud-bigquery
+google-auth
+functions-framework
+db-dtypes
+psycopg2-binary
+python-dotenv
+matplotlib
+seaborn
+

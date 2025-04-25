@@ -1,0 +1,76 @@
+SELECT 
+        dr.driver_id,
+        dr.created_at,
+        f.contract_days,
+        dr.rating
+    FROM driver_ratings dr 
+    LEFT JOIN freights f ON f.id = dr.freight_id 
+order by driver_id, created_at 
+
+
+
+-- WITH quarter AS ( 
+--     SELECT 
+--         dr.driver_id,
+--         dr.created_at,
+--         f.contract_days,
+--         dr.rating,
+--         COALESCE(
+--             FLOOR(EXTRACT(YEAR FROM AGE(CURRENT_DATE, dr.created_at)) * 4 + 
+--             EXTRACT(QUARTER FROM AGE(CURRENT_DATE, dr.created_at)) - 1), 
+--             0
+--         ) AS quarter_relative
+--     FROM driver_ratings dr 
+--     LEFT JOIN freights f ON f.id = dr.freight_id 
+-- ),
+-- quarter_sums AS (
+--     SELECT 
+--         driver_id,
+--         quarter_relative,
+--         SUM(contract_days) AS total_contract_days_quarter
+--     FROM quarter
+--     GROUP BY driver_id, quarter_relative
+-- ),
+-- apply_weights as (
+-- SELECT 
+--     q.*,
+--     q.rating * q.contract_days/nullif(qs.total_contract_days_quarter,0) as rating_weight,
+--     (1 - qs.quarter_relative / 4) as quarter_weight,
+--     q.rating * q.contract_days/nullif(qs.total_contract_days_quarter,0) * (1 - qs.quarter_relative / 4) as rating_quarter_weight,
+--     qs.total_contract_days_quarter
+-- FROM quarter q
+-- LEFT JOIN quarter_sums qs 
+--     ON q.driver_id = qs.driver_id 
+--     AND q.quarter_relative = qs.quarter_relative
+-- WHERE q.quarter_relative <= 3
+-- ORDER BY q.driver_id, q.created_at
+-- ),
+-- apply_grouping as (
+-- select driver_id, quarter_relative,
+-- coalesce(sum(rating_quarter_weight), 0) as quarter_rating
+-- from apply_weights
+-- group by driver_id, quarter_relative
+-- order by driver_id, quarter_relative
+-- )
+-- select driver_id,
+-- sum(quarter_rating) / 2.5 as final_rating
+-- from apply_grouping
+-- group by driver_id
+
+
+
+
+
+-- SELECT 
+--     dr.driver_id,
+--     DATE_TRUNC('month', dr.created_at) AS month,
+--     (AVG(f.contract_days)) AS average_contract_days,
+--     AVG(dr.rating) AS average_rating
+-- FROM driver_ratings dr
+-- LEFT JOIN freights f ON f.id = dr.freight_id
+-- GROUP BY dr.driver_id, DATE_TRUNC('month', dr.created_at)
+
+
+
+
+

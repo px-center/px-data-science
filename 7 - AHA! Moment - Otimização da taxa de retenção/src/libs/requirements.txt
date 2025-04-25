@@ -14,4 +14,9 @@ seaborn
 geopandas
 scikit-learn
 tabulate
+graphviz
+fitz
+jupyterlab 
+nbconvert 
+ipykernel
 

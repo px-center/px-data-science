@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Relatório de Estudo - Análise de Ocorrências</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      padding: 2rem;
+      max-width: 900px;
+      background-color: #f9f9f9;
+      color: #111;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      color: #2E4053;
+    }
+    figure {
+      margin: 2rem auto;
+      text-align: center;
+    }
+    figure img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+    }
+    figcaption {
+      margin-top: 0.5rem;
+      font-style: italic;
+      font-size: 0.9rem;
+    }
+    p {
+      text-align: justify;
+      margin-bottom: 1.2rem;
+    }
+    .citacao {
+      font-style: italic;
+      font-size: 0.95rem;
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Relatório de Estudo: Análise de Ocorrências e Pontuação de Motoristas</h1>
+
+  <h2>1. Apresentação</h2>
+
+  <p>A crescente demanda por segurança, eficiência e responsabilidade operacional nas atividades de transporte tornou essencial o desenvolvimento de sistemas que avaliem o comportamento dos motoristas ao longo de suas jornadas profissionais.</p>
+  <p>Este estudo nasceu da necessidade de compreender como diferentes tipos de ocorrências impactam a pontuação atribuída aos motoristas dentro da plataforma de agenciamento. O objetivo é identificar padrões e critérios que possam embasar decisões mais justas, transparentes e eficazes.</p>
+  <p>A premissa central do estudo é que a análise estatística dessas pontuações e suas variações ao longo do tempo pode revelar não apenas quais comportamentos são mais recorrentes, mas também quais são mais penalizados e como essas penalidades evoluem em revisões posteriores.</p>
+  <p>Além de cumprir um papel de diagnóstico, o estudo também pretende fornecer insumos para ações corretivas e preventivas. A expectativa é que os achados contribuam para o aprimoramento das políticas internas de avaliação, comunicação com os motoristas e mecanismos de incentivo.</p>
+
+  <h2>2. Metodologia e Resultados</h2>
+
+  <p>Utilizou-se como base uma planilha contendo mais de 67 mil registros. Cada linha representa uma ocorrência registrada para um motorista, com informações como data, tipo da ocorrência, descrição, pontuação atribuída inicialmente, ajustada e pontuação final determinada por um comitê.</p>
+  <p>A metodologia envolveu o levantamento das categorias de eventos mais frequentes e mais impactantes. Observou-se uma concentração excepcional na categoria "Dia agenciado", com mais de 90% dos registros, exigindo tratamento separado para evitar distorções.</p>
+  <p>Foi possível comparar pontuações atribuídas inicialmente com suas revisões posteriores, revelando diferenças de severidade entre áreas automatizadas e comitês de revisão.</p>
+  <p>Dividiu-se a pontuação em faixas, com uso de quartis, para entender a distribuição da gravidade dos eventos. Eventos como “Uso de substâncias ilícitas” e “Agressão física” sempre apareceram nos quartis mais altos.</p>
+  <p>Também foi gerada uma linha do tempo com médias mensais, indicando variações e picos associados a políticas internas ou épocas do ano.</p>
+  <p>Cruzamentos entre categorias e perfis de motoristas revelaram padrões de reincidência e associação entre perfis e tipos de eventos.</p>
+  <p>Destacaram-se motoristas com elevado número de ocorrências, sugerindo foco futuro em ações corretivas personalizadas.</p>
+  <p>Por fim, foi elaborado um gráfico de impacto acumulado, destacando quais tipos de eventos mais impactam a pontuação geral dos motoristas (ver Figura 9).</p>
+
+  <figure>
+    <img src="figuras/fluxograma.png" alt="Fluxograma do Estudo">
+    <figcaption>Figura 1 - Fluxograma das etapas do estudo, resultados e conclusões.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_1.png" alt="Histogramas">
+    <figcaption>Figura 2 - Histogramas das pontuações de atualização e comitê.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_2.png" alt="Boxplot">
+    <figcaption>Figura 3 - Boxplot da pontuação por tipo de ocorrência.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_3.png" alt="Frequência">
+    <figcaption>Figura 4 - Frequência das ocorrências mais comuns.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_4.png" alt="Quartis por descrição">
+    <figcaption>Figura 5 - Distribuição por quartis nas principais ocorrências.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_5.png" alt="Linha do tempo">
+    <figcaption>Figura 6 - Evolução da média de pontuação por mês.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_6.png" alt="Correlação">
+    <figcaption>Figura 7 - Mapa de calor com correlação entre pontuações.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_7.png" alt="Dispersão">
+    <figcaption>Figura 8 - Dispersão entre pontuação de atualização e comitê.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_10.png" alt="Top Motoristas">
+    <figcaption>Figura 9 - Top 20 motoristas com maior número de ocorrências.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="figuras/figura_11.png" alt="Cascata">
+    <figcaption>Figura 10 - Impacto acumulado da pontuação por tipo de evento.</figcaption>
+  </figure>
+
+  <h2>3. Análise e Discussão</h2>
+
+  <p>A análise mostrou que o sistema atual de pontuação apresenta inconsistências importantes. Eventos graves às vezes recebem pontuação zero, enquanto revisões por comitês seguem critérios variáveis.</p>
+  <p>Eventos administrativos como "Enviado para comitê" têm impacto significativo, mas nem sempre são contabilizados formalmente, o que dificulta a avaliação justa do motorista.</p>
+  <p>Observou-se que a reincidência em ocorrências específicas não é considerada como agravante, apesar de indicar padrão comportamental problemático.</p>
+  <p>Esses pontos sugerem a necessidade de revisões estruturais nas regras de pontuação e nos mecanismos de revisão institucional.</p>
+
+  <h2>4. Conclusão</h2>
+
+  <p>O estudo reforça a importância de usar os dados já disponíveis para melhorar o sistema de avaliação. O volume e a profundidade dos registros permitem diagnósticos muito ricos.</p>
+  <p>Conclui-se que, com ajustes nas regras, padronização de revisões e acompanhamento de reincidências, a plataforma pode evoluir para um modelo mais justo, transparente e eficiente.</p>
+
+</body>
+</html>
