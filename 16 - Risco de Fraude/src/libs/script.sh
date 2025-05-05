@@ -1,3 +1,3 @@
-virtualenv ../../.aida_env
-source ../../.aida_env/bin/activate
-../../.aida_env/bin/pip install -r requirements.txt
+virtualenv ../../.fraude_env
+source ../../.fraude_env/bin/activate
+../../.fraude_env/bin/pip install -r requirements.txt

@@ -11,6 +11,7 @@ left join driver_behavior_occurrence_types dbots on dbots.driver_behavior_occurr
 left join driver_behavior_occurrence_type dbot on dbot.id = dbots.driver_behavior_occurrence_type_id
 left join freights f on f.id = dbo.contract_id 
 where dbo.occurrence_status = 'finished'
+and dbo.responsible_sector = 'academy'
 and dbot.description <> 'Pico de velocidade'
 AND dbo.created_at >= CURRENT_DATE - INTERVAL '1 year'
 order by dbo.driver_id asc, dbo.created_at asc

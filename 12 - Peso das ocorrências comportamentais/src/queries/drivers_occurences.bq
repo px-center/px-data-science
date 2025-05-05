@@ -1,0 +1,45 @@
+WITH ocorrencias AS (
+    SELECT
+        dbo.created_at AS occurence_create,
+        f.start_at AS contract_start,
+        dbo.driver_id,
+        dbo.contract_id,
+        dbot.description,
+        dbo.occurrence_status AS observation
+    FROM `px_motorista.driver_behavior_occurrence` dbo
+    LEFT JOIN `px_motorista.driver_behavior_occurrence_types` dbots ON dbots.driver_behavior_occurrence_id = dbo.id
+    LEFT JOIN `px_motorista.driver_behavior_occurrence_type` dbot ON dbot.id = dbots.driver_behavior_occurrence_type_id
+    LEFT JOIN `px_motorista.freights` f ON f.id = dbo.contract_id 
+    WHERE dbo.occurrence_status = 'finished'
+      AND dbo.responsible_sector = 'academy'
+      AND dbot.description <> 'Pico de velocidade'
+      AND dbo.created_at >= CURRENT_DATE - INTERVAL 1 year
+    ORDER BY dbo.driver_id ASC, dbo.created_at ASC
+),
+dias_agenciados AS (
+    SELECT 
+        f.end_at AS occurence_create,
+        f.start_at AS contract_start,
+        f.driver_id,
+        f.id AS contract_id,
+        'Dia agenciado' AS description,
+        CAST(f.contract_days * 5 AS string) AS observation
+    FROM `px_motorista.freights` f
+    WHERE f.status = 300
+      AND f.end_at >= CURRENT_DATE - INTERVAL 1 year
+    ORDER BY f.driver_id ASC, f.start_at ASC
+),
+resultado AS (
+    SELECT * FROM ocorrencias
+    UNION ALL
+    SELECT * FROM dias_agenciados
+)
+SELECT r.* FROM resultado r
+left join `px_motorista.drivers` d on r.driver_id = d.id
+where d.status not in (7, 6)
+ORDER BY r.driver_id ASC, r.occurence_create ASC
+
+
+
+
+

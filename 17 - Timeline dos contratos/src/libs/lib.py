@@ -76,17 +76,6 @@ def load_data_bq():
     # Configurações do pandas
     pd.set_option('display.max_rows', None)
     pd.set_option('display.max_columns', None)
-    dataframes = {}
-    cred_path = ".px-data-science-functions-formal-purpose-354320-07aada286f4e.json"
-    if not os.path.exists(cred_path):
-        raise FileNotFoundError(f"Arquivo de credenciais '{cred_path}' não encontrado.")
-    # print(cred_path)
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = cred_path
-
-
-    # Configuração do cliente do BigQuery
-    client = bigquery.Client()
-
 
     # Configura o cliente BigQuery com o dataset padrão
     client = bigquery.Client()
@@ -94,11 +83,11 @@ def load_data_bq():
     job_config = bigquery.QueryJobConfig(default_dataset=default_dataset)
 
     # Diretório que contém os arquivos SQL
-    queries_path = os.getenv("QUERIES_PATH", "./src/queries/")
+    queries_path = os.getenv("QUERIES_PATH", "src/queries")
 
     # Lista para armazenar os DataFrames
     dfs = []
-    print(queries_path)
+
     try:
         # Verifica se o diretório de queries existe
         if not os.path.isdir(queries_path):
@@ -106,7 +95,7 @@ def load_data_bq():
 
         # Itera sobre os arquivos .sql na pasta
         for query_file in os.listdir(queries_path):
-            if query_file.endswith(".bq"):
+            if query_file.endswith(".sql"):
                 file_path = os.path.join(queries_path, query_file)
                 with open(file_path, 'r') as file:
                     sql_query = file.read()
@@ -117,8 +106,7 @@ def load_data_bq():
 
                     # Converte o resultado para um DataFrame
                     df = query_job.result().to_dataframe()
-                    key = os.path.splitext(query_file)[0]
-                    dataframes[key] = df
+                    dfs.append(df)
 
                     print(f"Query {query_file} executada com sucesso.")
 
@@ -135,11 +123,11 @@ def load_data_bq():
         raise(fnf_error)
 
     # Verifica se há DataFrames carregados
-    if dataframes:
+    if dfs:
         print("Queries executadas com sucesso, DataFrames disponíveis na lista `dfs`.")
     else:
         print("Nenhuma query foi executada com sucesso ou não há arquivos SQL no diretório.")
-    return dataframes
+    return dfs
 
 
 
