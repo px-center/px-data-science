@@ -109,7 +109,7 @@ def executar_codigos(texto, profundidade=0, max_profundidade=50000):
         os.remove(script_temp)
 
     # Recursivamente processar nova resposta
-    executar_codigos(nova_resposta, profundidade=profundidade+1, max_profundidade=max_profundidade)
+    # executar_codigos(nova_resposta, profundidade=profundidade+1, max_profundidade=max_profundidade)
 
 # ───────────────────────────── 3) Estado persistente
 chat             = st.session_state.setdefault("chat", model.start_chat())

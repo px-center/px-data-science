@@ -228,10 +228,10 @@ def executar_codigos(texto, profundidade=0, max_profundidade=50000):
         for sql in sql_blocks:
             messages.append(("execucao", "📦 **Executando bloco SQL...**"))
             try:
-                resultado_sql = run_query(sql.strip())
+                resultado_sql = run_query(sql.strip()).head(100)
                 if isinstance(resultado_sql, pd.DataFrame):
-                    st.dataframe(resultado_sql.head(100))  # head(100) aqui
-                    saida_final += resultado_sql.to_string()
+                    st.dataframe(resultado_sql)  # head(100) aqui
+                    saida_final += resultado_sql.to_string()[:1000]
                 else:
                     st.error(resultado_sql)
                     saida_final += str(resultado_sql)
@@ -284,7 +284,7 @@ if "instrucoes_enviadas" not in st.session_state:
         "Se precisar fazer análises de resultados, seja direto e claro nas instruções.\n"
         "Responda apenas com informações técnicas, evitando floreios, enfeites ou linguagem desnecessária.\n"
         "Seja objetivo, técnico e profissional em todas as respostas."
-        "Usar esta função em python para executar queries: run_query(sql_query: str)"
+        "Para executar as queries usar o códuigo python from src.libs.lib import * \n\n run_query(sql_query: str)"
         "Quando gerar gráficos em python sempre salvar em ./src/data/tmp/"
     )
 

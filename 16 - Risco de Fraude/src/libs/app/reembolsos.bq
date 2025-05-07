@@ -1,0 +1,44 @@
+/*-----------------------------------------------------------
+  BigQuery – Mesmos nomes de colunas originais (com espaços),
+  todas as tabelas no dataset  px_motorista
+-----------------------------------------------------------*/
+WITH reembolso AS (
+  SELECT
+    r.id                         AS `ID do Reembolso`,
+    r.created_at                 AS `Data da criação do reembolso`,
+    r.updated_at                 AS `Data da ultima atualização do reembolso`,
+    r.decided_at                 AS `Data da aprovação ou rejeição do reembolso`,
+    r.status   AS `Status do reembolso`,
+    r.freight_id                 AS `ID do contrato`,
+    r.amount / 100               AS `Valor total do reembolso`,
+    COALESCE(r.reason, '')               AS `Motivo do reembolso`,
+    COALESCE(r.reason_description, '')   AS `Descrição do motivo do reembolso`,
+    r.type                       AS `Tipo do reembolso`,
+    COALESCE(r.description, '')          AS `Descrição do reembolso`
+  FROM `px_motorista.reimbursements` AS r
+  WHERE r.decided_at IS NOT NULL
+),
+
+contract AS (
+  SELECT
+    f.id                         AS `ID do contrato`,
+    f.contract_days              AS `Número de dias agenciados do contrato`,
+    f.price / 100                AS `Valor do contrato`,
+    f.day_of_week                AS `Dia da semana do contrato`,
+    d.id                         AS `ID do motorista`,
+    d.name                       AS `Nome do motorista`,
+    d.service_supplier           AS `Ajudante ou Motorista`,
+    c.name                       AS `Nome da transportadora`
+  FROM `px_motorista.freights`   AS f
+  LEFT JOIN `px_motorista.companies` AS c
+         ON c.id = f.company_id
+  LEFT JOIN `px_motorista.drivers`   AS d
+         ON d.id = f.driver_id
+)
+
+SELECT
+  r.*,
+  c.*
+FROM reembolso AS r
+LEFT JOIN contract AS c
+       ON c.`ID do contrato` = r.`ID do contrato`;

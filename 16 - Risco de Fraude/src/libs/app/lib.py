@@ -4,29 +4,7 @@ import pandas as pd
 from dotenv import load_dotenv, find_dotenv
 import time
 import numpy as np
-from IPython.display import HTML
 
-
-def show(texto):
-    return display(HTML(f"""
-    <div style="
-        background: linear-gradient(135deg, #f5f7fa, #e8ecf0);
-        border-left: 6px solid #4A90E2;
-        border-radius: 10px;
-        padding: 20px;
-        margin: 10px 0;
-        font-family: 'Segoe UI', 'Roboto', sans-serif;
-        font-size: 15px;
-        line-height: 1.6;
-        white-space: pre-wrap;
-        word-break: break-word;
-        color: #333;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-        max-width: 100%;
-    ">
-    {texto}
-    </div>
-    """))
 
 def insert_into_bigquery(
     df,
@@ -98,6 +76,17 @@ def load_data_bq():
     # Configurações do pandas
     pd.set_option('display.max_rows', None)
     pd.set_option('display.max_columns', None)
+    dataframes = {}
+    cred_path = ".px-data-science-functions-formal-purpose-354320-07aada286f4e.json"
+    if not os.path.exists(cred_path):
+        raise FileNotFoundError(f"Arquivo de credenciais '{cred_path}' não encontrado.")
+    # print(cred_path)
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = cred_path
+
+
+    # Configuração do cliente do BigQuery
+    client = bigquery.Client()
+
 
     # Configura o cliente BigQuery com o dataset padrão
     client = bigquery.Client()
@@ -105,11 +94,11 @@ def load_data_bq():
     job_config = bigquery.QueryJobConfig(default_dataset=default_dataset)
 
     # Diretório que contém os arquivos SQL
-    queries_path = os.getenv("QUERIES_PATH", "src/queries")
+    queries_path = os.getenv("QUERIES_PATH", "./")
 
     # Lista para armazenar os DataFrames
     dfs = []
-
+    print(queries_path)
     try:
         # Verifica se o diretório de queries existe
         if not os.path.isdir(queries_path):
@@ -117,7 +106,7 @@ def load_data_bq():
 
         # Itera sobre os arquivos .sql na pasta
         for query_file in os.listdir(queries_path):
-            if query_file.endswith(".sql"):
+            if query_file.endswith(".bq"):
                 file_path = os.path.join(queries_path, query_file)
                 with open(file_path, 'r') as file:
                     sql_query = file.read()
@@ -128,7 +117,8 @@ def load_data_bq():
 
                     # Converte o resultado para um DataFrame
                     df = query_job.result().to_dataframe()
-                    dfs.append(df)
+                    key = os.path.splitext(query_file)[0]
+                    dataframes[key] = df
 
                     print(f"Query {query_file} executada com sucesso.")
 
@@ -145,57 +135,12 @@ def load_data_bq():
         raise(fnf_error)
 
     # Verifica se há DataFrames carregados
-    if dfs:
+    if dataframes:
         print("Queries executadas com sucesso, DataFrames disponíveis na lista `dfs`.")
     else:
         print("Nenhuma query foi executada com sucesso ou não há arquivos SQL no diretório.")
-    return dfs
+    return dataframes
 
-def run_query(sql_query: str):
-    """
-    Executa uma query SQL arbitrária no banco de dados PostgreSQL e retorna um DataFrame com os resultados.
-    
-    Parâmetros:
-    - sql_query (str): consulta SQL a ser executada.
-
-    Retorno:
-    - pd.DataFrame: DataFrame com os resultados da query.
-    """
-    import os
-    import pandas as pd
-    import psycopg2
-    from dotenv import load_dotenv, find_dotenv
-
-    # Carrega variáveis de ambiente
-    load_dotenv(find_dotenv())
-    host = os.getenv("DB_URL")
-    port = os.getenv("DB_PORT")
-    dbname = os.getenv("DB_NAME")
-    user = os.getenv("DB_USER")
-    password = os.getenv("DB_PASSWORD")
-
-    conn_string = f"host={host} port={port} dbname={dbname} user={user} password={password}"
-
-    try:
-        # Conecta ao banco
-        conn = psycopg2.connect(conn_string)
-        cursor = conn.cursor()
-        
-        # Executa a query
-        cursor.execute(sql_query)
-        records = cursor.fetchall()
-        col_names = [desc[0] for desc in cursor.description]
-
-        # Constrói DataFrame
-        df = pd.DataFrame(records, columns=col_names).head(100)
-
-        cursor.close()
-        conn.close()
-        return df
-
-    except Exception as e:
-        print("Erro ao executar a query:", e)
-        return pd.DataFrame()
 
 
 import os
