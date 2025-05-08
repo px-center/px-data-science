@@ -1,0 +1,1 @@
+select id as contract_id, description from freights f  
