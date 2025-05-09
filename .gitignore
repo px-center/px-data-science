@@ -1,6 +1,5 @@
 # Ignora todos os arquivos e pastas ocultos
 .*
-**/data/
 **/*.json
 **/*.zip
 **/*.mp4
